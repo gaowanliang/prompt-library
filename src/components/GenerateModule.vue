@@ -43,7 +43,13 @@
 <script lang="ts">
 import { defineComponent, ref, h, computed, onMounted, onBeforeUnmount } from 'vue'
 import type { Component } from 'vue'
+import type { TagDB } from '../types';
+
 import tagDB from '../content/tag.json';
+
+
+const typedTagDB = tagDB as TagDB;
+
 
 import { useTagStore } from '../utils/useTagStore';
 
@@ -182,8 +188,8 @@ export default defineComponent({
         const { selectedTags, toggleTag, isTagChecked } = useTagStore();
 
         const currentTags = computed(() => {
-            const normalTags = tagDB[currentCategory.value]?.normal || {};
-            const r18Tags = r18Active.value ? tagDB[currentCategory.value]?.r18 || {} : {};
+            const normalTags = typedTagDB[currentCategory.value]?.normal || {};
+            const r18Tags = r18Active.value ? typedTagDB[currentCategory.value]?.r18 || {} : {};
 
             // 合并 normal 和 r18 标签
             const mergedTags = { ...normalTags };

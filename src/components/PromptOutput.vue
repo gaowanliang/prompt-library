@@ -14,8 +14,8 @@
     <n-card class="card" size="small" style="margin-top: 10px;">
       <n-gradient-text type="info" style="margin-bottom: 10px"> 正向Prompt </n-gradient-text>
       <VueDraggable ref="el" v-model="list" animation="20" v-if="list.length > 0">
-        <n-badge v-for="tag in list" :key="tag.en" :value="tag.weight.toString()" :show="tag.weight !== 1"
-          :offset="offset">
+        <n-badge v-for="tag in list as TagWithWeight[]" :key="tag.en" :value="tag.weight.toString()"
+          :show="tag.weight !== 1" :offset="offset">
           <n-tag type="success" closable style="padding: 20px 10px; margin: 5px;" @click="selectTag(tag)"
             @close="removeTag(tag)">
             <div style="font-weight: bold;"> {{ tag.en }} </div>
@@ -57,6 +57,7 @@ import { defineComponent, ref, computed, toRaw } from 'vue';
 import { useTagStore } from '../utils/useTagStore';
 import { NCard, NButton, NGradientText, NTag, NBadge, NInputNumber, NAlert, NResult } from 'naive-ui';
 import { VueDraggable } from 'vue-draggable-plus';
+import type { TagWithWeight } from '../types';
 
 export default defineComponent({
   name: 'PromptOutput',
@@ -73,18 +74,18 @@ export default defineComponent({
   },
   setup() {
     const { selectedTags, removeTag, updateTagWeight } = useTagStore();
-    const selectedTag = ref(null);
+    const selectedTag = ref<TagWithWeight | null>(null);
     const selectedTagWeight = ref(1);
     const list = ref(selectedTags);
     const outputPromptText = ref('');
 
-    const selectTag = (tag) => {
+    const selectTag = (tag: TagWithWeight) => {
       selectedTag.value = tag;
       selectedTagWeight.value = tag.weight;
     };
 
-    const updateWeight = (newWeight) => {
-      if (selectedTag.value) {
+    const updateWeight = (newWeight: number | null) => {
+      if (selectedTag.value && newWeight !== null) {
         selectedTagWeight.value = newWeight;
         updateTagWeight(selectedTag.value, newWeight);
       }
@@ -93,7 +94,7 @@ export default defineComponent({
     const computedWeight = computed(() => selectedTagWeight.value);
 
     const copyPositivePrompt = () => {
-      const tags = Array.from(list.value);
+      const tags = Array.from(list.value as TagWithWeight[]);
       console.log(selectedTags.value);
 
       var promptText = "";
@@ -106,8 +107,6 @@ export default defineComponent({
       navigator.clipboard.writeText(promptText).then(() => {
         console.log(promptText);
       });
-
-
     };
 
 
@@ -121,7 +120,7 @@ export default defineComponent({
       updateWeight,
       offset: [-10, 8] as const,
       copyPositivePrompt,
-      outputPromptText
+      outputPromptText,
     };
   },
 });

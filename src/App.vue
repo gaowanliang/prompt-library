@@ -2,13 +2,14 @@
   <n-config-provider :theme="theme">
     <n-message-provider>
       <GeneratorPage />
+      <n-global-style />
     </n-message-provider>
   </n-config-provider>
 </template>
 
 <script lang="ts">
 import { computed, defineComponent } from 'vue'
-import { NMessageProvider, NConfigProvider, useOsTheme, darkTheme } from 'naive-ui'
+import { NMessageProvider, NConfigProvider, useOsTheme, darkTheme, NGlobalStyle } from 'naive-ui'
 import GeneratorPage from './components/GeneratorPage.vue'
 
 export default defineComponent({
@@ -16,7 +17,8 @@ export default defineComponent({
   components: {
     GeneratorPage,
     NMessageProvider,
-    NConfigProvider
+    NConfigProvider,
+    NGlobalStyle
   },
   setup() {
     const osThemeRef = useOsTheme()
@@ -45,6 +47,9 @@ body,
 body {
   overflow: auto;
   -webkit-font-smoothing: antialiased;
+  background-color: var(--n-color);
+
+
 }
 
 a {
