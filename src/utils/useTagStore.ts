@@ -1,9 +1,10 @@
 import { ref } from 'vue';
+import type { Tag, TagWithWeight } from '@/types';
 
-const selectedTags = ref([]);
+const selectedTags = ref<TagWithWeight[]>([]);
 
 export function useTagStore() {
-    const addTag = (tag) => {
+    const addTag = (tag: Tag) => {
         // 通过 en 和 zh 字段判断标签是否已存在
         const existingTag = selectedTags.value.find(t => t.en === tag.en && t.zh === tag.zh);
         if (!existingTag) {
@@ -11,12 +12,12 @@ export function useTagStore() {
         }
     };
 
-    const removeTag = (tag) => {
+    const removeTag = (tag: Tag) => {
         // 基于 en 和 zh 字段删除标签
         selectedTags.value = selectedTags.value.filter(t => !(t.en === tag.en && t.zh === tag.zh));
     };
 
-    const toggleTag = (tag) => {
+    const toggleTag = (tag: Tag) => {
         const existingTag = selectedTags.value.find(t => t.en === tag.en && t.zh === tag.zh);
         if (existingTag) {
             removeTag(tag);
@@ -25,12 +26,12 @@ export function useTagStore() {
         }
     };
 
-    const isTagChecked = (tag) => {
+    const isTagChecked = (tag: Tag) => {
         // 检查标签是否存在
         return selectedTags.value.some(t => t.en === tag.en && t.zh === tag.zh);
     };
 
-    const updateTagWeight = (tag, weight) => {
+    const updateTagWeight = (tag: Tag, weight: number) => {
         selectedTags.value = selectedTags.value.map(t => t.en === tag.en && t.zh === tag.zh ? { ...t, weight } : t);
     };
 
