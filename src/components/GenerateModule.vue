@@ -3,7 +3,7 @@
         <div style="display: flex; justify-content: space-between; align-items: center;">
             <n-gradient-text size="24" style="margin-bottom: 10px; display: inline-block; font-weight: bold;"> 自选菜区
             </n-gradient-text>
-            <n-switch v-model:value="r18Active" size="medium" style="display: inline-block;">
+            <n-switch v-model:value="isNSFW" size="medium" style="display: inline-block;">
                 <template #icon>
                     🔞
                 </template>
@@ -15,7 +15,19 @@
                 </template>
             </n-switch>
         </div>
-        <n-space vertical>
+        <n-input-group style="display: block; width: 100%; margin-bottom: 10px;">
+            <n-input :style="{ width: '80%' }" clearable v-model:value="promptCustomContent">
+                <template #prefix>
+                    <n-gradient-text style="font-weight: bold;" type="info">
+                        自定义Prompt：
+                    </n-gradient-text>
+                </template>
+            </n-input>
+            <n-button :style="{ width: '20%' }" type="primary" @click="addOwnPrompt">
+                添加
+            </n-button>
+        </n-input-group>
+        <n-space vertical v-if="isDesktop">
             <n-layout has-sider>
                 <n-layout-sider bordered collapse-mode="width" :collapsed-width="64" :width="240" show-trigger>
                     <n-menu :collapsed-width="64" :collapsed-icon-size="22" :options="menuOptions"
@@ -36,6 +48,24 @@
                 </n-layout>
             </n-layout>
         </n-space>
+        <n-space vertical v-else>
+            <n-scrollbar x-scrollable style="padding: 10px 0;">
+                <n-menu mode="horizontal" :options="menuOptions" @update:value="handleMenuSelect" responsive />
+            </n-scrollbar>
+            <n-card v-for="(tags, title) in currentTags" :key="title" size="small" style="margin-bottom: 10px;">
+                <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title !== 'default'
+                    ?
+                    title : '' }}
+                </n-gradient-text>
+
+                <n-tag size="small" class="v-border small" v-for="tag in tags" :key="tag.en" checkable
+                    :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
+                    <div style="font-weight: bold; font-size: 12px;"> {{ tag.en }} </div>
+                    <div style="font-size: 8px; margin-top:3px;"> {{ tag.zh }} </div>
+                </n-tag>
+            </n-card>
+        </n-space>
+
     </n-card>
 </template>
 
@@ -47,8 +77,9 @@ import type { TagDB } from '../types';
 
 import tagDB from '../content/tag.json';
 
-
 const typedTagDB = tagDB as TagDB;
+
+const promptCustomContent = ref('')
 
 
 import { useTagStore } from '../utils/useTagStore';
@@ -88,7 +119,11 @@ import {
     NLayoutSider,
     NTag,
     NGradientText,
-    NSwitch
+    NSwitch,
+    NScrollbar,
+    NInputGroup,
+    NInput,
+    NButton
 
 } from 'naive-ui'
 
@@ -169,6 +204,17 @@ const menuOptions = [
     },
 ];
 
+// 屏幕宽度
+const windowWidth = ref(window.innerWidth)
+// 屏幕高度
+
+// 获取屏幕尺寸
+const getWindowResize = function () {
+    windowWidth.value = window.innerWidth
+}
+
+
+
 export default defineComponent({
     name: 'TagModule',
 
@@ -180,16 +226,27 @@ export default defineComponent({
         NLayoutSider,
         NTag,
         NGradientText,
-        NSwitch
+        NSwitch,
+        NScrollbar,
+        NInputGroup,
+        NInput,
+        NButton
+
     },
+
     setup() {
-        const r18Active = ref(false);
+        onMounted(() => {
+            getWindowResize(); // 初始化时获取一次屏幕尺寸
+            window.addEventListener('resize', getWindowResize);
+        });
+
+
         const currentCategory = ref('start');
-        const { selectedTags, toggleTag, isTagChecked } = useTagStore();
+        const { isNSFW, toggleTag, isTagChecked, addTag } = useTagStore();
 
         const currentTags = computed(() => {
             const normalTags = typedTagDB[currentCategory.value]?.normal || {};
-            const r18Tags = r18Active.value ? typedTagDB[currentCategory.value]?.r18 || {} : {};
+            const r18Tags = isNSFW.value ? typedTagDB[currentCategory.value]?.r18 || {} : {};
 
             // 合并 normal 和 r18 标签
             const mergedTags = { ...normalTags };
@@ -207,6 +264,13 @@ export default defineComponent({
             return mergedTags;
         });
 
+        const addOwnPrompt = () => {
+            addTag({
+                en: promptCustomContent.value,
+                zh: '-',
+            });
+        };
+
         const handleMenuSelect = (key: string) => {
             currentCategory.value = key;
         };
@@ -215,10 +279,13 @@ export default defineComponent({
             menuOptions,
             currentCategory,
             currentTags,
-            r18Active,
+            isNSFW,
+            promptCustomContent,
+            isDesktop: computed(() => windowWidth.value > 768),
             isTagChecked,
             toggleTag,
             handleMenuSelect,
+            addOwnPrompt
         };
     }
 });
@@ -267,5 +334,9 @@ export default defineComponent({
     border-radius: 5px;
     padding: 20px 10px;
     margin: 5px;
+}
+
+.small {
+    padding: 15px 5px;
 }
 </style>

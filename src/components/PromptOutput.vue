@@ -8,8 +8,6 @@
         target="_blank" type="primary">
         进群反馈: 785103637
       </n-button>
-      <br />
-      该版本暂未对移动端进行深度适配，建议使用PC端浏览器，可以进群关注最新动态。
     </n-alert>
     <n-card class="card" size="small" style="margin-top: 10px;">
       <n-gradient-text type="info" style="margin-bottom: 10px"> 正向Prompt </n-gradient-text>
@@ -43,10 +41,10 @@
     </div>
 
     <div style="display: flex; padding-top: 15px; justify-content: flex-end">
-      <n-button style="margin-right: 15px"> 复制反向Prompt </n-button>
+      <n-button style="margin-right: 15px" @click="copyNegativePrompt"> 复制反向Prompt </n-button>
       <n-button type="primary" style="margin-bottom: 15px" @click="copyPositivePrompt"> 复制正向Prompt </n-button>
     </div>
-    <n-alert title="正向Prompt已复制" type="success" v-if="outputPromptText != ''">
+    <n-alert :title='(isNegativeOutput ? "反向Prompt" : "正向Prompt") + "已复制"' type="success" v-if="outputPromptText != ''">
       {{ outputPromptText }}
     </n-alert>
   </n-card>
@@ -73,11 +71,13 @@ export default defineComponent({
     VueDraggable,
   },
   setup() {
-    const { selectedTags, removeTag, updateTagWeight } = useTagStore();
+    const { selectedTags, isNSFW, removeTag, updateTagWeight } = useTagStore();
     const selectedTag = ref<TagWithWeight | null>(null);
     const selectedTagWeight = ref(1);
     const list = ref(selectedTags);
     const outputPromptText = ref('');
+
+    const isNegativeOutput = ref(false);
 
     const selectTag = (tag: TagWithWeight) => {
       selectedTag.value = tag;
@@ -94,6 +94,7 @@ export default defineComponent({
     const computedWeight = computed(() => selectedTagWeight.value);
 
     const copyPositivePrompt = () => {
+      isNegativeOutput.value = false;
       const tags = Array.from(list.value as TagWithWeight[]);
       console.log(selectedTags.value);
 
@@ -103,6 +104,18 @@ export default defineComponent({
       });
       promptText = promptList.join(', ');
 
+      outputPromptText.value = promptText;
+      navigator.clipboard.writeText(promptText).then(() => {
+        console.log(promptText);
+      });
+    };
+
+    const copyNegativePrompt = () => {
+      isNegativeOutput.value = true;
+      var promptText = "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet"
+      if (!isNSFW.value) {
+        promptText = "nsfw, " + promptText;
+      }
       outputPromptText.value = promptText;
       navigator.clipboard.writeText(promptText).then(() => {
         console.log(promptText);
@@ -121,6 +134,8 @@ export default defineComponent({
       offset: [-10, 8] as const,
       copyPositivePrompt,
       outputPromptText,
+      copyNegativePrompt,
+      isNegativeOutput,
     };
   },
 });

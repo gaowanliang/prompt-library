@@ -17,6 +17,7 @@
         {{ new Date().getFullYear() }} , All Rights Reserved
       </h5>
     </n-layout>
+    <n-back-top :right="100" />
   </n-config-provider>
 </template>
 
@@ -28,7 +29,8 @@ import {
   type GlobalThemeOverrides,
   zhCN,
   NGrid,
-  NGridItem
+  NGridItem,
+  NBackTop
 } from 'naive-ui'
 import PageHead from './PageHead.vue'
 import GenerateModule from './GenerateModule.vue'
@@ -43,6 +45,7 @@ export default defineComponent({
     GenerateModule,
     NGrid,
     NGridItem,
+    NBackTop,
     PromptOutput
   },
   setup: () => {

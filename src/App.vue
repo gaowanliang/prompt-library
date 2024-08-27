@@ -18,7 +18,7 @@ export default defineComponent({
     GeneratorPage,
     NMessageProvider,
     NConfigProvider,
-    NGlobalStyle
+    NGlobalStyle,
   },
   setup() {
     const osThemeRef = useOsTheme()
