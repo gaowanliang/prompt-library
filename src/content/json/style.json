@@ -6,164 +6,8 @@
                 "zh": "写实"
             },
             {
-                "en": "photo",
-                "zh": "照片"
-            },
-            {
-                "en": "real",
-                "zh": "真实"
-            },
-            {
-                "en": "personification",
-                "zh": "拟人"
-            },
-            {
-                "en": "pixel_art",
-                "zh": "点阵图"
-            },
-            {
-                "en": "monochrome",
-                "zh": "单色图片"
-            },
-            {
-                "en": "colorful",
-                "zh": "色彩斑斓的"
-            },
-            {
-                "en": "optical_illusion",
-                "zh": "视觉错误"
-            },
-            {
-                "en": "sketch",
-                "zh": "素描"
-            },
-            {
-                "en": "traditional_media",
-                "zh": "传统媒体（基本上是手绘稿）"
-            },
-            {
-                "en": "silhouette",
-                "zh": "剪影"
-            },
-            {
-                "en": "anime coloring",
-                "zh": "动画上色"
-            },
-            {
-                "en": "cel shading",
-                "zh": "卡通渲染"
-            },
-            {
-                "en": "gradient",
-                "zh": "渐变色"
-            },
-            {
-                "en": "ff gradient",
-                "zh": "最终幻想式渐变"
-            },
-            {
-                "en": "high contrast",
-                "zh": "高对比度"
-            },
-            {
-                "en": "inverted colors",
-                "zh": "色彩反转"
-            },
-            {
-                "en": "limited palette",
-                "zh": "色块风格"
-            },
-            {
-                "en": "greyscale",
-                "zh": "纯黑白色/黑白照片化/灰度"
-            },
-            {
-                "en": "greyscale with colored background",
-                "zh": "黑白角色与有色背景"
-            },
-            {
-                "en": "colored with greyscale background",
-                "zh": "有色角色与黑白背景"
-            },
-            {
-                "en": "partially colored",
-                "zh": "部分上色"
-            },
-            {
-                "en": "muted color",
-                "zh": "哑光"
-            },
-            {
-                "en": "neon palette",
-                "zh": "霓虹色彩"
-            },
-            {
-                "en": "pale color",
-                "zh": "苍白的颜色"
-            },
-            {
-                "en": "pastel colors",
-                "zh": "柔和色彩"
-            },
-            {
-                "en": "sepia",
-                "zh": "深棕色/乌贼墨色"
-            },
-            {
-                "en": "color connection",
-                "zh": "色彩关联"
-            },
-            {
-                "en": "colorized",
-                "zh": "上色"
-            },
-            {
-                "en": "spot color",
-                "zh": "黑白画中的少量颜色"
-            },
-            {
-                "en": "glitch",
-                "zh": "画面噪点"
-            },
-            {
-                "en": "isometric",
-                "zh": "等轴图"
-            },
-            {
                 "en": "3d",
                 "zh": "3D"
-            },
-            {
-                "en": "lineart",
-                "zh": "线条艺术"
-            },
-            {
-                "en": "no lineart",
-                "zh": "几乎没用勾线的画"
-            },
-            {
-                "en": "outline",
-                "zh": "角色形象有描边"
-            },
-            {
-                "en": "oekaki",
-                "zh": "简朴的画作"
-            },
-            {
-                "en": "pixel art",
-                "zh": "像素风"
-            },
-            {
-                "en": "tegaki",
-                "zh": "来自 tegaki 博客"
-            },
-            {
-                "en": "vector trace",
-                "zh": "矢量画"
-            },
-            {
-                "en": "hatching (texture)",
-                "zh": "线影法(纹理)"
             },
             {
                 "en": "abstract",
@@ -174,6 +18,10 @@
                 "zh": "阿尔丰斯·慕夏"
             },
             {
+                "en": "anime coloring",
+                "zh": "动画上色"
+            },
+            {
                 "en": "art deco",
                 "zh": "装饰艺术"
             },
@@ -182,8 +30,28 @@
                 "zh": "新艺术"
             },
             {
+                "en": "cel shading",
+                "zh": "卡通渲染"
+            },
+            {
+                "en": "color connection",
+                "zh": "色彩关联"
+            },
+            {
                 "en": "color trace",
                 "zh": "原画"
+            },
+            {
+                "en": "colored with greyscale background",
+                "zh": "有色角色与黑白背景"
+            },
+            {
+                "en": "colorful",
+                "zh": "色彩斑斓的"
+            },
+            {
+                "en": "colorized",
+                "zh": "上色"
             },
             {
                 "en": "cyberpunk",
@@ -198,36 +66,156 @@
                 "zh": "仿手绘"
             },
             {
+                "en": "ff gradient",
+                "zh": "最终幻想式渐变"
+            },
+            {
                 "en": "flat color",
                 "zh": "平涂风格"
+            },
+            {
+                "en": "glitch",
+                "zh": "画面噪点"
+            },
+            {
+                "en": "gradient",
+                "zh": "渐变色"
+            },
+            {
+                "en": "greyscale",
+                "zh": "纯黑白色/黑白照片化/灰度"
+            },
+            {
+                "en": "greyscale with colored background",
+                "zh": "黑白角色与有色背景"
+            },
+            {
+                "en": "hatching (texture)",
+                "zh": "线影法(纹理)"
+            },
+            {
+                "en": "high contrast",
+                "zh": "高对比度"
             },
             {
                 "en": "impressionism",
                 "zh": "印象派"
             },
             {
+                "en": "inverted colors",
+                "zh": "色彩反转"
+            },
+            {
+                "en": "isometric",
+                "zh": "等轴图"
+            },
+            {
                 "en": "ligne claire",
                 "zh": "白描"
+            },
+            {
+                "en": "limited palette",
+                "zh": "色块风格"
+            },
+            {
+                "en": "lineart",
+                "zh": "线条艺术"
             },
             {
                 "en": "minimalism",
                 "zh": "极简主义"
             },
             {
+                "en": "monochrome",
+                "zh": "单色图片"
+            },
+            {
+                "en": "muted color",
+                "zh": "哑光"
+            },
+            {
+                "en": "neon palette",
+                "zh": "霓虹色彩"
+            },
+            {
                 "en": "nihonga",
                 "zh": "日本画"
+            },
+            {
+                "en": "no lineart",
+                "zh": "几乎没用勾线的画"
+            },
+            {
+                "en": "oekaki",
+                "zh": "简朴的画作"
+            },
+            {
+                "en": "optical_illusion",
+                "zh": "视觉错误"
+            },
+            {
+                "en": "outline",
+                "zh": "角色形象有描边"
+            },
+            {
+                "en": "pale color",
+                "zh": "苍白的颜色"
+            },
+            {
+                "en": "partially colored",
+                "zh": "部分上色"
             },
             {
                 "en": "pastel color",
                 "zh": "粉彩"
             },
             {
+                "en": "pastel colors",
+                "zh": "柔和色彩"
+            },
+            {
+                "en": "personification",
+                "zh": "拟人"
+            },
+            {
+                "en": "photo",
+                "zh": "照片"
+            },
+            {
                 "en": "photorealistic",
                 "zh": "很像照片的画"
             },
             {
+                "en": "pixel art",
+                "zh": "像素风"
+            },
+            {
+                "en": "pixel_art",
+                "zh": "点阵图"
+            },
+            {
+                "en": "real",
+                "zh": "真实"
+            },
+            {
                 "en": "retro artstyle",
                 "zh": "赛璐璐/复古艺术"
+            },
+            {
+                "en": "sepia",
+                "zh": "深棕色/乌贼墨色"
+            },
+            {
+                "en": "silhouette",
+                "zh": "剪影"
+            },
+            {
+                "en": "sketch",
+                "zh": "素描"
+            },
+            {
+                "en": "spot color",
+                "zh": "黑白画中的少量颜色"
             },
             {
                 "en": "style parody",
@@ -242,8 +230,16 @@
                 "zh": "怪诞的/超现实主义"
             },
             {
+                "en": "tegaki",
+                "zh": "来自 tegaki 博客"
+            },
+            {
                 "en": "traditional media",
                 "zh": "手绘"
+            },
+            {
+                "en": "traditional_media",
+                "zh": "传统媒体（基本上是手绘稿）"
             },
             {
                 "en": "ukiyo-e",
@@ -256,506 +252,32 @@
             {
                 "en": "variations",
                 "zh": "(变装、变化、变色、成长)对比图"
-            }
-        ],
-        "背景类型": [
-            {
-                "en": "transparent_background",
-                "zh": "透明的背景(.png)"
-            },
-            {
-                "en": "simple_background",
-                "zh": "简单的背景(无背景)"
-            },
-            {
-                "en": "gradient_background",
-                "zh": "渐变的背景"
-            }
-        ],
-        "角色属性": [
-            {
-                "en": "adapted costume",
-                "zh": "原设服装改编"
-            },
-            {
-                "en": "alternate costume",
-                "zh": "角色换装"
-            },
-            {
-                "en": "alternate headwear",
-                "zh": "与原设不同头饰变化"
-            },
-            {
-                "en": "alternate weapon",
-                "zh": "与原设不同武器变化"
-            },
-            {
-                "en": "headwear switch",
-                "zh": "头饰互换"
-            },
-            {
-                "en": "no eyewear",
-                "zh": "去掉了(原设有的)眼镜"
-            },
-            {
-                "en": "no headwear",
-                "zh": "去掉了(原设有的)头饰"
-            },
-            {
-                "en": "costume switch",
-                "zh": "服饰互换"
-            },
-            {
-                "en": "contemporary",
-                "zh": "现代改编"
-            },
-            {
-                "en": "costume combination",
-                "zh": "服装组合"
-            },
-            {
-                "en": "alternate breast size",
-                "zh": "贫乳化/爆乳化"
-            },
-            {
-                "en": "alternate wings",
-                "zh": "与原设不同翅膀"
-            },
-            {
-                "en": "alternate skin color",
-                "zh": "与原设不同肤色变化"
-            },
-            {
-                "en": "no fire",
-                "zh": "无火化"
-            },
-            {
-                "en": "no horn",
-                "zh": "无角化"
-            },
-            {
-                "en": "no tail",
-                "zh": "无尾化"
-            },
-            {
-                "en": "no wings",
-                "zh": "去掉了(原设有的)翅膀"
-            },
-            {
-                "en": "no animal ears",
-                "zh": "去掉了(原设有的)兽耳"
-            },
-            {
-                "en": "no mask",
-                "zh": "去掉了(原设有的)面具"
-            },
-            {
-                "en": "alternate hair color",
-                "zh": "与原设不同发色变化"
-            },
-            {
-                "en": "alternate hairstyle",
-                "zh": "与原设不同发型变化"
-            },
-            {
-                "en": "hair down",
-                "zh": "披下来的头发"
-            },
-            {
-                "en": "hair up",
-                "zh": "盘起来的头发"
-            },
-            {
-                "en": "alternate hair length",
-                "zh": "与原设不同头发长度变化"
-            },
-            {
-                "en": "alternate eye color",
-                "zh": "与原设不同瞳色"
-            },
-            {
-                "en": "unusually open eyes",
-                "zh": "(与原设不同)睁眼"
-            },
-            {
-                "en": "out of character",
-                "zh": "不符角色原本性格"
-            },
-            {
-                "en": "personality switch",
-                "zh": "人格替换"
-            },
-            {
-                "en": "role reversal",
-                "zh": "角色转换"
-            },
-            {
-                "en": "dark persona",
-                "zh": "黑化"
-            },
-            {
-                "en": "light persona",
-                "zh": "美化"
-            },
-            {
-                "en": "alternate color",
-                "zh": "异色"
-            },
-            {
-                "en": "alternate element",
-                "zh": "与原设不同元素"
-            },
-            {
-                "en": "palette swap",
-                "zh": "色调互换"
-            },
-            {
-                "en": "player 2",
-                "zh": "2P玩家角色风格颜色替换"
-            }
-        ],
-        "颜色主题": [
-            {
-                "en": "aqua theme",
-                "zh": "水蓝色"
-            },
-            {
-                "en": "black theme",
-                "zh": "黑色主题"
-            },
-            {
-                "en": "blue theme",
-                "zh": "蓝色"
-            },
-            {
-                "en": "brown theme",
-                "zh": "棕色主题"
-            },
-            {
-                "en": "green theme",
-                "zh": "绿色主题"
-            },
-            {
-                "en": "grey theme",
-                "zh": "灰色"
-            },
-            {
-                "en": "orange theme",
-                "zh": "橙色"
-            },
-            {
-                "en": "pink theme",
-                "zh": "粉色主题"
-            },
-            {
-                "en": "purple theme",
-                "zh": "紫色"
-            },
-            {
-                "en": "red theme",
-                "zh": "红色/红色主题"
-            },
-            {
-                "en": "white theme",
-                "zh": "白色主题"
-            },
-            {
-                "en": "yellow theme",
-                "zh": "黄色主题"
-            },
-            {
-                "en": "rainbow",
-                "zh": "彩虹"
-            },
-            {
-                "en": "rainbow order",
-                "zh": "彩虹色序排列"
-            }
-        ],
-        "构成": [
-            {
-                "en": "column_lineup",
-                "zh": "一列列小图组成大图"
-            },
-            {
-                "en": "zoom_layer",
-                "zh": "背景是前景的放大版"
-            },
-            {
-                "en": "afterimage",
-                "zh": "残像"
-            },
-            {
-                "en": "border",
-                "zh": "边框"
-            },
-            {
-                "en": "framed",
-                "zh": "画框"
-            },
-            {
-                "en": "outside border",
-                "zh": "一部分画到了背景框外面"
-            },
-            {
-                "en": "fading border",
-                "zh": "褪色边框"
-            },
-            {
-                "en": "rounded corners",
-                "zh": "背景或画框是圆角"
-            },
-            {
-                "en": "viewfinder",
-                "zh": "相机取景框"
-            },
-            {
-                "en": "chart",
-                "zh": "图表"
-            },
-            {
-                "en": "bust chart",
-                "zh": "胸围图"
-            },
-            {
-                "en": "character chart",
-                "zh": "人设图"
-            },
-            {
-                "en": "reference sheet",
-                "zh": "设定图"
-            },
-            {
-                "en": "diagram",
-                "zh": "图表"
-            },
-            {
-                "en": "move chart",
-                "zh": "动作演示图"
-            },
-            {
-                "en": "relationship graph",
-                "zh": "关系表"
-            },
-            {
-                "en": "seating chart",
-                "zh": "座次表"
-            },
-            {
-                "en": "stats",
-                "zh": "属性栏/状态表"
-            },
-            {
-                "en": "collage",
-                "zh": "拼贴画"
-            },
-            {
-                "en": "column lineup",
-                "zh": "小图拼接"
-            },
-            {
-                "en": "cropped",
-                "zh": "遭到裁剪"
-            },
-            {
-                "en": "fake scrollbar",
-                "zh": "假的滚动条"
-            },
-            {
-                "en": "head out of frame",
-                "zh": "头部脱框"
-            },
-            {
-                "en": "out of frame",
-                "zh": "脱框"
-            },
-            {
-                "en": "feet out of frame",
-                "zh": "脚部脱框"
-            },
-            {
-                "en": "letterboxed",
-                "zh": "宽银幕格式"
-            },
-            {
-                "en": "pillarboxed",
-                "zh": "柱状画布背景"
-            },
-            {
-                "en": "lineup",
-                "zh": "一排人"
-            },
-            {
-                "en": "mosaic art",
-                "zh": "马赛克艺术"
-            },
-            {
-                "en": "photomosaic",
-                "zh": "马赛克拼图"
-            },
-            {
-                "en": "negative space",
-                "zh": "大量留白"
-            },
-            {
-                "en": "partially underwater shot",
-                "zh": "部分水下拍摄"
-            },
-            {
-                "en": "social media composition",
-                "zh": "社交媒体整合"
-            },
-            {
-                "en": "symmetry",
-                "zh": "左右对称"
-            },
-            {
-                "en": "polar opposites",
-                "zh": "两极对称"
-            },
-            {
-                "en": "rotational symmetry",
-                "zh": "对称旋转/《少女革命》女同转圈圈"
-            },
-            {
-                "en": "tachi-e",
-                "zh": "立绘样式"
-            },
-            {
-                "en": "trim marks",
-                "zh": "裁剪标记"
-            },
-            {
-                "en": "zoom layer",
-                "zh": "人物立绘缩放(剪影)图层"
-            },
-            {
-                "en": "projected inset",
-                "zh": "类似海报或杂志的插图效果"
-            },
-            {
-                "en": "borderless panels",
-                "zh": "无边框漫画"
-            },
-            {
-                "en": "expression chart",
-                "zh": "角色的多表情展示"
-            },
-            {
-                "en": "fourth wall",
-                "zh": "虚实穿插/现实感/次元壁"
-            }
-        ],
-        "内容质量": [
-            {
-                "en": "masterpiece",
-                "zh": "杰作"
-            },
-            {
-                "en": "best quality",
-                "zh": "顶级质量"
-            },
-            {
-                "en": "worst quality",
-                "zh": "糟糕质量"
-            },
-            {
-                "en": "low quality",
-                "zh": "低质量"
-            },
-            {
-                "en": "normal quality",
-                "zh": "一般质量"
             },
             {
-                "en": "error",
-                "zh": "有错误"
+                "en": "vector trace",
+                "zh": "矢量画"
             }
         ],
         "内容类型": [
             {
-                "en": "artbook",
-                "zh": "原画"
+                "en": "1koma",
+                "zh": "单格漫画"
             },
             {
-                "en": "game_cg",
-                "zh": "游戏CG"
+                "en": "2koma",
+                "zh": "双分镜漫画"
             },
             {
-                "en": "comic",
-                "zh": "漫画"
+                "en": "3koma",
+                "zh": "三格漫画"
             },
             {
                 "en": "4koma",
                 "zh": "四格"
             },
             {
-                "en": "animated_gif",
-                "zh": "gif格式图片"
-            },
-            {
-                "en": "dakimakura",
-                "zh": "抱枕"
-            },
-            {
-                "en": "cosplay",
-                "zh": "角色扮演"
-            },
-            {
-                "en": "crossover",
-                "zh": "穿越"
-            },
-            {
-                "en": "guro",
-                "zh": "猎奇"
-            },
-            {
-                "en": "landscape/scenery",
-                "zh": "风景"
-            },
-            {
-                "en": "cityscape",
-                "zh": "城市风景"
-            },
-            {
-                "en": "original",
-                "zh": "原创"
-            },
-            {
-                "en": "parody",
-                "zh": "拙劣的模仿"
-            },
-            {
-                "en": "wallpaper",
-                "zh": "壁纸"
-            },
-            {
-                "en": "fine_art_parody",
-                "zh": "名画模仿"
-            },
-            {
-                "en": "covr",
-                "zh": "封面"
-            },
-            {
-                "en": "album",
-                "zh": "专辑"
-            },
-            {
-                "en": "sample",
-                "zh": "图上有sample字样"
-            },
-            {
-                "en": "expressions",
-                "zh": "表情绘（各种表情）"
-            },
-            {
-                "en": "everyone",
-                "zh": "一部作品中的主要人物集齐"
-            },
-            {
-                "en": "what",
-                "zh": "不知所谓"
+                "en": "5koma",
+                "zh": "五格漫画"
             },
             {
                 "en": "age comparison",
@@ -774,128 +296,80 @@
                 "zh": "年龄增加"
             },
             {
-                "en": "character doll",
-                "zh": "角色公仔"
-            },
-            {
-                "en": "fusion",
-                "zh": "融合/合体"
-            },
-            {
-                "en": "if they mated",
-                "zh": "假如这两个角色有孩子了"
-            },
-            {
-                "en": "alternate universe",
-                "zh": "异世界"
-            },
-            {
-                "en": "omake",
-                "zh": "附图"
-            },
-            {
-                "en": "illustration",
-                "zh": "插画"
-            },
-            {
-                "en": "nsfw",
-                "zh": "不宜工作时观看"
-            },
-            {
-                "en": "animated",
-                "zh": "动图"
-            },
-            {
-                "en": "animated png",
-                "zh": "PNG 动图"
-            },
-            {
-                "en": "flash",
-                "zh": "Flash"
-            },
-            {
-                "en": "video",
-                "zh": "视频"
-            },
-            {
-                "en": "music video",
-                "zh": "音乐视频"
-            },
-            {
-                "en": "animated gif",
-                "zh": "GIF 动图"
-            },
-            {
-                "en": "easytoon",
-                "zh": "EasyToon"
-            },
-            {
-                "en": "non-repeating animation",
-                "zh": "非循环动画"
-            },
-            {
-                "en": "looping animation",
-                "zh": "循环播放动画"
-            },
-            {
-                "en": "roulette animation",
-                "zh": "轮转动画"
-            },
-            {
-                "en": "live2d",
-                "zh": "Live2D"
-            },
-            {
-                "en": "1koma",
-                "zh": "单格漫画"
-            },
-            {
-                "en": "2koma",
-                "zh": "双分镜漫画"
-            },
-            {
-                "en": "3koma",
-                "zh": "三格漫画"
-            },
-            {
-                "en": "multiple 4koma",
-                "zh": "多列四格漫画"
-            },
-            {
-                "en": "5koma",
-                "zh": "五格漫画"
-            },
-            {
-                "en": "eromanga",
-                "zh": "色情漫画"
-            },
-            {
-                "en": "left-to-right manga",
-                "zh": "从左往右读的漫画"
-            },
-            {
-                "en": "right-to-left comic",
-                "zh": "从右往左读的漫画"
-            },
-            {
-                "en": "silent comic",
-                "zh": "默剧漫画"
-            },
-            {
-                "en": "cover",
-                "zh": "封面"
+                "en": "album",
+                "zh": "专辑"
             },
             {
                 "en": "album cover",
                 "zh": "专辑封面"
             },
             {
+                "en": "alternate universe",
+                "zh": "异世界"
+            },
+            {
+                "en": "animated",
+                "zh": "动图"
+            },
+            {
+                "en": "animated gif",
+                "zh": "GIF 动图"
+            },
+            {
+                "en": "animated png",
+                "zh": "PNG 动图"
+            },
+            {
+                "en": "animated_gif",
+                "zh": "gif格式图片"
+            },
+            {
+                "en": "anime screencap",
+                "zh": "动画截图"
+            },
+            {
+                "en": "artbook",
+                "zh": "原画"
+            },
+            {
+                "en": "character doll",
+                "zh": "角色公仔"
+            },
+            {
                 "en": "character single",
                 "zh": "单人封面"
             },
             {
+                "en": "cityscape",
+                "zh": "城市风景"
+            },
+            {
+                "en": "comic",
+                "zh": "漫画"
+            },
+            {
+                "en": "cosplay",
+                "zh": "角色扮演"
+            },
+            {
+                "en": "cover",
+                "zh": "封面"
+            },
+            {
                 "en": "cover page",
                 "zh": "封面"
+            },
+            {
+                "en": "covr",
+                "zh": "封面"
+            },
+            {
+                "en": "crossover",
+                "zh": "穿越"
+            },
+            {
+                "en": "dakimakura",
+                "zh": "抱枕"
             },
             {
                 "en": "doujin cover",
@@ -906,12 +380,92 @@
                 "zh": "DVD 封面"
             },
             {
+                "en": "easytoon",
+                "zh": "EasyToon"
+            },
+            {
+                "en": "eromanga",
+                "zh": "色情漫画"
+            },
+            {
+                "en": "everyone",
+                "zh": "一部作品中的主要人物集齐"
+            },
+            {
+                "en": "expressions",
+                "zh": "表情绘（各种表情）"
+            },
+            {
                 "en": "fake cover",
                 "zh": "(同人向玩梗向的)封面"
             },
             {
-                "en": "video game cover",
-                "zh": "视频游戏封面"
+                "en": "fake screenshot",
+                "zh": "(同人向玩梗向的)截图"
+            },
+            {
+                "en": "fine art parody",
+                "zh": "对某美术品的模仿/模仿名画"
+            },
+            {
+                "en": "fine_art_parody",
+                "zh": "名画模仿"
+            },
+            {
+                "en": "flash",
+                "zh": "Flash"
+            },
+            {
+                "en": "fusion",
+                "zh": "融合/合体"
+            },
+            {
+                "en": "game cg",
+                "zh": "游戏 CG"
+            },
+            {
+                "en": "game_cg",
+                "zh": "游戏CG"
+            },
+            {
+                "en": "guro",
+                "zh": "猎奇"
+            },
+            {
+                "en": "icon",
+                "zh": "图标"
+            },
+            {
+                "en": "if they mated",
+                "zh": "假如这两个角色有孩子了"
+            },
+            {
+                "en": "illustration",
+                "zh": "插画"
+            },
+            {
+                "en": "kirigami",
+                "zh": "剪纸"
+            },
+            {
+                "en": "landscape/scenery",
+                "zh": "风景"
+            },
+            {
+                "en": "left-to-right manga",
+                "zh": "从左往右读的漫画"
+            },
+            {
+                "en": "live2d",
+                "zh": "Live2D"
+            },
+            {
+                "en": "logo",
+                "zh": "标志"
+            },
+            {
+                "en": "looping animation",
+                "zh": "循环播放动画"
             },
             {
                 "en": "magazine cover",
@@ -922,32 +476,36 @@
                 "zh": "漫画封面"
             },
             {
-                "en": "fake screenshot",
-                "zh": "(同人向玩梗向的)截图"
+                "en": "multiple 4koma",
+                "zh": "多列四格漫画"
             },
             {
-                "en": "game cg",
-                "zh": "游戏 CG"
+                "en": "music video",
+                "zh": "音乐视频"
             },
             {
-                "en": "icon",
-                "zh": "图标"
+                "en": "non-repeating animation",
+                "zh": "非循环动画"
             },
             {
-                "en": "logo",
-                "zh": "标志"
-            },
-            {
-                "en": "kirigami",
-                "zh": "剪纸"
+                "en": "nsfw",
+                "zh": "不宜工作时观看"
             },
             {
                 "en": "official art",
                 "zh": "官方画作"
             },
             {
-                "en": "papercraft",
-                "zh": "纸艺"
+                "en": "official wallpaper",
+                "zh": "官方壁纸图"
+            },
+            {
+                "en": "omake",
+                "zh": "附图"
+            },
+            {
+                "en": "original",
+                "zh": "原创"
             },
             {
                 "en": "paper child",
@@ -958,89 +516,115 @@
                 "zh": "纸艺模型"
             },
             {
+                "en": "papercraft",
+                "zh": "纸艺"
+            },
+            {
+                "en": "parody",
+                "zh": "拙劣的模仿"
+            },
+            {
                 "en": "revision",
                 "zh": "修正版"
+            },
+            {
+                "en": "right-to-left comic",
+                "zh": "从右往左读的漫画"
+            },
+            {
+                "en": "roulette animation",
+                "zh": "轮转动画"
+            },
+            {
+                "en": "sample",
+                "zh": "图上有sample字样"
             },
             {
                 "en": "scan",
                 "zh": "扫描件"
             },
             {
-                "en": "anime screencap",
-                "zh": "动画截图"
+                "en": "silent comic",
+                "zh": "默剧漫画"
             },
             {
                 "en": "triptych (art)",
                 "zh": "三联画 (艺术)"
             },
             {
-                "en": "official wallpaper",
-                "zh": "官方壁纸图"
+                "en": "video",
+                "zh": "视频"
             },
             {
-                "en": "fine art parody",
-                "zh": "对某美术品的模仿/模仿名画"
-            }
-        ],
-        "体裁": [
+                "en": "video game cover",
+                "zh": "视频游戏封面"
+            },
             {
-                "en": "science_fiction",
-                "zh": "科技幻想"
+                "en": "wallpaper",
+                "zh": "壁纸"
+            },
+            {
+                "en": "what",
+                "zh": "不知所谓"
             }
         ],
         "语言(人种)": [
             {
-                "en": "English",
-                "zh": "英文"
-            }
-        ],
-        "语言": [
-            {
                 "en": "Chinese",
-                "zh": "中文"
+                "zh": "中文/中国人"
+            },
+            {
+                "en": "English",
+                "zh": "英文/英国人"
             },
             {
                 "en": "French",
-                "zh": "法文"
+                "zh": "法文/法国人"
             },
             {
                 "en": "Japanese",
-                "zh": "日本人"
+                "zh": "日文/日本人"
+            }
+        ],
+        "分辨率": [
+            {
+                "en": "absurdres",
+                "zh": "超高分辨率"
+            },
+            {
+                "en": "extremely detailed cg unity 8k wallpaper",
+                "zh": "极高分辨率 CG 壁纸"
+            },
+            {
+                "en": "highres",
+                "zh": "高分辨率"
+            },
+            {
+                "en": "incredibly absurdres",
+                "zh": "极高分辨率"
+            },
+            {
+                "en": "incredibly_absurdres",
+                "zh": "极高分辨率"
+            },
+            {
+                "en": "lowres",
+                "zh": "低分辨率"
+            },
+            {
+                "en": "tall image",
+                "zh": "长图"
+            },
+            {
+                "en": "wide image",
+                "zh": "宽图"
+            },
+            {
+                "en": "widescreen",
+                "zh": "宽屏幕"
             }
         ],
         "传媒": [
-            {
-                "en": "watercolor_(medium)",
-                "zh": "透明水彩绘"
-            },
-            {
-                "en": "calendar (medium)",
-                "zh": "日历(介质)"
-            },
-            {
-                "en": "card (medium)",
-                "zh": "卡片(介质)"
-            },
-            {
-                "en": "gyotaku (medium)",
-                "zh": "鱼拓 (介质)"
-            },
-            {
-                "en": "phonecard",
-                "zh": "电话卡"
-            },
-            {
-                "en": "postcard",
-                "zh": "明信片"
-            },
-            {
-                "en": "poster",
-                "zh": "海报"
-            },
-            {
-                "en": "shitajiki",
-                "zh": "垫板"
-            },
             {
                 "en": "acrylic paint (medium)",
                 "zh": "亚克力画风"
@@ -1070,6 +654,10 @@
                 "zh": "毛笔"
             },
             {
+                "en": "calendar (medium)",
+                "zh": "日历(介质)"
+            },
+            {
                 "en": "calligraphy brush (medium)",
                 "zh": "书法毛笔"
             },
@@ -1080,6 +668,10 @@
             {
                 "en": "canvas (medium)",
                 "zh": "画布"
+            },
+            {
+                "en": "card (medium)",
+                "zh": "卡片(介质)"
             },
             {
                 "en": "chalk (medium)",
@@ -1150,6 +742,10 @@
                 "zh": "铅笔画/炭笔画"
             },
             {
+                "en": "gyotaku (medium)",
+                "zh": "鱼拓 (介质)"
+            },
+            {
                 "en": "illustrator (medium)",
                 "zh": "Illustrator"
             },
@@ -1198,12 +794,28 @@
                 "zh": "钢笔"
             },
             {
+                "en": "phonecard",
+                "zh": "电话卡"
+            },
+            {
                 "en": "porcelain (medium)",
                 "zh": "瓷器"
             },
             {
+                "en": "postcard",
+                "zh": "明信片"
+            },
+            {
+                "en": "poster",
+                "zh": "海报"
+            },
+            {
                 "en": "print (medium)",
                 "zh": "印刷品"
+            },
+            {
+                "en": "shitajiki",
+                "zh": "垫板"
             },
             {
                 "en": "swapnote (medium)",
@@ -1230,106 +842,334 @@
                 "zh": "彩铅"
             },
             {
+                "en": "watercolor_(medium)",
+                "zh": "透明水彩绘"
+            },
+            {
                 "en": "whiteboard (medium)",
                 "zh": "白板"
             }
         ],
-        "模式": [
+        "角色属性": [
             {
-                "en": "checkered",
-                "zh": "格子的"
+                "en": "adapted costume",
+                "zh": "原设服装改编"
             },
             {
-                "en": "tileable",
-                "zh": "可平铺拼贴"
+                "en": "alternate breast size",
+                "zh": "贫乳化/爆乳化"
+            },
+            {
+                "en": "alternate color",
+                "zh": "异色"
+            },
+            {
+                "en": "alternate costume",
+                "zh": "角色换装"
+            },
+            {
+                "en": "alternate element",
+                "zh": "与原设不同元素"
+            },
+            {
+                "en": "alternate eye color",
+                "zh": "与原设不同瞳色"
+            },
+            {
+                "en": "alternate hair color",
+                "zh": "与原设不同发色变化"
+            },
+            {
+                "en": "alternate hair length",
+                "zh": "与原设不同头发长度变化"
+            },
+            {
+                "en": "alternate hairstyle",
+                "zh": "与原设不同发型变化"
+            },
+            {
+                "en": "alternate headwear",
+                "zh": "与原设不同头饰变化"
+            },
+            {
+                "en": "alternate skin color",
+                "zh": "与原设不同肤色变化"
+            },
+            {
+                "en": "alternate weapon",
+                "zh": "与原设不同武器变化"
+            },
+            {
+                "en": "alternate wings",
+                "zh": "与原设不同翅膀"
+            },
+            {
+                "en": "contemporary",
+                "zh": "现代改编"
+            },
+            {
+                "en": "costume combination",
+                "zh": "服装组合"
+            },
+            {
+                "en": "costume switch",
+                "zh": "服饰互换"
+            },
+            {
+                "en": "dark persona",
+                "zh": "黑化"
+            },
+            {
+                "en": "hair down",
+                "zh": "披下来的头发"
+            },
+            {
+                "en": "hair up",
+                "zh": "盘起来的头发"
+            },
+            {
+                "en": "headwear switch",
+                "zh": "头饰互换"
+            },
+            {
+                "en": "light persona",
+                "zh": "美化"
+            },
+            {
+                "en": "no animal ears",
+                "zh": "去掉了(原设有的)兽耳"
+            },
+            {
+                "en": "no eyewear",
+                "zh": "去掉了(原设有的)眼镜"
+            },
+            {
+                "en": "no fire",
+                "zh": "无火化"
+            },
+            {
+                "en": "no headwear",
+                "zh": "去掉了(原设有的)头饰"
+            },
+            {
+                "en": "no horn",
+                "zh": "无角化"
+            },
+            {
+                "en": "no mask",
+                "zh": "去掉了(原设有的)面具"
+            },
+            {
+                "en": "no tail",
+                "zh": "无尾化"
+            },
+            {
+                "en": "no wings",
+                "zh": "去掉了(原设有的)翅膀"
+            },
+            {
+                "en": "out of character",
+                "zh": "不符角色原本性格"
+            },
+            {
+                "en": "palette swap",
+                "zh": "色调互换"
+            },
+            {
+                "en": "personality switch",
+                "zh": "人格替换"
+            },
+            {
+                "en": "player 2",
+                "zh": "2P玩家角色风格颜色替换"
+            },
+            {
+                "en": "role reversal",
+                "zh": "角色转换"
+            },
+            {
+                "en": "unusually open eyes",
+                "zh": "(与原设不同)睁眼"
             }
         ],
-        "分辨率": [
+        "构成": [
             {
-                "en": "lowres",
-                "zh": "低分辨率"
+                "en": "afterimage",
+                "zh": "残像"
             },
             {
-                "en": "highres",
-                "zh": "高分辨率"
+                "en": "border",
+                "zh": "边框"
             },
             {
-                "en": "absurdres",
-                "zh": "超高分辨率"
+                "en": "borderless panels",
+                "zh": "无边框漫画"
             },
             {
-                "en": "incredibly_absurdres",
-                "zh": "极高分辨率"
+                "en": "bust chart",
+                "zh": "胸围图"
             },
             {
-                "en": "incredibly absurdres",
-                "zh": "极高分辨率"
+                "en": "character chart",
+                "zh": "人设图"
             },
             {
-                "en": "extremely detailed cg unity 8k wallpaper",
-                "zh": "极高分辨率 CG 壁纸"
+                "en": "chart",
+                "zh": "图表"
             },
             {
-                "en": "tall image",
-                "zh": "长图"
+                "en": "collage",
+                "zh": "拼贴画"
             },
             {
-                "en": "wide image",
-                "zh": "宽图"
+                "en": "column lineup",
+                "zh": "小图拼接"
             },
             {
-                "en": "widescreen",
-                "zh": "宽屏幕"
+                "en": "column_lineup",
+                "zh": "一列列小图组成大图"
+            },
+            {
+                "en": "cropped",
+                "zh": "遭到裁剪"
+            },
+            {
+                "en": "diagram",
+                "zh": "图表"
+            },
+            {
+                "en": "expression chart",
+                "zh": "角色的多表情展示"
+            },
+            {
+                "en": "fading border",
+                "zh": "褪色边框"
+            },
+            {
+                "en": "fake scrollbar",
+                "zh": "假的滚动条"
+            },
+            {
+                "en": "feet out of frame",
+                "zh": "脚部脱框"
+            },
+            {
+                "en": "fourth wall",
+                "zh": "虚实穿插/现实感/次元壁"
+            },
+            {
+                "en": "framed",
+                "zh": "画框"
+            },
+            {
+                "en": "head out of frame",
+                "zh": "头部脱框"
+            },
+            {
+                "en": "letterboxed",
+                "zh": "宽银幕格式"
+            },
+            {
+                "en": "lineup",
+                "zh": "一排人"
+            },
+            {
+                "en": "mosaic art",
+                "zh": "马赛克艺术"
+            },
+            {
+                "en": "move chart",
+                "zh": "动作演示图"
+            },
+            {
+                "en": "negative space",
+                "zh": "大量留白"
+            },
+            {
+                "en": "out of frame",
+                "zh": "脱框"
+            },
+            {
+                "en": "outside border",
+                "zh": "一部分画到了背景框外面"
+            },
+            {
+                "en": "partially underwater shot",
+                "zh": "部分水下拍摄"
+            },
+            {
+                "en": "photomosaic",
+                "zh": "马赛克拼图"
+            },
+            {
+                "en": "pillarboxed",
+                "zh": "柱状画布背景"
+            },
+            {
+                "en": "polar opposites",
+                "zh": "两极对称"
+            },
+            {
+                "en": "projected inset",
+                "zh": "类似海报或杂志的插图效果"
+            },
+            {
+                "en": "reference sheet",
+                "zh": "设定图"
+            },
+            {
+                "en": "relationship graph",
+                "zh": "关系表"
+            },
+            {
+                "en": "rotational symmetry",
+                "zh": "对称旋转/《少女革命》女同转圈圈"
+            },
+            {
+                "en": "rounded corners",
+                "zh": "背景或画框是圆角"
+            },
+            {
+                "en": "seating chart",
+                "zh": "座次表"
+            },
+            {
+                "en": "social media composition",
+                "zh": "社交媒体整合"
+            },
+            {
+                "en": "stats",
+                "zh": "属性栏/状态表"
+            },
+            {
+                "en": "symmetry",
+                "zh": "左右对称"
+            },
+            {
+                "en": "tachi-e",
+                "zh": "立绘样式"
+            },
+            {
+                "en": "trim marks",
+                "zh": "裁剪标记"
+            },
+            {
+                "en": "viewfinder",
+                "zh": "相机取景框"
+            },
+            {
+                "en": "zoom layer",
+                "zh": "人物立绘缩放(剪影)图层"
+            },
+            {
+                "en": "zoom_layer",
+                "zh": "背景是前景的放大版"
             }
         ],
         "特殊效果": [
             {
-                "en": "chromatic aberration",
-                "zh": "色差"
-            },
-            {
-                "en": "lens flare",
-                "zh": "镜头光晕"
-            },
-            {
-                "en": "motion blur",
-                "zh": "动态模糊"
-            },
-            {
-                "en": "sparkle",
-                "zh": "闪耀效果"
-            },
-            {
-                "en": "jpeg artifacts",
-                "zh": "JPEG 压缩失真"
-            },
-            {
-                "en": "blurry",
-                "zh": "模糊的"
-            },
-            {
-                "en": "cinematic lighting",
-                "zh": "电影光效"
-            },
-            {
-                "en": "glowing light",
-                "zh": "荧光"
-            },
-            {
-                "en": "god rays",
-                "zh": "自上而下的光"
-            },
-            {
-                "en": "ray tracing",
-                "zh": "光线追踪"
-            },
-            {
-                "en": "reflection light",
-                "zh": "反射光"
-            },
-            {
-                "en": "overexposure",
-                "zh": "过曝"
+                "en": "anaglyph",
+                "zh": "互补色"
             },
             {
                 "en": "backlighting",
@@ -1344,6 +1184,10 @@
                 "zh": "盛开"
             },
             {
+                "en": "blurry",
+                "zh": "模糊的"
+            },
+            {
                 "en": "bokeh",
                 "zh": "背景散焦"
             },
@@ -1356,16 +1200,24 @@
                 "zh": "明暗对比"
             },
             {
+                "en": "chromatic aberration",
+                "zh": "色差"
+            },
+            {
                 "en": "chromatic aberration abuse",
                 "zh": "色差滥用"
             },
             {
-                "en": "diffraction spikes",
-                "zh": "衍射十字星"
+                "en": "cinematic lighting",
+                "zh": "电影光效"
             },
             {
                 "en": "depth of field",
                 "zh": "背景虚化"
+            },
+            {
+                "en": "diffraction spikes",
+                "zh": "衍射十字星"
             },
             {
                 "en": "dithering",
@@ -1388,6 +1240,14 @@
                 "zh": "正前缩距透视法"
             },
             {
+                "en": "glowing light",
+                "zh": "荧光"
+            },
+            {
+                "en": "god rays",
+                "zh": "自上而下的光"
+            },
+            {
                 "en": "halftone",
                 "zh": "一种漫画中常见的网点状的组色组图画法"
             },
@@ -1396,8 +1256,20 @@
                 "zh": "图像填充"
             },
             {
+                "en": "jpeg artifacts",
+                "zh": "JPEG 压缩失真"
+            },
+            {
+                "en": "lens flare",
+                "zh": "镜头光晕"
+            },
+            {
                 "en": "lens flare abuse",
                 "zh": "镜头光晕滥用"
+            },
+            {
+                "en": "motion blur",
+                "zh": "动态模糊"
             },
             {
                 "en": "motion lines",
@@ -1412,38 +1284,36 @@
                 "zh": "视错觉"
             },
             {
-                "en": "anaglyph",
-                "zh": "互补色"
+                "en": "overexposure",
+                "zh": "过曝"
             },
             {
-                "en": "stereogram",
-                "zh": "立体画"
+                "en": "ray tracing",
+                "zh": "光线追踪"
+            },
+            {
+                "en": "reflection light",
+                "zh": "反射光"
             },
             {
                 "en": "scanlines",
                 "zh": "扫描线"
             },
             {
+                "en": "sparkle",
+                "zh": "闪耀效果"
+            },
+            {
                 "en": "speed lines",
                 "zh": "速度线"
             },
             {
+                "en": "stereogram",
+                "zh": "立体画"
+            },
+            {
                 "en": "vignetting",
                 "zh": "晕影"
-            }
-        ],
-        "主题": [
-            {
-                "en": "dark",
-                "zh": "暗的"
-            },
-            {
-                "en": "light",
-                "zh": "亮的"
-            },
-            {
-                "en": "night",
-                "zh": "晚上"
             }
         ],
         "变迁类型": [
@@ -1458,6 +1328,18 @@
             {
                 "en": "furrification",
                 "zh": "多毛化"
+            },
+            {
+                "en": "genderswap",
+                "zh": "性转"
+            },
+            {
+                "en": "genderswap (ftm)",
+                "zh": "男体化"
+            },
+            {
+                "en": "genderswap (mtf)",
+                "zh": "女体化"
             },
             {
                 "en": "humanization",
@@ -1486,52 +1368,74 @@
             {
                 "en": "zombification",
                 "zh": "僵尸化"
+            }
+        ],
+        "颜色主题": [
+            {
+                "en": "aqua theme",
+                "zh": "水蓝色"
             },
             {
-                "en": "genderswap",
-                "zh": "性转"
+                "en": "black theme",
+                "zh": "黑色主题"
             },
             {
-                "en": "genderswap (mtf)",
-                "zh": "女体化"
+                "en": "blue theme",
+                "zh": "蓝色"
             },
             {
-                "en": "genderswap (ftm)",
-                "zh": "男体化"
+                "en": "brown theme",
+                "zh": "棕色主题"
+            },
+            {
+                "en": "green theme",
+                "zh": "绿色主题"
+            },
+            {
+                "en": "grey theme",
+                "zh": "灰色"
+            },
+            {
+                "en": "orange theme",
+                "zh": "橙色"
+            },
+            {
+                "en": "pink theme",
+                "zh": "粉色主题"
+            },
+            {
+                "en": "purple theme",
+                "zh": "紫色"
+            },
+            {
+                "en": "rainbow",
+                "zh": "彩虹"
+            },
+            {
+                "en": "rainbow order",
+                "zh": "彩虹色序排列"
+            },
+            {
+                "en": "red theme",
+                "zh": "红色/红色主题"
+            },
+            {
+                "en": "white theme",
+                "zh": "白色主题"
+            },
+            {
+                "en": "yellow theme",
+                "zh": "黄色主题"
             }
         ],
         "视图/角度": [
             {
+                "en": "atmospheric perspective",
+                "zh": "大气距离感"
+            },
+            {
                 "en": "back",
                 "zh": "背影像"
-            },
-            {
-                "en": "bust",
-                "zh": "半身像"
-            },
-            {
-                "en": "profile",
-                "zh": "侧面绘"
-            },
-            {
-                "en": "first-person view",
-                "zh": "第一人称视角"
-            },
-            {
-                "en": "pov",
-                "zh": "主观视角"
-            },
-            {
-                "en": "three sided view",
-                "zh": "三视图"
-            },
-            {
-                "en": "multiple views",
-                "zh": "多视图"
-            },
-            {
-                "en": "cut-in",
-                "zh": "插入画面"
             },
             {
                 "en": "between fingers",
@@ -1550,12 +1454,16 @@
                 "zh": "前景模糊"
             },
             {
+                "en": "breast awe",
+                "zh": "着迷于乳房"
+            },
+            {
                 "en": "breast conscious",
                 "zh": "对胸部在意"
             },
             {
-                "en": "breast awe",
-                "zh": "着迷于乳房"
+                "en": "bust",
+                "zh": "半身像"
             },
             {
                 "en": "close-up",
@@ -1566,20 +1474,20 @@
                 "zh": "七分身镜头"
             },
             {
+                "en": "cut-in",
+                "zh": "插入画面"
+            },
+            {
                 "en": "dutch angle",
                 "zh": "德式倾斜镜头"
             },
             {
+                "en": "first-person view",
+                "zh": "第一人称视角"
+            },
+            {
                 "en": "fisheye",
                 "zh": "鱼眼镜头"
-            },
-            {
-                "en": "vanishing point",
-                "zh": "远景透视画法"
-            },
-            {
-                "en": "wide shot",
-                "zh": "广角镜头"
             },
             {
                 "en": "from above",
@@ -1602,8 +1510,8 @@
                 "zh": "角色的侧面"
             },
             {
-                "en": "atmospheric perspective",
-                "zh": "大气距离感"
+                "en": "multiple views",
+                "zh": "多视图"
             },
             {
                 "en": "panorama",
@@ -1614,6 +1522,14 @@
                 "zh": "透视画法"
             },
             {
+                "en": "pov",
+                "zh": "主观视角"
+            },
+            {
+                "en": "profile",
+                "zh": "侧面绘"
+            },
+            {
                 "en": "rotated",
                 "zh": "经过旋转的"
             },
@@ -1622,8 +1538,90 @@
                 "zh": "横向显示的"
             },
             {
+                "en": "three sided view",
+                "zh": "三视图"
+            },
+            {
                 "en": "upside-down",
                 "zh": "倒挂的"
+            },
+            {
+                "en": "vanishing point",
+                "zh": "远景透视画法"
+            },
+            {
+                "en": "wide shot",
+                "zh": "广角镜头"
+            }
+        ],
+        "内容质量": [
+            {
+                "en": "best quality",
+                "zh": "顶级质量"
+            },
+            {
+                "en": "error",
+                "zh": "有错误"
+            },
+            {
+                "en": "low quality",
+                "zh": "低质量"
+            },
+            {
+                "en": "masterpiece",
+                "zh": "杰作"
+            },
+            {
+                "en": "normal quality",
+                "zh": "一般质量"
+            },
+            {
+                "en": "worst quality",
+                "zh": "糟糕质量"
+            }
+        ],
+        "模式": [
+            {
+                "en": "checkered",
+                "zh": "格子的"
+            },
+            {
+                "en": "tileable",
+                "zh": "可平铺拼贴"
+            }
+        ],
+        "主题": [
+            {
+                "en": "dark",
+                "zh": "暗的"
+            },
+            {
+                "en": "light",
+                "zh": "亮的"
+            },
+            {
+                "en": "night",
+                "zh": "晚上"
+            }
+        ],
+        "背景类型": [
+            {
+                "en": "gradient_background",
+                "zh": "渐变的背景"
+            },
+            {
+                "en": "simple_background",
+                "zh": "简单的背景(无背景)"
+            },
+            {
+                "en": "transparent_background",
+                "zh": "透明的背景(.png)"
+            }
+        ],
+        "体裁": [
+            {
+                "en": "science_fiction",
+                "zh": "科技幻想"
             }
         ]
     },

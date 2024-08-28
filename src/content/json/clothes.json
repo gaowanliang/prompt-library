@@ -6,148 +6,60 @@
                 "zh": "领子"
             },
             {
-                "en": "hat",
-                "zh": "帽子"
+                "en": " bikini top only ",
+                "zh": "上身比基尼"
             },
             {
-                "en": "shirt",
-                "zh": "衬衫"
-            },
-            {
-                "en": "serafuku",
-                "zh": "水手服"
-            },
-            {
-                "en": "sailor suite",
-                "zh": "水手服"
-            },
-            {
-                "en": "sailor shirt",
-                "zh": "水手服"
-            },
-            {
-                "en": "shorts under skirt",
-                "zh": "水手服"
-            },
-            {
-                "en": "collared shirt ",
-                "zh": "有领衬衣"
-            },
-            {
-                "en": "school uniform",
-                "zh": "学校制服"
-            },
-            {
-                "en": "seifuku",
-                "zh": "日本学生服"
-            },
-            {
-                "en": "business_suit",
-                "zh": "职场制服"
-            },
-            {
-                "en": "jacket",
-                "zh": "夹克"
-            },
-            {
-                "en": "suit ",
-                "zh": "西装"
-            },
-            {
-                "en": "garreg mach monastery uniform",
-                "zh": "火焰纹章军服"
-            },
-            {
-                "en": "revealing dress",
-                "zh": "礼服长裙"
-            },
-            {
-                "en": "pink lucency full dress",
-                "zh": "礼服"
-            },
-            {
-                "en": "cleavage dress",
-                "zh": "露出胸口部分的连衣裙"
-            },
-            {
-                "en": "sleeveless dress",
-                "zh": "无袖连衣裙"
-            },
-            {
-                "en": "whitedress",
-                "zh": "白色连衣裙"
-            },
-            {
-                "en": "wedding_dress",
-                "zh": "婚纱"
+                "en": " bikini under clothes",
+                "zh": "比基尼内衣"
             },
             {
                 "en": "Sailor dress",
                 "zh": "水手连衣裙"
             },
             {
-                "en": "sweater dress",
-                "zh": "毛衣裙"
-            },
-            {
-                "en": "ribbed sweater",
-                "zh": "罗纹毛衣"
-            },
-            {
-                "en": "sweater jacket",
-                "zh": "毛衣夹克"
-            },
-            {
-                "en": "dungarees",
-                "zh": "工装服"
-            },
-            {
-                "en": "brown cardigan ",
-                "zh": "棕色开襟衫（外套）"
-            },
-            {
-                "en": "hoodie ",
-                "zh": "连帽衫，卫衣"
-            },
-            {
-                "en": "robe",
-                "zh": "长袍"
-            },
-            {
-                "en": "cape",
-                "zh": "斗篷"
-            },
-            {
-                "en": "cardigan",
-                "zh": "羊毛衫"
+                "en": "Sukumizu",
+                "zh": "死库水"
             },
             {
                 "en": "apron",
                 "zh": "围裙"
             },
             {
-                "en": "gothic",
-                "zh": "哥特风格"
+                "en": "aqua dress",
+                "zh": "水色连衣裙"
             },
             {
-                "en": "lolita_fashion",
-                "zh": "洛丽塔风格"
+                "en": "argyle dress",
+                "zh": "钻石图案的裙子"
             },
             {
-                "en": "gothic_lolita",
-                "zh": "哥特洛丽塔风格"
+                "en": "armored dress",
+                "zh": "战甲裙"
             },
             {
-                "en": "western",
-                "zh": "西部风格"
+                "en": "athletic leotard",
+                "zh": "体操服"
             },
             {
-                "en": "tartan",
-                "zh": "格子花纹"
+                "en": "babydoll",
+                "zh": "透明睡衣"
             },
             {
-                "en": "off_shoulder",
-                "zh": "露单肩"
+                "en": "backless dress",
+                "zh": "露背连衣裙"
+            },
+            {
+                "en": "backless outfit",
+                "zh": "露背装"
+            },
+            {
+                "en": "bandeau",
+                "zh": "抹胸比基尼"
+            },
+            {
+                "en": "bare_legs",
+                "zh": "裸足"
             },
             {
                 "en": "bare_shoulders",
@@ -158,392 +70,28 @@
                 "zh": "赤脚"
             },
             {
-                "en": "bare_legs",
-                "zh": "裸足"
-            },
-            {
-                "en": "striped",
-                "zh": "横条花纹的"
-            },
-            {
-                "en": "polka_dot",
-                "zh": "点状花纹的"
-            },
-            {
-                "en": "frills",
-                "zh": "皱边的"
-            },
-            {
-                "en": "lace",
-                "zh": "花边"
-            },
-            {
-                "en": "buruma",
-                "zh": "日本女生运动短裤"
-            },
-            {
-                "en": "sportswear",
-                "zh": "运动服"
-            },
-            {
-                "en": "gym_uniform",
-                "zh": "运动服"
-            },
-            {
-                "en": "tank_top",
-                "zh": "女用背心"
-            },
-            {
-                "en": "cropped jacket ",
-                "zh": "裁剪短夹克"
-            },
-            {
-                "en": "black sports bra ",
-                "zh": "运动胸罩"
-            },
-            {
-                "en": "crop top",
-                "zh": "漏脐装"
-            },
-            {
-                "en": "pajamas",
-                "zh": "睡衣"
-            },
-            {
-                "en": "japanese_clothes",
-                "zh": "和服"
-            },
-            {
-                "en": "obi",
-                "zh": "衣带(和服用)"
-            },
-            {
-                "en": "mesh",
-                "zh": "网眼上衣"
-            },
-            {
-                "en": "sleeveless shirt",
-                "zh": "无袖上衣"
-            },
-            {
-                "en": "detached_sleeves",
-                "zh": "袖肩分离装"
-            },
-            {
-                "en": "white bloomers",
-                "zh": "白色灯笼裤"
-            },
-            {
-                "en": "high - waist shorts",
-                "zh": " 高腰腿裤"
-            },
-            {
-                "en": "pleated_skirt",
-                "zh": "百褶裙"
-            },
-            {
-                "en": "skirt",
-                "zh": "裙子"
-            },
-            {
-                "en": "miniskirt",
-                "zh": "迷你裙"
-            },
-            {
-                "en": "short shorts",
-                "zh": "热裤"
-            },
-            {
-                "en": "summer_dress",
-                "zh": "夏日长裙"
-            },
-            {
-                "en": "bloomers",
-                "zh": "灯笼裤"
-            },
-            {
-                "en": "shorts",
-                "zh": "短裤"
-            },
-            {
-                "en": "bike_shorts",
-                "zh": "自行车短裤"
-            },
-            {
-                "en": "dolphin shorts",
-                "zh": "海豚短裤"
+                "en": "baseball uniform",
+                "zh": "棒球服"
             },
             {
                 "en": "belt",
                 "zh": "腰带"
             },
             {
+                "en": "bike_shorts",
+                "zh": "自行车短裤"
+            },
+            {
+                "en": "biker clothes",
+                "zh": "自行车运动服"
+            },
+            {
+                "en": "bikesuit",
+                "zh": "骑行套装"
+            },
+            {
                 "en": "bikini",
                 "zh": "比基尼（前加颜色）"
-            },
-            {
-                "en": "sling bikini",
-                "zh": "吊索比基尼"
-            },
-            {
-                "en": "bikini_top",
-                "zh": "比基尼乳罩"
-            },
-            {
-                "en": " bikini top only ",
-                "zh": "上身比基尼"
-            },
-            {
-                "en": "side - tie bikini bottom",
-                "zh": "侧边系带比基尼下装"
-            },
-            {
-                "en": "side-tie_bikini",
-                "zh": "系带式比基尼"
-            },
-            {
-                "en": "friled bikini",
-                "zh": "褶边比基尼"
-            },
-            {
-                "en": " bikini under clothes",
-                "zh": "比基尼内衣"
-            },
-            {
-                "en": "swimsuit",
-                "zh": "泳装"
-            },
-            {
-                "en": "school swimsuit",
-                "zh": "学校泳衣"
-            },
-            {
-                "en": "one-piece swimsuit",
-                "zh": "连体泳衣"
-            },
-            {
-                "en": "competition swimsuit",
-                "zh": "竞技泳衣"
-            },
-            {
-                "en": "Sukumizu",
-                "zh": "死库水"
-            },
-            {
-                "en": "babydoll",
-                "zh": "透明睡衣"
-            },
-            {
-                "en": "bikini",
-                "zh": "比基尼"
-            },
-            {
-                "en": "japanese clothes",
-                "zh": "和服"
-            },
-            {
-                "en": "bodysuit",
-                "zh": "紧身衣"
-            },
-            {
-                "en": "business suit",
-                "zh": "职场制服"
-            },
-            {
-                "en": "china dress",
-                "zh": "旗袍"
-            },
-            {
-                "en": "chinese clothes",
-                "zh": "中国服饰(极大概率是旗袍)"
-            },
-            {
-                "en": "corset",
-                "zh": "紧身褡"
-            },
-            {
-                "en": "dress",
-                "zh": "连衣裙"
-            },
-            {
-                "en": "gym uniform",
-                "zh": "运动服"
-            },
-            {
-                "en": "leotard",
-                "zh": "體操服"
-            },
-            {
-                "en": "lingerie",
-                "zh": "女用贴身内衣裤"
-            },
-            {
-                "en": "obi",
-                "zh": "衣带(和服用)"
-            },
-            {
-                "en": "pajamas",
-                "zh": "睡衣"
-            },
-            {
-                "en": "santa",
-                "zh": "圣诞装"
-            },
-            {
-                "en": "school swimsuit",
-                "zh": "学校泳衣"
-            },
-            {
-                "en": "school uniform",
-                "zh": "学校制服"
-            },
-            {
-                "en": "see-through",
-                "zh": "透明装"
-            },
-            {
-                "en": "side-tie bikini",
-                "zh": "系带式比基尼"
-            },
-            {
-                "en": "suit",
-                "zh": "西装"
-            },
-            {
-                "en": "swimsuit",
-                "zh": "泳装"
-            },
-            {
-                "en": "torn clothes",
-                "zh": "破烂衣服"
-            },
-            {
-                "en": "underwear",
-                "zh": "内衣"
-            },
-            {
-                "en": "uniform",
-                "zh": "制服"
-            },
-            {
-                "en": "yukata",
-                "zh": "浴衣"
-            },
-            {
-                "en": "serafuku",
-                "zh": "水手服"
-            },
-            {
-                "en": "wedding dress",
-                "zh": "婚纱"
-            },
-            {
-                "en": "gothic",
-                "zh": "哥特风格"
-            },
-            {
-                "en": "lolita fashion",
-                "zh": "洛丽塔风格"
-            },
-            {
-                "en": "western",
-                "zh": "西部风格"
-            },
-            {
-                "en": "tartan",
-                "zh": "格子花纹"
-            },
-            {
-                "en": "striped",
-                "zh": "横条花纹"
-            },
-            {
-                "en": "polka dot",
-                "zh": "点状花纹"
-            },
-            {
-                "en": "frills",
-                "zh": "皱边"
-            },
-            {
-                "en": "formal",
-                "zh": "正装"
-            },
-            {
-                "en": "lace",
-                "zh": "蕾丝"
-            },
-            {
-                "en": "clothes down",
-                "zh": "褪下衣物"
-            },
-            {
-                "en": "short kimono",
-                "zh": "短下摆和服"
-            },
-            {
-                "en": "kimono",
-                "zh": "和服"
-            },
-            {
-                "en": "open kimono",
-                "zh": "敞开的和服"
-            },
-            {
-                "en": "suspender skirt",
-                "zh": "吊带裙"
-            },
-            {
-                "en": "kimono skirt",
-                "zh": "和服裙"
-            },
-            {
-                "en": "pleated dress",
-                "zh": "百褶连衣裙"
-            },
-            {
-                "en": "sailor dress",
-                "zh": "水手服款裙子"
-            },
-            {
-                "en": "strapless dress",
-                "zh": "无肩带连衣裙"
-            },
-            {
-                "en": "sundress",
-                "zh": "太阳裙/背心裙"
-            },
-            {
-                "en": "sheath dress",
-                "zh": "包臀裙"
-            },
-            {
-                "en": "layered skirt",
-                "zh": "分层式半身裙"
-            },
-            {
-                "en": "waist apron",
-                "zh": "腰围裙"
-            },
-            {
-                "en": "pettiskirt",
-                "zh": "蓬蓬裙"
-            },
-            {
-                "en": "tutu",
-                "zh": "芭蕾舞裙"
-            },
-            {
-                "en": "layered dress",
-                "zh": "分层连衣裙"
-            },
-            {
-                "en": "off-shoulder dress",
-                "zh": "露肩连衣裙"
-            },
-            {
-                "en": "organza lace",
-                "zh": "透明硬纱/蕾丝花边"
             },
             {
                 "en": "bikini armor",
@@ -558,108 +106,36 @@
                 "zh": "往上剥开的比基尼"
             },
             {
-                "en": "bow bikini",
-                "zh": "带蝴蝶结的比基尼"
-            },
-            {
-                "en": "eyepatch bikini",
-                "zh": "眼罩比基尼"
-            },
-            {
-                "en": "front-tie bikini",
-                "zh": "从正面打结的比基尼"
-            },
-            {
-                "en": "highleg bikini",
-                "zh": "高开衩的比基尼"
-            },
-            {
-                "en": "layered bikini",
-                "zh": "分层比基尼"
-            },
-            {
-                "en": "lowleg bikini",
-                "zh": "低腰比基尼"
-            },
-            {
-                "en": "maid bikini",
-                "zh": "女仆比基尼"
-            },
-            {
-                "en": "micro bikini",
-                "zh": "迷你比基尼"
-            },
-            {
-                "en": "multi-strapped bikini",
-                "zh": "细带款比基尼"
-            },
-            {
-                "en": "sailor bikini",
-                "zh": "水手服款比基尼"
-            },
-            {
-                "en": "shell bikini",
-                "zh": "贝壳比基尼"
-            },
-            {
-                "en": "slingshot swimsuit",
-                "zh": "弹弓泳衣/吊带泳衣/V字泳衣"
-            },
-            {
-                "en": "sports bikini",
-                "zh": "运动比基尼"
-            },
-            {
-                "en": "strapless bikini",
-                "zh": "无肩带比基尼"
-            },
-            {
-                "en": "thong bikini",
-                "zh": "丁字式比基尼"
-            },
-            {
-                "en": "untied bikini",
-                "zh": "解开的比基尼"
-            },
-            {
-                "en": "bandeau",
-                "zh": "抹胸比基尼"
+                "en": "bikini skirt",
+                "zh": "比基尼裙"
             },
             {
                 "en": "bikini under clothes",
                 "zh": "比基尼当内衣"
             },
             {
-                "en": "armored dress",
-                "zh": "战甲裙"
+                "en": "bikini_top",
+                "zh": "比基尼乳罩"
             },
             {
-                "en": "athletic leotard",
-                "zh": "体操服"
+                "en": "black dress",
+                "zh": "黑连衣裙"
             },
             {
-                "en": "backless dress",
-                "zh": "露背连衣裙"
+                "en": "black sports bra ",
+                "zh": "运动胸罩"
             },
             {
-                "en": "backless outfit",
-                "zh": "露背装"
+                "en": "bloomers",
+                "zh": "灯笼裤"
             },
             {
-                "en": "baseball uniform",
-                "zh": "棒球服"
+                "en": "blue dress",
+                "zh": "蓝连衣裙"
             },
             {
-                "en": "biker clothes",
-                "zh": "自行车运动服"
-            },
-            {
-                "en": "bikesuit",
-                "zh": "骑行套装"
-            },
-            {
-                "en": "bikini skirt",
-                "zh": "比基尼裙"
+                "en": "bodysuit",
+                "zh": "紧身衣"
             },
             {
                 "en": "bodysuit under clothes",
@@ -670,12 +146,80 @@
                 "zh": "束缚服"
             },
             {
+                "en": "bow bikini",
+                "zh": "带蝴蝶结的比基尼"
+            },
+            {
+                "en": "brown cardigan ",
+                "zh": "棕色开襟衫（外套）"
+            },
+            {
+                "en": "brown dress",
+                "zh": "棕色连衣裙"
+            },
+            {
+                "en": "buruma",
+                "zh": "日本女生运动短裤"
+            },
+            {
+                "en": "business suit",
+                "zh": "职场制服"
+            },
+            {
+                "en": "business_suit",
+                "zh": "职场制服"
+            },
+            {
+                "en": "cake dress",
+                "zh": "形似蛋糕的连衣裙"
+            },
+            {
+                "en": "cape",
+                "zh": "斗篷"
+            },
+            {
+                "en": "cardigan",
+                "zh": "羊毛衫"
+            },
+            {
                 "en": "casual one-piece swimsuit",
                 "zh": "连体泳衣"
             },
             {
+                "en": "checkered dress",
+                "zh": "方格花纹连衣裙"
+            },
+            {
+                "en": "china dress",
+                "zh": "旗袍"
+            },
+            {
+                "en": "chinese clothes",
+                "zh": "中国服饰(极大概率是旗袍)"
+            },
+            {
+                "en": "cleavage dress",
+                "zh": "露出胸口部分的连衣裙"
+            },
+            {
+                "en": "clothes down",
+                "zh": "褪下衣物"
+            },
+            {
+                "en": "coat dress",
+                "zh": "外套连衣裙"
+            },
+            {
+                "en": "cocktail dress",
+                "zh": "燕尾短裙"
+            },
+            {
                 "en": "collared dress",
                 "zh": "有领连衣裙"
+            },
+            {
+                "en": "collared shirt ",
+                "zh": "有领衬衣"
             },
             {
                 "en": "competition school swimsuit",
@@ -683,23 +227,143 @@
             },
             {
                 "en": "competition swimsuit",
-                "zh": "赛用泳衣"
+                "zh": "竞技泳衣"
             },
             {
-                "en": "evening gown",
-                "zh": "晚会礼服"
+                "en": "corset",
+                "zh": "紧身褡"
+            },
+            {
+                "en": "crinoline",
+                "zh": "裙撑/裙架"
+            },
+            {
+                "en": "crop top",
+                "zh": "漏脐装"
+            },
+            {
+                "en": "cropped jacket ",
+                "zh": "裁剪短夹克"
+            },
+            {
+                "en": "cute & girly (idolmaster)",
+                "zh": "Cute & Girly (偶像大师)"
+            },
+            {
+                "en": "denim dress",
+                "zh": "牛仔连衣裙"
+            },
+            {
+                "en": "detached_sleeves",
+                "zh": "袖肩分离装"
+            },
+            {
+                "en": "dirndl",
+                "zh": "酒馆服务员服装"
+            },
+            {
+                "en": "dolphin shorts",
+                "zh": "海豚短裤"
             },
             {
                 "en": "dougi",
                 "zh": "武道服"
             },
             {
+                "en": "dress",
+                "zh": "连衣裙"
+            },
+            {
+                "en": "dress flip",
+                "zh": "飘起的裙子"
+            },
+            {
+                "en": "dress grab",
+                "zh": "抓住裙子"
+            },
+            {
+                "en": "dungarees",
+                "zh": "工装服"
+            },
+            {
+                "en": "evening gown",
+                "zh": "晚会礼服"
+            },
+            {
+                "en": "eyepatch bikini",
+                "zh": "眼罩比基尼"
+            },
+            {
+                "en": "flag dress",
+                "zh": "国旗连衣裙"
+            },
+            {
+                "en": "formal",
+                "zh": "正装"
+            },
+            {
+                "en": "friled bikini",
+                "zh": "褶边比基尼"
+            },
+            {
+                "en": "frilled dress",
+                "zh": "花边连衣裙"
+            },
+            {
+                "en": "frills",
+                "zh": "皱边的"
+            },
+            {
                 "en": "front zipper swimsuit",
                 "zh": "拉链在正面的泳衣"
             },
             {
+                "en": "front-tie bikini",
+                "zh": "从正面打结的比基尼"
+            },
+            {
+                "en": "funeral dress",
+                "zh": "丧服"
+            },
+            {
+                "en": "fur-trimmed dress",
+                "zh": "毛边连衣裙"
+            },
+            {
+                "en": "garreg mach monastery uniform",
+                "zh": "火焰纹章军服"
+            },
+            {
+                "en": "gothic",
+                "zh": "哥特风格"
+            },
+            {
+                "en": "gothic_lolita",
+                "zh": "哥特洛丽塔风格"
+            },
+            {
                 "en": "gown",
                 "zh": "女裙/女长服/女礼服"
+            },
+            {
+                "en": "green dress",
+                "zh": "绿色连衣裙"
+            },
+            {
+                "en": "grey dress",
+                "zh": "灰色连衣裙"
+            },
+            {
+                "en": "gym uniform",
+                "zh": "运动服"
+            },
+            {
+                "en": "gym_uniform",
+                "zh": "运动服"
+            },
+            {
+                "en": "half-dress",
+                "zh": "半开裙"
             },
             {
                 "en": "halter dress",
@@ -714,20 +378,100 @@
                 "zh": "舞娘服"
             },
             {
+                "en": "hat",
+                "zh": "帽子"
+            },
+            {
+                "en": "high - waist shorts",
+                "zh": " 高腰腿裤"
+            },
+            {
+                "en": "high-low skirt",
+                "zh": "高低裙"
+            },
+            {
+                "en": "highleg bikini",
+                "zh": "高开衩的比基尼"
+            },
+            {
+                "en": "highleg dress",
+                "zh": "高叉长裙"
+            },
+            {
                 "en": "highleg leotard",
                 "zh": "高开衩的连身衣"
+            },
+            {
+                "en": "hobble dress",
+                "zh": "乳胶连衣裙"
+            },
+            {
+                "en": "hoodie ",
+                "zh": "连帽衫，卫衣"
             },
             {
                 "en": "impossible bodysuit",
                 "zh": "人体彩绘般的紧身衣"
             },
             {
+                "en": "impossible dress",
+                "zh": "不切实际的连衣裙"
+            },
+            {
+                "en": "jacket",
+                "zh": "夹克"
+            },
+            {
+                "en": "japanese clothes",
+                "zh": "和服"
+            },
+            {
+                "en": "japanese_clothes",
+                "zh": "和服"
+            },
+            {
+                "en": "kimono",
+                "zh": "和服"
+            },
+            {
+                "en": "kimono skirt",
+                "zh": "和服裙"
+            },
+            {
                 "en": "kindergarten uniform",
                 "zh": "幼儿园制服"
             },
             {
+                "en": "lace",
+                "zh": "花边"
+            },
+            {
+                "en": "lace-trimmed dress",
+                "zh": "蕾丝连衣裙"
+            },
+            {
                 "en": "latex",
                 "zh": "胶衣"
+            },
+            {
+                "en": "latex dress",
+                "zh": "乳胶裙"
+            },
+            {
+                "en": "layered bikini",
+                "zh": "分层比基尼"
+            },
+            {
+                "en": "layered dress",
+                "zh": "分层连衣裙"
+            },
+            {
+                "en": "layered skirt",
+                "zh": "分层式半身裙"
+            },
+            {
+                "en": "leotard",
+                "zh": "體操服"
             },
             {
                 "en": "letterman jacket",
@@ -738,288 +482,64 @@
                 "zh": "活体衣服"
             },
             {
-                "en": "loungewear",
-                "zh": "休闲服"
+                "en": "lolita fashion",
+                "zh": "洛丽塔风格"
             },
             {
-                "en": "meiji schoolgirl uniform",
-                "zh": "明治年间女学生制服"
-            },
-            {
-                "en": "military uniform",
-                "zh": "军服"
-            },
-            {
-                "en": "one-piece swimsuit",
-                "zh": "一体式泳衣"
-            },
-            {
-                "en": "playboy bunny leotard",
-                "zh": "兔女郎连身衣"
-            },
-            {
-                "en": "police uniform",
-                "zh": "警服"
-            },
-            {
-                "en": "reverse bunnysuit",
-                "zh": "逆兔女郎"
-            },
-            {
-                "en": "sailor",
-                "zh": "水手服"
-            },
-            {
-                "en": "sailor senshi uniform",
-                "zh": "美少女战士制服"
-            },
-            {
-                "en": "santa costume",
-                "zh": "圣诞老人服装"
-            },
-            {
-                "en": "stile uniform",
-                "zh": "女侍从的制服"
-            },
-            {
-                "en": "straitjacket",
-                "zh": "拘束服"
-            },
-            {
-                "en": "uchikake",
-                "zh": "白无垢/日式嫁衣"
-            },
-            {
-                "en": "varia suit",
-                "zh": "强化服"
-            },
-            {
-                "en": "virgin killer outfit",
-                "zh": "处男杀手服"
-            },
-            {
-                "en": "volleyball uniform",
-                "zh": "排球服"
-            },
-            {
-                "en": "cute & girly (idolmaster)",
-                "zh": "Cute & Girly (偶像大师)"
-            },
-            {
-                "en": "crinoline",
-                "zh": "裙撑/裙架"
-            },
-            {
-                "en": "dress flip",
-                "zh": "飘起的裙子"
-            },
-            {
-                "en": "dress grab",
-                "zh": "抓住裙子"
-            },
-            {
-                "en": "skirt basket",
-                "zh": "裙子篮兜"
-            },
-            {
-                "en": "torn dress",
-                "zh": "撕破的连衣裙"
-            },
-            {
-                "en": "wet dress",
-                "zh": "潮湿的衣服"
-            },
-            {
-                "en": "aqua dress",
-                "zh": "水色连衣裙"
-            },
-            {
-                "en": "black dress",
-                "zh": "黑连衣裙"
-            },
-            {
-                "en": "blue dress",
-                "zh": "蓝连衣裙"
-            },
-            {
-                "en": "brown dress",
-                "zh": "棕色连衣裙"
-            },
-            {
-                "en": "green dress",
-                "zh": "绿色连衣裙"
-            },
-            {
-                "en": "grey dress",
-                "zh": "灰色连衣裙"
-            },
-            {
-                "en": "orange dress",
-                "zh": "橙色连衣裙"
-            },
-            {
-                "en": "pink dress",
-                "zh": "粉连衣裙"
-            },
-            {
-                "en": "purple dress",
-                "zh": "紫连衣裙"
-            },
-            {
-                "en": "red dress",
-                "zh": "红连衣裙"
-            },
-            {
-                "en": "sepia dress",
-                "zh": "红棕色连衣裙"
-            },
-            {
-                "en": "white dress",
-                "zh": "白色连衣裙"
-            },
-            {
-                "en": "yellow dress",
-                "zh": "黄色连衣裙"
-            },
-            {
-                "en": "multicolored dress",
-                "zh": "多色连衣裙"
-            },
-            {
-                "en": "two-tone dress",
-                "zh": "双色连衣裙"
-            },
-            {
-                "en": "argyle dress",
-                "zh": "钻石图案的裙子"
-            },
-            {
-                "en": "checkered dress",
-                "zh": "方格花纹连衣裙"
-            },
-            {
-                "en": "flag dress",
-                "zh": "国旗连衣裙"
-            },
-            {
-                "en": "plaid dress",
-                "zh": "格子连衣裙"
-            },
-            {
-                "en": "polka dot dress",
-                "zh": "圆点花纹连衣裙"
-            },
-            {
-                "en": "print dress",
-                "zh": "印花裙子"
-            },
-            {
-                "en": "striped dress",
-                "zh": "条纹连衣裙"
-            },
-            {
-                "en": "vertical-striped dress",
-                "zh": "垂直条纹连衣裙"
-            },
-            {
-                "en": "pinstripe dress",
-                "zh": "细条纹连衣裙"
-            },
-            {
-                "en": "frilled dress",
-                "zh": "花边连衣裙"
-            },
-            {
-                "en": "fur-trimmed dress",
-                "zh": "毛边连衣裙"
-            },
-            {
-                "en": "half-dress",
-                "zh": "半开裙"
-            },
-            {
-                "en": "highleg dress",
-                "zh": "高叉长裙"
-            },
-            {
-                "en": "high-low skirt",
-                "zh": "高低裙"
-            },
-            {
-                "en": "hobble dress",
-                "zh": "乳胶连衣裙"
-            },
-            {
-                "en": "impossible dress",
-                "zh": "不切实际的连衣裙"
-            },
-            {
-                "en": "lace-trimmed dress",
-                "zh": "蕾丝连衣裙"
-            },
-            {
-                "en": "latex dress",
-                "zh": "乳胶裙"
+                "en": "lolita_fashion",
+                "zh": "洛丽塔风格"
             },
             {
                 "en": "long dress",
                 "zh": "长裙"
             },
             {
-                "en": "ribbed dress",
-                "zh": "罗纹连衣裙"
+                "en": "loungewear",
+                "zh": "休闲服"
             },
             {
-                "en": "ribbon-trimmed dress",
-                "zh": "色带装饰的连衣裙"
+                "en": "lowleg bikini",
+                "zh": "低腰比基尼"
             },
             {
-                "en": "short dress",
-                "zh": "短裙"
+                "en": "maid bikini",
+                "zh": "女仆比基尼"
             },
             {
-                "en": "side slit",
-                "zh": "侧开叉"
-            },
-            {
-                "en": "taut dress",
-                "zh": "绷紧的连衣裙"
-            },
-            {
-                "en": "see-through dress",
-                "zh": "透明连衣裙"
-            },
-            {
-                "en": "sleeveless dress",
-                "zh": "无袖连衣裙"
-            },
-            {
-                "en": "cake dress",
-                "zh": "形似蛋糕的连衣裙"
-            },
-            {
-                "en": "coat dress",
-                "zh": "外套连衣裙"
-            },
-            {
-                "en": "cocktail dress",
-                "zh": "燕尾短裙"
-            },
-            {
-                "en": "denim dress",
-                "zh": "牛仔连衣裙"
-            },
-            {
-                "en": "dirndl",
-                "zh": "酒馆服务员服装"
-            },
-            {
-                "en": "funeral dress",
-                "zh": "丧服"
+                "en": "meiji schoolgirl uniform",
+                "zh": "明治年间女学生制服"
             },
             {
                 "en": "mermaid dress",
                 "zh": "鱼尾裙"
+            },
+            {
+                "en": "mesh",
+                "zh": "网眼上衣"
+            },
+            {
+                "en": "micro bikini",
+                "zh": "迷你比基尼"
+            },
+            {
+                "en": "microskirt",
+                "zh": "超短裙"
+            },
+            {
+                "en": "military uniform",
+                "zh": "军服"
+            },
+            {
+                "en": "miniskirt",
+                "zh": "迷你裙"
+            },
+            {
+                "en": "multi-strapped bikini",
+                "zh": "细带款比基尼"
+            },
+            {
+                "en": "multicolored dress",
+                "zh": "多色连衣裙"
             },
             {
                 "en": "negligee",
@@ -1030,8 +550,36 @@
                 "zh": "睡衣"
             },
             {
-                "en": "microskirt",
-                "zh": "超短裙"
+                "en": "obi",
+                "zh": "衣带(和服用)"
+            },
+            {
+                "en": "off-shoulder dress",
+                "zh": "露肩连衣裙"
+            },
+            {
+                "en": "off_shoulder",
+                "zh": "露单肩"
+            },
+            {
+                "en": "one-piece swimsuit",
+                "zh": "连体泳衣"
+            },
+            {
+                "en": "open kimono",
+                "zh": "敞开的和服"
+            },
+            {
+                "en": "orange dress",
+                "zh": "橙色连衣裙"
+            },
+            {
+                "en": "organza lace",
+                "zh": "透明硬纱/蕾丝花边"
+            },
+            {
+                "en": "pajamas",
+                "zh": "睡衣"
             },
             {
                 "en": "pencil dress",
@@ -1042,24 +590,320 @@
                 "zh": "短铅笔裙"
             },
             {
-                "en": "plaid skirt",
-                "zh": "格子呢短裙"
+                "en": "pettiskirt",
+                "zh": "蓬蓬裙"
             },
             {
                 "en": "pinafore dress",
                 "zh": "背心裙/无袖连衣裙"
             },
             {
+                "en": "pink dress",
+                "zh": "粉连衣裙"
+            },
+            {
+                "en": "pink lucency full dress",
+                "zh": "礼服"
+            },
+            {
+                "en": "pinstripe dress",
+                "zh": "细条纹连衣裙"
+            },
+            {
+                "en": "plaid dress",
+                "zh": "格子连衣裙"
+            },
+            {
+                "en": "plaid skirt",
+                "zh": "格子呢短裙"
+            },
+            {
+                "en": "playboy bunny leotard",
+                "zh": "兔女郎连身衣"
+            },
+            {
+                "en": "pleated dress",
+                "zh": "百褶连衣裙"
+            },
+            {
+                "en": "pleated_skirt",
+                "zh": "百褶裙"
+            },
+            {
+                "en": "police uniform",
+                "zh": "警服"
+            },
+            {
+                "en": "polka dot",
+                "zh": "点状花纹"
+            },
+            {
+                "en": "polka dot dress",
+                "zh": "圆点花纹连衣裙"
+            },
+            {
+                "en": "polka_dot",
+                "zh": "点状花纹的"
+            },
+            {
+                "en": "print dress",
+                "zh": "印花裙子"
+            },
+            {
+                "en": "purple dress",
+                "zh": "紫连衣裙"
+            },
+            {
+                "en": "red dress",
+                "zh": "红连衣裙"
+            },
+            {
+                "en": "revealing dress",
+                "zh": "礼服长裙"
+            },
+            {
+                "en": "reverse bunnysuit",
+                "zh": "逆兔女郎"
+            },
+            {
+                "en": "ribbed dress",
+                "zh": "罗纹连衣裙"
+            },
+            {
+                "en": "ribbed sweater",
+                "zh": "罗纹毛衣"
+            },
+            {
+                "en": "ribbon-trimmed dress",
+                "zh": "色带装饰的连衣裙"
+            },
+            {
+                "en": "robe",
+                "zh": "长袍"
+            },
+            {
+                "en": "sailor",
+                "zh": "水手服"
+            },
+            {
+                "en": "sailor bikini",
+                "zh": "水手服款比基尼"
+            },
+            {
+                "en": "sailor senshi uniform",
+                "zh": "美少女战士制服"
+            },
+            {
+                "en": "sailor shirt",
+                "zh": "水手服"
+            },
+            {
+                "en": "sailor suite",
+                "zh": "水手服"
+            },
+            {
+                "en": "santa",
+                "zh": "圣诞装"
+            },
+            {
+                "en": "santa costume",
+                "zh": "圣诞老人服装"
+            },
+            {
                 "en": "santa dress",
                 "zh": "圣诞老人风格的裙子"
             },
             {
+                "en": "school swimsuit",
+                "zh": "学校泳衣"
+            },
+            {
+                "en": "school uniform",
+                "zh": "学校制服"
+            },
+            {
+                "en": "see-through",
+                "zh": "透明装"
+            },
+            {
+                "en": "see-through dress",
+                "zh": "透明连衣裙"
+            },
+            {
+                "en": "seifuku",
+                "zh": "日本学生服"
+            },
+            {
+                "en": "sepia dress",
+                "zh": "红棕色连衣裙"
+            },
+            {
+                "en": "serafuku",
+                "zh": "水手服"
+            },
+            {
+                "en": "sheath dress",
+                "zh": "包臀裙"
+            },
+            {
+                "en": "shell bikini",
+                "zh": "贝壳比基尼"
+            },
+            {
+                "en": "shirt",
+                "zh": "衬衫"
+            },
+            {
+                "en": "short dress",
+                "zh": "短裙"
+            },
+            {
+                "en": "short kimono",
+                "zh": "短下摆和服"
+            },
+            {
+                "en": "short shorts",
+                "zh": "热裤"
+            },
+            {
+                "en": "shorts",
+                "zh": "短裤"
+            },
+            {
+                "en": "shorts under skirt",
+                "zh": "水手服"
+            },
+            {
+                "en": "side - tie bikini bottom",
+                "zh": "侧边系带比基尼下装"
+            },
+            {
+                "en": "side slit",
+                "zh": "侧开叉"
+            },
+            {
+                "en": "side-tie bikini",
+                "zh": "系带式比基尼"
+            },
+            {
+                "en": "side-tie_bikini",
+                "zh": "系带式比基尼"
+            },
+            {
+                "en": "skirt",
+                "zh": "裙子"
+            },
+            {
+                "en": "skirt basket",
+                "zh": "裙子篮兜"
+            },
+            {
+                "en": "sleeveless dress",
+                "zh": "无袖连衣裙"
+            },
+            {
+                "en": "sleeveless shirt",
+                "zh": "无袖上衣"
+            },
+            {
+                "en": "sling bikini",
+                "zh": "吊索比基尼"
+            },
+            {
+                "en": "slingshot swimsuit",
+                "zh": "弹弓泳衣/吊带泳衣/V字泳衣"
+            },
+            {
+                "en": "sports bikini",
+                "zh": "运动比基尼"
+            },
+            {
+                "en": "sportswear",
+                "zh": "运动服"
+            },
+            {
+                "en": "stile uniform",
+                "zh": "女侍从的制服"
+            },
+            {
+                "en": "straitjacket",
+                "zh": "拘束服"
+            },
+            {
+                "en": "strapless bikini",
+                "zh": "无肩带比基尼"
+            },
+            {
+                "en": "strapless dress",
+                "zh": "无肩带连衣裙"
+            },
+            {
+                "en": "striped",
+                "zh": "横条花纹的"
+            },
+            {
+                "en": "striped dress",
+                "zh": "条纹连衣裙"
+            },
+            {
+                "en": "suit",
+                "zh": "西装"
+            },
+            {
+                "en": "suit ",
+                "zh": "西装"
+            },
+            {
+                "en": "summer_dress",
+                "zh": "夏日长裙"
+            },
+            {
+                "en": "sundress",
+                "zh": "太阳裙/背心裙"
+            },
+            {
+                "en": "suspender skirt",
+                "zh": "吊带裙"
+            },
+            {
                 "en": "sweater dress",
-                "zh": "毛衣连衣裙"
+                "zh": "毛衣裙"
+            },
+            {
+                "en": "sweater jacket",
+                "zh": "毛衣夹克"
+            },
+            {
+                "en": "swimsuit",
+                "zh": "泳装"
+            },
+            {
+                "en": "tank_top",
+                "zh": "女用背心"
+            },
+            {
+                "en": "tartan",
+                "zh": "格子花纹"
+            },
+            {
+                "en": "taut dress",
+                "zh": "绷紧的连衣裙"
             },
             {
                 "en": "tennis dress",
                 "zh": "网球连衣裙"
+            },
+            {
+                "en": "thong bikini",
+                "zh": "丁字式比基尼"
+            },
+            {
+                "en": "torn clothes",
+                "zh": "破烂衣服"
+            },
+            {
+                "en": "torn dress",
+                "zh": "撕破的连衣裙"
             },
             {
                 "en": "trapeze dress",
@@ -1070,14 +914,114 @@
                 "zh": "抹胸连衣裙"
             },
             {
+                "en": "tutu",
+                "zh": "芭蕾舞裙"
+            },
+            {
+                "en": "two-tone dress",
+                "zh": "双色连衣裙"
+            },
+            {
+                "en": "uchikake",
+                "zh": "白无垢/日式嫁衣"
+            },
+            {
+                "en": "uniform",
+                "zh": "制服"
+            },
+            {
+                "en": "untied bikini",
+                "zh": "解开的比基尼"
+            },
+            {
+                "en": "varia suit",
+                "zh": "强化服"
+            },
+            {
+                "en": "vertical-striped dress",
+                "zh": "垂直条纹连衣裙"
+            },
+            {
                 "en": "vietnamese dress",
                 "zh": "越南连衣裙"
+            },
+            {
+                "en": "virgin killer outfit",
+                "zh": "处男杀手服"
+            },
+            {
+                "en": "volleyball uniform",
+                "zh": "排球服"
+            },
+            {
+                "en": "waist apron",
+                "zh": "腰围裙"
+            },
+            {
+                "en": "wedding dress",
+                "zh": "婚纱"
+            },
+            {
+                "en": "wedding_dress",
+                "zh": "婚纱"
+            },
+            {
+                "en": "western",
+                "zh": "西部风格"
+            },
+            {
+                "en": "wet dress",
+                "zh": "潮湿的衣服"
+            },
+            {
+                "en": "white bloomers",
+                "zh": "白色灯笼裤"
+            },
+            {
+                "en": "white dress",
+                "zh": "白色连衣裙"
+            },
+            {
+                "en": "whitedress",
+                "zh": "白色连衣裙"
+            },
+            {
+                "en": "yellow dress",
+                "zh": "黄色连衣裙"
+            },
+            {
+                "en": "yukata",
+                "zh": "浴衣"
             }
         ],
         "脖子": [
             {
+                "en": "adjusting collar",
+                "zh": "调整领子"
+            },
+            {
+                "en": "amulet",
+                "zh": "护身符"
+            },
+            {
+                "en": "animal collar",
+                "zh": "动物项圈"
+            },
+            {
+                "en": "aqua neckwear",
+                "zh": "水色领带"
+            },
+            {
                 "en": "ascot",
                 "zh": "领巾状领带"
+            },
+            {
+                "en": "black neckwear",
+                "zh": "黑色领带"
+            },
+            {
+                "en": "blue neckwear",
+                "zh": "蓝色领带"
             },
             {
                 "en": "bolo tie",
@@ -1088,44 +1032,88 @@
                 "zh": "蝴蝶领结"
             },
             {
-                "en": "choker",
-                "zh": "项圈"
+                "en": "brown neckwear",
+                "zh": "棕色领带"
             },
             {
-                "en": "ribbon choker",
-                "zh": "颈带"
+                "en": "chain necklace",
+                "zh": "项链"
+            },
+            {
+                "en": "checkered neckwear",
+                "zh": "格子领口"
+            },
+            {
+                "en": "choker",
+                "zh": "项圈"
             },
             {
                 "en": "collar",
                 "zh": "项圈"
             },
             {
-                "en": "neck bell",
-                "zh": "颈铃"
+                "en": "collar grab",
+                "zh": "抓住衣领"
             },
             {
-                "en": "animal collar",
-                "zh": "动物项圈"
+                "en": "collar tug",
+                "zh": "调整衣领"
             },
             {
-                "en": "spiked collar",
-                "zh": "带钉项圈"
+                "en": "cross tie",
+                "zh": "交叉领带"
             },
             {
-                "en": "pet cone",
-                "zh": "伊丽莎白圈"
+                "en": "detached collar",
+                "zh": "假领"
+            },
+            {
+                "en": "dog collar",
+                "zh": "狗项圈"
             },
             {
                 "en": "feather boa",
                 "zh": "羽毛围巾"
             },
             {
+                "en": "flower necklace",
+                "zh": "花项链"
+            },
+            {
+                "en": "friendship charm",
+                "zh": "友情护身符"
+            },
+            {
+                "en": "fur collar",
+                "zh": "毛领"
+            },
+            {
                 "en": "goggles around neck",
                 "zh": "护目镜在脖子上"
             },
             {
+                "en": "green neckwear",
+                "zh": "绿色领带"
+            },
+            {
+                "en": "grey neckwear",
+                "zh": "灰色领带"
+            },
+            {
+                "en": "halterneck",
+                "zh": "绕颈系带"
+            },
+            {
                 "en": "headphones around neck",
                 "zh": "脖子上挂耳机"
+            },
+            {
+                "en": "heart choker",
+                "zh": "心形项圈"
+            },
+            {
+                "en": "high collar",
+                "zh": "高领"
             },
             {
                 "en": "jabot",
@@ -1136,40 +1124,8 @@
                 "zh": "工牌挂绳"
             },
             {
-                "en": "neckerchief",
-                "zh": "领巾"
-            },
-            {
-                "en": "necklace",
-                "zh": "项链"
-            },
-            {
-                "en": "chain necklace",
-                "zh": "项链"
-            },
-            {
-                "en": "flower necklace",
-                "zh": "花项链"
-            },
-            {
                 "en": "lei",
                 "zh": "夏威夷花环"
-            },
-            {
-                "en": "friendship charm",
-                "zh": "友情护身符"
-            },
-            {
-                "en": "pearl necklace",
-                "zh": "珍珠项链"
-            },
-            {
-                "en": "pendant",
-                "zh": "吊坠"
-            },
-            {
-                "en": "amulet",
-                "zh": "护身符"
             },
             {
                 "en": "locket",
@@ -1180,16 +1136,32 @@
                 "zh": "勾玉"
             },
             {
-                "en": "pentacle",
-                "zh": "五芒星"
+                "en": "metal collar",
+                "zh": "金属项圈"
+            },
+            {
+                "en": "neck bell",
+                "zh": "颈铃"
             },
             {
                 "en": "neck ribbon",
                 "zh": "颈部系着缎带"
             },
             {
+                "en": "neck ring",
+                "zh": "颈环"
+            },
+            {
                 "en": "neck ruff",
                 "zh": "波浪褶边的领子"
+            },
+            {
+                "en": "neckerchief",
+                "zh": "领巾"
+            },
+            {
+                "en": "necklace",
+                "zh": "项链"
             },
             {
                 "en": "necktie",
@@ -1208,72 +1180,44 @@
                 "zh": "取下领带"
             },
             {
-                "en": "scarf",
-                "zh": "围巾"
-            },
-            {
-                "en": "stole",
-                "zh": "脖子后挂的彩色布带"
-            },
-            {
-                "en": "cross tie",
-                "zh": "交叉领带"
-            },
-            {
-                "en": "dog collar",
-                "zh": "狗项圈"
-            },
-            {
-                "en": "heart choker",
-                "zh": "心形项圈"
-            },
-            {
-                "en": "metal collar",
-                "zh": "金属项圈"
-            },
-            {
-                "en": "detached collar",
-                "zh": "假领"
-            },
-            {
-                "en": "high collar",
-                "zh": "高领"
-            },
-            {
-                "en": "sailor collar",
-                "zh": "水手领"
-            },
-            {
-                "en": "aqua neckwear",
-                "zh": "水色领带"
-            },
-            {
-                "en": "black neckwear",
-                "zh": "黑色领带"
-            },
-            {
-                "en": "blue neckwear",
-                "zh": "蓝色领带"
-            },
-            {
-                "en": "brown neckwear",
-                "zh": "棕色领带"
-            },
-            {
-                "en": "green neckwear",
-                "zh": "绿色领带"
-            },
-            {
-                "en": "grey neckwear",
-                "zh": "灰色领带"
+                "en": "open collar",
+                "zh": "开领"
             },
             {
                 "en": "orange neckwear",
                 "zh": "橙色领带"
             },
             {
+                "en": "pearl necklace",
+                "zh": "珍珠项链"
+            },
+            {
+                "en": "pendant",
+                "zh": "吊坠"
+            },
+            {
+                "en": "pentacle",
+                "zh": "五芒星"
+            },
+            {
+                "en": "pet cone",
+                "zh": "伊丽莎白圈"
+            },
+            {
                 "en": "pink neckwear",
                 "zh": "粉色领带"
+            },
+            {
+                "en": "plaid neckwear",
+                "zh": "格子衣领"
+            },
+            {
+                "en": "plunging neckline",
+                "zh": "深领"
+            },
+            {
+                "en": "popped collar",
+                "zh": "竖起来的衣领"
             },
             {
                 "en": "purple neckwear",
@@ -1284,108 +1228,56 @@
                 "zh": "红色领带"
             },
             {
-                "en": "white neckwear",
-                "zh": "白色领带"
+                "en": "ribbon choker",
+                "zh": "颈带"
             },
             {
-                "en": "yellow neckwear",
-                "zh": "黄色领带"
-            },
-            {
-                "en": "plaid neckwear",
-                "zh": "格子衣领"
-            },
-            {
-                "en": "striped neckwear",
-                "zh": "条纹衣领"
-            },
-            {
-                "en": "collar grab",
-                "zh": "抓住衣领"
-            },
-            {
-                "en": "collar tug",
-                "zh": "调整衣领"
-            },
-            {
-                "en": "adjusting collar",
-                "zh": "调整领子"
-            },
-            {
-                "en": "fur collar",
-                "zh": "毛领"
-            },
-            {
-                "en": "open collar",
-                "zh": "开领"
-            },
-            {
-                "en": "popped collar",
-                "zh": "竖起来的衣领"
-            },
-            {
-                "en": "turtleneck",
-                "zh": "高领套头衫"
+                "en": "scarf",
+                "zh": "围巾"
             },
             {
                 "en": "sleeveless turtleneck",
                 "zh": "无袖高领毛衣"
             },
             {
+                "en": "spiked collar",
+                "zh": "带钉项圈"
+            },
+            {
+                "en": "stole",
+                "zh": "脖子后挂的彩色布带"
+            },
+            {
+                "en": "striped neckwear",
+                "zh": "条纹衣领"
+            },
+            {
+                "en": "turtleneck",
+                "zh": "高领套头衫"
+            },
+            {
                 "en": "v-neck",
                 "zh": "V领"
+            },
+            {
+                "en": "white neckwear",
+                "zh": "白色领带"
             },
             {
                 "en": "wing collar",
                 "zh": "翼领"
             },
             {
-                "en": "checkered neckwear",
-                "zh": "格子领口"
-            },
-            {
-                "en": "halterneck",
-                "zh": "绕颈系带"
-            },
-            {
-                "en": "neck ring",
-                "zh": "颈环"
-            },
-            {
-                "en": "plunging neckline",
-                "zh": "深领"
+                "en": "yellow neckwear",
+                "zh": "黄色领带"
             }
         ]
     },
     "r18": {
         "default": [
             {
-                "en": "no bra",
-                "zh": "没胸罩"
-            },
-            {
                 "en": "bra ",
                 "zh": "胸罩"
-            },
-            {
-                "en": "victorian",
-                "zh": "褶边文胸"
-            },
-            {
-                "en": "frilled bra ",
-                "zh": "褶边文胸"
-            },
-            {
-                "en": "sexy lingerie",
-                "zh": "情趣内衣"
-            },
-            {
-                "en": "transparent underwear",
-                "zh": "透明内衣"
-            },
-            {
-                "en": "sarashi",
-                "zh": "缠胸布"
             },
             {
                 "en": "bustier",
@@ -1396,36 +1288,8 @@
                 "zh": "吊带胸衣"
             },
             {
-                "en": "underwear",
-                "zh": "内衣"
-            },
-            {
-                "en": "panties",
-                "zh": "内裤（前加颜色）"
-            },
-            {
-                "en": "striped_panties",
-                "zh": "条纹内裤"
-            },
-            {
-                "en": "no_panties",
-                "zh": "没内裤"
-            },
-            {
-                "en": "lowleg_panties/low_leg_panties",
-                "zh": "低腰式内裤"
-            },
-            {
-                "en": "side-tie_panties",
-                "zh": "侧系带内裤"
-            },
-            {
-                "en": "string_panties",
-                "zh": "高腰内裤"
-            },
-            {
-                "en": "thong",
-                "zh": "丁字裤"
+                "en": "frilled bra ",
+                "zh": "褶边文胸"
             },
             {
                 "en": "fundoshi",
@@ -1436,8 +1300,8 @@
                 "zh": "女用贴身内衣裤"
             },
             {
-                "en": "nude",
-                "zh": "裸体的"
+                "en": "lowleg_panties/low_leg_panties",
+                "zh": "低腰式内裤"
             },
             {
                 "en": "naked apron",
@@ -1450,6 +1314,58 @@
             {
                 "en": "naked ribbon",
                 "zh": "裸体丝带"
+            },
+            {
+                "en": "no bra",
+                "zh": "没胸罩"
+            },
+            {
+                "en": "no_panties",
+                "zh": "没内裤"
+            },
+            {
+                "en": "nude",
+                "zh": "裸体的"
+            },
+            {
+                "en": "panties",
+                "zh": "内裤（前加颜色）"
+            },
+            {
+                "en": "sarashi",
+                "zh": "缠胸布"
+            },
+            {
+                "en": "sexy lingerie",
+                "zh": "情趣内衣"
+            },
+            {
+                "en": "side-tie_panties",
+                "zh": "侧系带内裤"
+            },
+            {
+                "en": "string_panties",
+                "zh": "高腰内裤"
+            },
+            {
+                "en": "striped_panties",
+                "zh": "条纹内裤"
+            },
+            {
+                "en": "thong",
+                "zh": "丁字裤"
+            },
+            {
+                "en": "transparent underwear",
+                "zh": "透明内衣"
+            },
+            {
+                "en": "underwear",
+                "zh": "内衣"
+            },
+            {
+                "en": "victorian",
+                "zh": "褶边文胸"
             }
         ]
     }

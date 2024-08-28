@@ -54,5 +54,7 @@ npm run lint
 ```
 
 # 鸣谢
-
-本网站目前是 https://wolfchen.top/tag/ 的改版，非常感谢提供原始思路
+词汇表及灵感来自于以下网站
+* https://wolfchen.top/tag/
+* https://tags.novelai.dev/
+ 非常感谢提供原始思路

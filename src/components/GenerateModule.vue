@@ -2,7 +2,7 @@
     <n-card class="card">
         <div style="display: flex; justify-content: space-between; align-items: center;">
             <n-gradient-text size="24" style="margin-bottom: 10px; display: inline-block; font-weight: bold;"> 自选菜区
-                <n-gradient-text size="10" style="display: inline-block;"> 共3373词
+                <n-gradient-text size="10" style="display: inline-block;"> 共3667词
                 </n-gradient-text>
             </n-gradient-text>
             <n-switch v-model:value="isNSFW" size="medium" style="display: inline-block;">
