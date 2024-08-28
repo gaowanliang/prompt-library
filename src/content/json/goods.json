@@ -1,0 +1,2820 @@
+{
+    "normal": {
+        "谷制品": [
+            {
+                "en": "bread",
+                "zh": "面包"
+            },
+            {
+                "en": "baguette",
+                "zh": "法棍"
+            },
+            {
+                "en": "biscuit (bread)",
+                "zh": "饼干（面包）"
+            },
+            {
+                "en": "bread bun",
+                "zh": "面包包子"
+            },
+            {
+                "en": "bread crust",
+                "zh": "面包皮"
+            },
+            {
+                "en": "bread eating race",
+                "zh": "吃面包比赛（咬住面包跑到终点）"
+            },
+            {
+                "en": "japari bun",
+                "zh": "加帕里面包（兽娘动物园）"
+            },
+            {
+                "en": "melon bread",
+                "zh": "菠萝包"
+            },
+            {
+                "en": "toast",
+                "zh": "吐司"
+            },
+            {
+                "en": "cereal",
+                "zh": "谷物早餐"
+            },
+            {
+                "en": "cracker",
+                "zh": "饼干"
+            },
+            {
+                "en": "arare",
+                "zh": "粗米饼"
+            },
+            {
+                "en": "senbei",
+                "zh": "仙贝"
+            },
+            {
+                "en": "croissant",
+                "zh": "羊角面包"
+            },
+            {
+                "en": "empanada",
+                "zh": "恩巴纳达"
+            },
+            {
+                "en": "noodles",
+                "zh": "面条"
+            },
+            {
+                "en": "pasta",
+                "zh": "意大利面"
+            },
+            {
+                "en": "lasagne",
+                "zh": "千层面"
+            },
+            {
+                "en": "spaghetti",
+                "zh": "意大利面"
+            },
+            {
+                "en": "black spaghetti",
+                "zh": "黑色意大利面"
+            },
+            {
+                "en": "spaghetti and meatballs",
+                "zh": "肉丸意大利面"
+            },
+            {
+                "en": "ramen",
+                "zh": "拉面"
+            },
+            {
+                "en": "cup ramen",
+                "zh": "杯面"
+            },
+            {
+                "en": "jirou (ramen)",
+                "zh": "堆高的豚骨拉面"
+            },
+            {
+                "en": "soba",
+                "zh": "荞麦"
+            },
+            {
+                "en": "yakisoba",
+                "zh": "炒面"
+            },
+            {
+                "en": "italian (niigata)",
+                "zh": "意大利面（新潟）"
+            },
+            {
+                "en": "yakisobapan",
+                "zh": "炒面面包"
+            },
+            {
+                "en": "soumen",
+                "zh": "素麺（面条 食物）"
+            },
+            {
+                "en": "udon",
+                "zh": "乌冬面"
+            },
+            {
+                "en": "kitsune udon",
+                "zh": "狐狸乌冬面"
+            },
+            {
+                "en": "pancake",
+                "zh": "煎饼"
+            },
+            {
+                "en": "pancake stack",
+                "zh": "煎饼堆"
+            },
+            {
+                "en": "rice",
+                "zh": "米饭"
+            },
+            {
+                "en": "fried rice",
+                "zh": "炒饭"
+            },
+            {
+                "en": "omurice",
+                "zh": "蛋包饭"
+            },
+            {
+                "en": "onigiri",
+                "zh": "饭团"
+            },
+            {
+                "en": "rice on face",
+                "zh": "脸上有米饭"
+            },
+            {
+                "en": "rice porridge",
+                "zh": "稀饭"
+            },
+            {
+                "en": "nanakusa-no-sekku",
+                "zh": "喝七草粥的日子"
+            },
+            {
+                "en": "risotto",
+                "zh": "烩饭"
+            },
+            {
+                "en": "scone",
+                "zh": "烤饼"
+            },
+            {
+                "en": "waffle",
+                "zh": "华夫饼干"
+            }
+        ],
+        "调味料": [
+            {
+                "en": "furikake",
+                "zh": "拌饭素"
+            },
+            {
+                "en": "honey",
+                "zh": "蜂蜜"
+            },
+            {
+                "en": "jam",
+                "zh": "果酱"
+            },
+            {
+                "en": "marmalade",
+                "zh": "果酱/橘子酱"
+            },
+            {
+                "en": "ketchup",
+                "zh": "番茄酱"
+            },
+            {
+                "en": "mayonnaise",
+                "zh": "蛋黄酱"
+            },
+            {
+                "en": "mustard",
+                "zh": "芥末"
+            },
+            {
+                "en": "peanut butter",
+                "zh": "花生酱"
+            },
+            {
+                "en": "pepper shaker",
+                "zh": "胡椒"
+            },
+            {
+                "en": "salt shaker",
+                "zh": "撒盐瓶子"
+            },
+            {
+                "en": "sauce",
+                "zh": "酱汁"
+            },
+            {
+                "en": "hot sauce",
+                "zh": "辣酱"
+            },
+            {
+                "en": "soy sauce",
+                "zh": "酱油"
+            },
+            {
+                "en": "sugar (food)",
+                "zh": "粉状糖（食物）"
+            },
+            {
+                "en": "sugar cube",
+                "zh": "方糖"
+            },
+            {
+                "en": "wasabi",
+                "zh": "芥末"
+            },
+            {
+                "en": "syrup",
+                "zh": "果酱"
+            },
+            {
+                "en": "chocolate syrup",
+                "zh": "巧克力酱"
+            },
+            {
+                "en": "strawberry syrup",
+                "zh": "草莓酱"
+            }
+        ],
+        "乳制品": [
+            {
+                "en": "butter",
+                "zh": "黄油"
+            },
+            {
+                "en": "cheese",
+                "zh": "芝士"
+            },
+            {
+                "en": "smoked cheese",
+                "zh": "烟熏奶酪"
+            },
+            {
+                "en": "swiss cheese",
+                "zh": "瑞士奶酪"
+            },
+            {
+                "en": "cream",
+                "zh": "奶油"
+            },
+            {
+                "en": "whipped cream",
+                "zh": "打发的奶油"
+            },
+            {
+                "en": "eggnog",
+                "zh": "蛋酒"
+            },
+            {
+                "en": "kefir",
+                "zh": "开菲尔"
+            },
+            {
+                "en": "milk",
+                "zh": "牛奶"
+            },
+            {
+                "en": "baby bottle",
+                "zh": "婴儿奶瓶"
+            },
+            {
+                "en": "condensed milk",
+                "zh": "炼乳"
+            },
+            {
+                "en": "chocolate milk",
+                "zh": "巧克力牛奶"
+            },
+            {
+                "en": "milk bottle",
+                "zh": "奶瓶"
+            },
+            {
+                "en": "milk carton",
+                "zh": "盒装牛奶"
+            },
+            {
+                "en": "milk churn",
+                "zh": "牛奶周转桶"
+            },
+            {
+                "en": "milk mustache",
+                "zh": "牛奶小胡子"
+            },
+            {
+                "en": "milkshake",
+                "zh": "奶昔"
+            },
+            {
+                "en": "strawberry milk",
+                "zh": "草莓牛奶"
+            },
+            {
+                "en": "yakult",
+                "zh": "养乐多"
+            },
+            {
+                "en": "yogurt",
+                "zh": "酸奶"
+            }
+        ],
+        "饮料": [
+            {
+                "en": "alcohol",
+                "zh": "酒精"
+            },
+            {
+                "en": "beer",
+                "zh": "啤酒"
+            },
+            {
+                "en": "non-alcoholic beer",
+                "zh": "非酒精啤酒"
+            },
+            {
+                "en": "guinness (beer)",
+                "zh": "健力士黑啤酒(啤酒)"
+            },
+            {
+                "en": "champagne",
+                "zh": "香槟酒"
+            },
+            {
+                "en": "cocktail",
+                "zh": "鸡尾酒"
+            },
+            {
+                "en": "caesar (drink)",
+                "zh": "凯撒鸡尾酒"
+            },
+            {
+                "en": "cocktail umbrella",
+                "zh": "鸡尾酒伞"
+            },
+            {
+                "en": "margarita",
+                "zh": "玛格丽塔"
+            },
+            {
+                "en": "martini",
+                "zh": "马提尼酒"
+            },
+            {
+                "en": "liquor",
+                "zh": "酒"
+            },
+            {
+                "en": "sake",
+                "zh": "日本酒"
+            },
+            {
+                "en": "tequila",
+                "zh": "龙舌兰酒"
+            },
+            {
+                "en": "vodka",
+                "zh": "伏特加"
+            },
+            {
+                "en": "whiskey",
+                "zh": "威士忌酒"
+            },
+            {
+                "en": "wine",
+                "zh": "葡萄酒"
+            },
+            {
+                "en": "coffee",
+                "zh": "咖啡"
+            },
+            {
+                "en": "cafe au lait",
+                "zh": "咖啡加牛奶"
+            },
+            {
+                "en": "canned coffee",
+                "zh": "罐装咖啡"
+            },
+            {
+                "en": "coffee beans",
+                "zh": "咖啡豆"
+            },
+            {
+                "en": "dandelion coffee",
+                "zh": "蒲公英咖啡"
+            },
+            {
+                "en": "georgia max coffee",
+                "zh": "Georgia MAX Coffee"
+            },
+            {
+                "en": "latte art",
+                "zh": "咖啡拉花"
+            },
+            {
+                "en": "starbucks",
+                "zh": "星巴克"
+            },
+            {
+                "en": "juice",
+                "zh": "果汁"
+            },
+            {
+                "en": "amazake",
+                "zh": "甘酒"
+            },
+            {
+                "en": "lemonade",
+                "zh": "柠檬汽水"
+            },
+            {
+                "en": "orange juice",
+                "zh": "橙汁"
+            },
+            {
+                "en": "soda",
+                "zh": "苏打"
+            },
+            {
+                "en": "7up",
+                "zh": "7up"
+            },
+            {
+                "en": "calpis",
+                "zh": "Calpis"
+            },
+            {
+                "en": "coca-cola",
+                "zh": "可口可乐"
+            },
+            {
+                "en": "dr pepper",
+                "zh": "Dr Pepper"
+            },
+            {
+                "en": "fanta",
+                "zh": "芬达"
+            },
+            {
+                "en": "melon soda",
+                "zh": "绿色苏打水"
+            },
+            {
+                "en": "mountain dew",
+                "zh": "激浪（饮料）"
+            },
+            {
+                "en": "pepsi",
+                "zh": "百事可乐"
+            },
+            {
+                "en": "pepsi ice cucumber",
+                "zh": "黄瓜味百事可乐"
+            },
+            {
+                "en": "ramune",
+                "zh": "ramune 波子汽水"
+            },
+            {
+                "en": "root beer",
+                "zh": "根汁啤酒"
+            },
+            {
+                "en": "soda can",
+                "zh": "汽水罐"
+            },
+            {
+                "en": "tea",
+                "zh": "茶"
+            },
+            {
+                "en": "barley tea",
+                "zh": "燕麦茶"
+            },
+            {
+                "en": "black tea",
+                "zh": "红茶"
+            },
+            {
+                "en": "bubble tea",
+                "zh": "珍珠奶茶"
+            },
+            {
+                "en": "darjeeling tea",
+                "zh": "达吉岭茶"
+            },
+            {
+                "en": "earl grey tea",
+                "zh": "伯爵茶"
+            },
+            {
+                "en": "green tea",
+                "zh": "绿茶"
+            },
+            {
+                "en": "herbal tea",
+                "zh": "草药茶"
+            },
+            {
+                "en": "iced tea",
+                "zh": "冰茶"
+            },
+            {
+                "en": "milk tea",
+                "zh": "奶茶"
+            },
+            {
+                "en": "rose hip tea",
+                "zh": "茉莉花茶"
+            },
+            {
+                "en": "spear mint tea",
+                "zh": "薄荷茶"
+            },
+            {
+                "en": "tropical drink",
+                "zh": "热带特色的饮料"
+            },
+            {
+                "en": "blue hawaii",
+                "zh": "蓝色夏威夷（鸡尾酒）"
+            }
+        ],
+        "水果": [
+            {
+                "en": "akebia fruit",
+                "zh": "阿科比"
+            },
+            {
+                "en": "apple",
+                "zh": "苹果"
+            },
+            {
+                "en": "apple bunny",
+                "zh": "苹果兔（苹果瓣一侧的果皮削去，像兔耳）"
+            },
+            {
+                "en": "apple core",
+                "zh": "苹果核"
+            },
+            {
+                "en": "apple peel",
+                "zh": "长串苹果皮"
+            },
+            {
+                "en": "bitten apple",
+                "zh": "咬苹果"
+            },
+            {
+                "en": "golden apple",
+                "zh": "金苹果"
+            },
+            {
+                "en": "green apple",
+                "zh": "青苹果"
+            },
+            {
+                "en": "red apple",
+                "zh": "红苹果"
+            },
+            {
+                "en": "avocado",
+                "zh": "牛油果/鳄梨"
+            },
+            {
+                "en": "banana",
+                "zh": "香蕉"
+            },
+            {
+                "en": "banana boat",
+                "zh": "充气香蕉船"
+            },
+            {
+                "en": "banana peel",
+                "zh": "香蕉皮"
+            },
+            {
+                "en": "banana popsicle",
+                "zh": "香蕉冰棒"
+            },
+            {
+                "en": "banana slice",
+                "zh": "香蕉片"
+            },
+            {
+                "en": "chocolate banana",
+                "zh": "巧克力香蕉"
+            },
+            {
+                "en": "gel banana",
+                "zh": "绿色果冻香蕉（命运石之门）"
+            },
+            {
+                "en": "on banana",
+                "zh": "在巨型香蕉上"
+            },
+            {
+                "en": "berry",
+                "zh": "浆果"
+            },
+            {
+                "en": "blackberry",
+                "zh": "黑莓"
+            },
+            {
+                "en": "blueberry",
+                "zh": "蓝莓"
+            },
+            {
+                "en": "raspberry",
+                "zh": "树莓"
+            },
+            {
+                "en": "strawberry",
+                "zh": "草莓"
+            },
+            {
+                "en": "cacao fruit",
+                "zh": "可可果"
+            },
+            {
+                "en": "cherry",
+                "zh": "樱桃"
+            },
+            {
+                "en": "dragon fruit",
+                "zh": "火龙果"
+            },
+            {
+                "en": "fig",
+                "zh": "无花果"
+            },
+            {
+                "en": "fruit bowl",
+                "zh": "果盘"
+            },
+            {
+                "en": "fruit cup",
+                "zh": "水果杯"
+            },
+            {
+                "en": "gooseberry",
+                "zh": "猕猴桃"
+            },
+            {
+                "en": "grapefruit",
+                "zh": "西柚"
+            },
+            {
+                "en": "grapes",
+                "zh": "葡萄"
+            },
+            {
+                "en": "currant",
+                "zh": "小葡萄干"
+            },
+            {
+                "en": "grape stomping",
+                "zh": "脚踩葡萄汁"
+            },
+            {
+                "en": "kiwi",
+                "zh": "猕猴桃"
+            },
+            {
+                "en": "kiwi slice",
+                "zh": "猕猴桃切片"
+            },
+            {
+                "en": "lemon",
+                "zh": "柠檬"
+            },
+            {
+                "en": "lemon slice",
+                "zh": "柠檬片"
+            },
+            {
+                "en": "lime",
+                "zh": "青柠"
+            },
+            {
+                "en": "lime slice",
+                "zh": "青柠片"
+            },
+            {
+                "en": "lychee",
+                "zh": "荔枝"
+            },
+            {
+                "en": "mango",
+                "zh": "芒果"
+            },
+            {
+                "en": "mangosteen",
+                "zh": "山竹"
+            },
+            {
+                "en": "melon",
+                "zh": "瓜"
+            },
+            {
+                "en": "cantaloupe",
+                "zh": "哈密瓜"
+            },
+            {
+                "en": "honeydew",
+                "zh": "蜜瓜"
+            },
+            {
+                "en": "muskmelon",
+                "zh": "甜瓜"
+            },
+            {
+                "en": "watermelon",
+                "zh": "西瓜"
+            },
+            {
+                "en": "olive",
+                "zh": "橄榄"
+            },
+            {
+                "en": "orange",
+                "zh": "橙子"
+            },
+            {
+                "en": "mandarin orange",
+                "zh": "橘子"
+            },
+            {
+                "en": "orangette",
+                "zh": "巧克力橙片"
+            },
+            {
+                "en": "orange slice",
+                "zh": "一片橙子"
+            },
+            {
+                "en": "papaya",
+                "zh": "番木瓜"
+            },
+            {
+                "en": "peach",
+                "zh": "桃"
+            },
+            {
+                "en": "pear",
+                "zh": "梨"
+            },
+            {
+                "en": "nashi pear",
+                "zh": "黄金梨"
+            },
+            {
+                "en": "persimmon",
+                "zh": "柿子"
+            },
+            {
+                "en": "pineapple",
+                "zh": "菠萝"
+            },
+            {
+                "en": "plum",
+                "zh": "李子"
+            },
+            {
+                "en": "pomegranate",
+                "zh": "石榴"
+            },
+            {
+                "en": "rambutan",
+                "zh": "红毛丹"
+            },
+            {
+                "en": "starfruit",
+                "zh": "杨桃"
+            },
+            {
+                "en": "umeboshi",
+                "zh": "梅干"
+            },
+            {
+                "en": "yuzu (fruit)",
+                "zh": "柚子（水果）"
+            }
+        ],
+        "主食": [
+            {
+                "en": "canned food",
+                "zh": "罐头食品"
+            },
+            {
+                "en": "cooking oil",
+                "zh": "食用油"
+            },
+            {
+                "en": "crumbs",
+                "zh": "面包屑"
+            },
+            {
+                "en": "curry",
+                "zh": "咖喱"
+            },
+            {
+                "en": "curry rice",
+                "zh": "咖喱饭"
+            },
+            {
+                "en": "dumpling",
+                "zh": "饺子"
+            },
+            {
+                "en": "jiaozi",
+                "zh": "饺子"
+            },
+            {
+                "en": "shumai",
+                "zh": "烧卖"
+            },
+            {
+                "en": "tang yuan",
+                "zh": "汤圆"
+            },
+            {
+                "en": "croquette",
+                "zh": "炸丸"
+            },
+            {
+                "en": "fish and chips",
+                "zh": "炸鱼薯条"
+            },
+            {
+                "en": "flour",
+                "zh": "面粉"
+            },
+            {
+                "en": "fondue",
+                "zh": "芝士火锅"
+            },
+            {
+                "en": "french fries",
+                "zh": "炸薯条"
+            },
+            {
+                "en": "french toast",
+                "zh": "法式吐司"
+            },
+            {
+                "en": "burger",
+                "zh": "汉堡包"
+            },
+            {
+                "en": "megamac",
+                "zh": "超级汉堡"
+            },
+            {
+                "en": "hot dog",
+                "zh": "热狗"
+            },
+            {
+                "en": "corn dog",
+                "zh": "玉米热狗"
+            },
+            {
+                "en": "katsu",
+                "zh": "日式炸鸡排"
+            },
+            {
+                "en": "katsudon",
+                "zh": "日式猪排饭"
+            },
+            {
+                "en": "konnyaku",
+                "zh": "蒟蒻"
+            },
+            {
+                "en": "meal",
+                "zh": "一顿饭"
+            },
+            {
+                "en": "breakfast",
+                "zh": "早餐"
+            },
+            {
+                "en": "dim sum",
+                "zh": "点心"
+            },
+            {
+                "en": "dinner",
+                "zh": "晚餐"
+            },
+            {
+                "en": "feast",
+                "zh": "盛宴"
+            },
+            {
+                "en": "lunch",
+                "zh": "午饭"
+            },
+            {
+                "en": "bento",
+                "zh": "便当"
+            },
+            {
+                "en": "okosama lunch",
+                "zh": "okosama 儿童餐"
+            },
+            {
+                "en": "party",
+                "zh": "派对"
+            },
+            {
+                "en": "birthday party",
+                "zh": "生日聚会"
+            },
+            {
+                "en": "tea party",
+                "zh": "茶会"
+            },
+            {
+                "en": "baozi",
+                "zh": "包子"
+            },
+            {
+                "en": "nabe",
+                "zh": "火锅"
+            },
+            {
+                "en": "oden",
+                "zh": "关东煮"
+            },
+            {
+                "en": "sukiyaki",
+                "zh": "寿喜烧"
+            },
+            {
+                "en": "narutomaki",
+                "zh": "鸣门卷"
+            },
+            {
+                "en": "okonomiyaki",
+                "zh": "什锦煎饼"
+            },
+            {
+                "en": "omelet",
+                "zh": "煎蛋卷"
+            },
+            {
+                "en": "pizza",
+                "zh": "披萨"
+            },
+            {
+                "en": "holding pizza",
+                "zh": "拿着披萨"
+            },
+            {
+                "en": "pizza box",
+                "zh": "披萨盒"
+            },
+            {
+                "en": "pizza delivery",
+                "zh": "披萨递送"
+            },
+            {
+                "en": "pizza slice",
+                "zh": "切下的一块比萨"
+            },
+            {
+                "en": "ribs (food)",
+                "zh": "排骨"
+            },
+            {
+                "en": "salad",
+                "zh": "沙拉"
+            },
+            {
+                "en": "salt",
+                "zh": "盐"
+            },
+            {
+                "en": "sandwich",
+                "zh": "三明治"
+            },
+            {
+                "en": "soup",
+                "zh": "汤"
+            },
+            {
+                "en": "miso soup",
+                "zh": "味噌"
+            },
+            {
+                "en": "zouni soup",
+                "zh": "日式烩年糕"
+            },
+            {
+                "en": "sushi",
+                "zh": "寿司"
+            },
+            {
+                "en": "conveyor belt sushi",
+                "zh": "回转寿司"
+            },
+            {
+                "en": "gunkanmaki",
+                "zh": "军舰卷"
+            },
+            {
+                "en": "inarizushi",
+                "zh": "稻荷寿司"
+            },
+            {
+                "en": "makizushi",
+                "zh": "寿司巻"
+            },
+            {
+                "en": "nigirizushi",
+                "zh": "手握寿司"
+            },
+            {
+                "en": "sushi geta",
+                "zh": "寿司板"
+            },
+            {
+                "en": "taco",
+                "zh": "炸玉米饼"
+            },
+            {
+                "en": "takoyaki",
+                "zh": "章鱼烧"
+            },
+            {
+                "en": "takuan",
+                "zh": "腌萝卜片"
+            },
+            {
+                "en": "tamagokake gohan",
+                "zh": "生蛋盖饭"
+            },
+            {
+                "en": "tempura",
+                "zh": "天妇罗"
+            },
+            {
+                "en": "shrimp tempura",
+                "zh": "虾天妇罗"
+            },
+            {
+                "en": "tofu",
+                "zh": "豆腐"
+            },
+            {
+                "en": "aburaage",
+                "zh": "油炸豆腐"
+            },
+            {
+                "en": "mapo tofu",
+                "zh": "麻婆豆腐"
+            },
+            {
+                "en": "stinky tofu",
+                "zh": "臭豆腐"
+            },
+            {
+                "en": "twice cooked pork",
+                "zh": "回锅肉"
+            },
+            {
+                "en": "unadon (food)",
+                "zh": "鳗丼"
+            },
+            {
+                "en": "zongzi",
+                "zh": "粽子"
+            }
+        ],
+        "肉类与海鲜": [
+            {
+                "en": "bacon",
+                "zh": "培根"
+            },
+            {
+                "en": "boned meat",
+                "zh": "圆柱形带骨肉"
+            },
+            {
+                "en": "chicken",
+                "zh": "鸡"
+            },
+            {
+                "en": "chicken leg",
+                "zh": "鸡腿"
+            },
+            {
+                "en": "chicken nuggets",
+                "zh": "鸡块"
+            },
+            {
+                "en": "fried chicken",
+                "zh": "炸鸡"
+            },
+            {
+                "en": "yakitori",
+                "zh": "烤鸡肉串"
+            },
+            {
+                "en": "crab",
+                "zh": "螃蟹"
+            },
+            {
+                "en": "egg",
+                "zh": "蛋"
+            },
+            {
+                "en": "broken egg",
+                "zh": "破碎的蛋"
+            },
+            {
+                "en": "egg laying",
+                "zh": "产卵"
+            },
+            {
+                "en": "egg yolk",
+                "zh": "蛋黄"
+            },
+            {
+                "en": "eggshell",
+                "zh": "蛋壳"
+            },
+            {
+                "en": "eggshell hat",
+                "zh": "蛋壳帽子"
+            },
+            {
+                "en": "fried egg",
+                "zh": "煎鸡蛋"
+            },
+            {
+                "en": "century egg (food)",
+                "zh": "皮蛋"
+            },
+            {
+                "en": "hardboiled egg",
+                "zh": "水煮蛋"
+            },
+            {
+                "en": "scrambled egg",
+                "zh": "炒鸡蛋"
+            },
+            {
+                "en": "roe",
+                "zh": "鱼子"
+            },
+            {
+                "en": "caviar",
+                "zh": "鱼子酱"
+            },
+            {
+                "en": "ikura",
+                "zh": "红鱼子酱"
+            },
+            {
+                "en": "fish",
+                "zh": "鱼"
+            },
+            {
+                "en": "fish bone",
+                "zh": "鱼骨"
+            },
+            {
+                "en": "sashimi",
+                "zh": "生鱼片"
+            },
+            {
+                "en": "katsuo no tataki",
+                "zh": "炙烤鲣鱼片"
+            },
+            {
+                "en": "gyuudon",
+                "zh": "牛丼"
+            },
+            {
+                "en": "hamburger steak",
+                "zh": "汉堡牛排"
+            },
+            {
+                "en": "kamaboko",
+                "zh": "鱼糕"
+            },
+            {
+                "en": "kebab",
+                "zh": "烤肉串"
+            },
+            {
+                "en": "lobster",
+                "zh": "龙虾"
+            },
+            {
+                "en": "meatball",
+                "zh": "肉丸"
+            },
+            {
+                "en": "pork",
+                "zh": "猪肉"
+            },
+            {
+                "en": "ham",
+                "zh": "火腿"
+            },
+            {
+                "en": "sausage",
+                "zh": "香肠"
+            },
+            {
+                "en": "shrimp",
+                "zh": "虾类"
+            },
+            {
+                "en": "steak",
+                "zh": "牛排"
+            },
+            {
+                "en": "tako-san wiener",
+                "zh": "章鱼状的香肠"
+            },
+            {
+                "en": "kani-san wiener",
+                "zh": "蟹状的香肠"
+            },
+            {
+                "en": "turkey",
+                "zh": "火鸡"
+            },
+            {
+                "en": "turkey leg",
+                "zh": "火鸡腿"
+            }
+        ],
+        "糖果零食": [
+            {
+                "en": "anmitsu (dessert)",
+                "zh": "豆沙水果涼粉"
+            },
+            {
+                "en": "mitsumame",
+                "zh": "蜜豆"
+            },
+            {
+                "en": "batter",
+                "zh": "面糊"
+            },
+            {
+                "en": "anpan",
+                "zh": "红豆包"
+            },
+            {
+                "en": "cinnamon roll",
+                "zh": "肉桂卷"
+            },
+            {
+                "en": "gumball",
+                "zh": "口香糖球"
+            },
+            {
+                "en": "hot cross bun",
+                "zh": "十字包"
+            },
+            {
+                "en": "noppo bread",
+                "zh": "noppo 面包"
+            },
+            {
+                "en": "pastry box",
+                "zh": "糕点盒"
+            },
+            {
+                "en": "cake",
+                "zh": "蛋糕"
+            },
+            {
+                "en": "baumkuchen",
+                "zh": "年轮蛋糕"
+            },
+            {
+                "en": "birthday cake",
+                "zh": "生日蛋糕"
+            },
+            {
+                "en": "black forest cake",
+                "zh": "黑森林蛋糕"
+            },
+            {
+                "en": "charlotte cake",
+                "zh": "夏洛特蛋糕"
+            },
+            {
+                "en": "cheesecake",
+                "zh": "乳酪蛋糕"
+            },
+            {
+                "en": "rare cheesecake",
+                "zh": "生乳酪蛋糕"
+            },
+            {
+                "en": "brownie",
+                "zh": "巧克力布朗尼"
+            },
+            {
+                "en": "chocolate cake",
+                "zh": "巧克力蛋糕"
+            },
+            {
+                "en": "chocolate framboise",
+                "zh": "巧克力红桑子莓"
+            },
+            {
+                "en": "christmas cake",
+                "zh": "圣诞蛋糕"
+            },
+            {
+                "en": "cupcake",
+                "zh": "纸杯蛋糕"
+            },
+            {
+                "en": "fondant au chocolat",
+                "zh": "熔岩巧克力蛋糕"
+            },
+            {
+                "en": "layer cake",
+                "zh": "千层蛋糕"
+            },
+            {
+                "en": "madeleine",
+                "zh": "玛德琳蛋糕"
+            },
+            {
+                "en": "mille-feuille",
+                "zh": "千层酥"
+            },
+            {
+                "en": "mont blanc (food)",
+                "zh": "白山蛋糕"
+            },
+            {
+                "en": "opera cake",
+                "zh": "歌剧院蛋糕"
+            },
+            {
+                "en": "pound cake",
+                "zh": "磅蛋糕"
+            },
+            {
+                "en": "red velvet cake",
+                "zh": "红丝绒蛋糕"
+            },
+            {
+                "en": "cake slice",
+                "zh": "分层蛋糕"
+            },
+            {
+                "en": "stollen",
+                "zh": "史多伦"
+            },
+            {
+                "en": "strawberry shortcake",
+                "zh": "草莓奶油海绵蛋糕"
+            },
+            {
+                "en": "swiss roll",
+                "zh": "瑞士卷"
+            },
+            {
+                "en": "strawberry swiss roll",
+                "zh": "草莓瑞士卷"
+            },
+            {
+                "en": "tiramisu",
+                "zh": "提拉米苏"
+            },
+            {
+                "en": "wedding cake",
+                "zh": "婚礼蛋糕"
+            },
+            {
+                "en": "yule log",
+                "zh": "圣诞节原木"
+            },
+            {
+                "en": "candy",
+                "zh": "糖果"
+            },
+            {
+                "en": "candy cane",
+                "zh": "糖果手杖"
+            },
+            {
+                "en": "chitose ame",
+                "zh": "千岁饴"
+            },
+            {
+                "en": "cigarette candy",
+                "zh": "香烟糖果"
+            },
+            {
+                "en": "creme egg",
+                "zh": "鸡蛋奶油"
+            },
+            {
+                "en": "jelly bean",
+                "zh": "糖果豆"
+            },
+            {
+                "en": "kitkat",
+                "zh": "奇巧"
+            },
+            {
+                "en": "konpeitou",
+                "zh": "金平糖"
+            },
+            {
+                "en": "lollipop",
+                "zh": "棒棒糖"
+            },
+            {
+                "en": "chupa chups",
+                "zh": "珍宝珠"
+            },
+            {
+                "en": "shaped lollipop",
+                "zh": "棒棒糖形状"
+            },
+            {
+                "en": "swirl lollipop",
+                "zh": "漩涡棒棒糖"
+            },
+            {
+                "en": "m&m's",
+                "zh": "M&M's"
+            },
+            {
+                "en": "marble chocolate",
+                "zh": "大理石巧克力"
+            },
+            {
+                "en": "nerunerunerune",
+                "zh": "nerunerunerune（糖果）"
+            },
+            {
+                "en": "pinata",
+                "zh": "皮纳塔"
+            },
+            {
+                "en": "tootsweets",
+                "zh": "甜甜圈"
+            },
+            {
+                "en": "candy apple",
+                "zh": "糖苹果"
+            },
+            {
+                "en": "caramel",
+                "zh": "焦糖"
+            },
+            {
+                "en": "chewing gum",
+                "zh": "口香糖"
+            },
+            {
+                "en": "chocolate",
+                "zh": "巧克力"
+            },
+            {
+                "en": "apollo chocolate",
+                "zh": "阿波罗巧克力"
+            },
+            {
+                "en": "chocolate bar",
+                "zh": "巧克力棒"
+            },
+            {
+                "en": "chocolate fountain",
+                "zh": "巧克力喷泉"
+            },
+            {
+                "en": "heart-shaped chocolate",
+                "zh": "心形巧克力"
+            },
+            {
+                "en": "chocolate marquise",
+                "zh": "女爵巧克力"
+            },
+            {
+                "en": "kinoko no yama",
+                "zh": "明治巧克力蘑菇饼干"
+            },
+            {
+                "en": "takenoko no sato",
+                "zh": "明治巧克力竹笋饼干"
+            },
+            {
+                "en": "white chocolate",
+                "zh": "白巧克力"
+            },
+            {
+                "en": "churro",
+                "zh": "油条"
+            },
+            {
+                "en": "cookie",
+                "zh": "曲奇饼"
+            },
+            {
+                "en": "checkerboard cookie",
+                "zh": "棋盘花纹的饼干"
+            },
+            {
+                "en": "chocolate chip cookie",
+                "zh": "巧克力片饼干"
+            },
+            {
+                "en": "country ma'am",
+                "zh": "COUNTRY MA'AM"
+            },
+            {
+                "en": "gingerbread cookie",
+                "zh": "姜饼饼干"
+            },
+            {
+                "en": "gingerbread house",
+                "zh": "姜饼屋"
+            },
+            {
+                "en": "gingerbread man",
+                "zh": "姜饼人（一种曲奇饼）"
+            },
+            {
+                "en": "pocky",
+                "zh": "百奇饼干"
+            },
+            {
+                "en": "sandwich cookie",
+                "zh": "夹心饼干"
+            },
+            {
+                "en": "oreo",
+                "zh": "奥利奥"
+            },
+            {
+                "en": "thumbprint cookie",
+                "zh": "指纹特征数据"
+            },
+            {
+                "en": "toppo",
+                "zh": "托普"
+            },
+            {
+                "en": "wafer",
+                "zh": "冰淇淋脆片"
+            },
+            {
+                "en": "wafer stick",
+                "zh": "晶圆卷"
+            },
+            {
+                "en": "cotton candy",
+                "zh": "棉花糖"
+            },
+            {
+                "en": "bavarois",
+                "zh": "巴伐利亚奶油"
+            },
+            {
+                "en": "icing",
+                "zh": "糖霜"
+            },
+            {
+                "en": "crepe",
+                "zh": "绉"
+            },
+            {
+                "en": "dorayaki",
+                "zh": "铜锣烧"
+            },
+            {
+                "en": "dough",
+                "zh": "面团"
+            },
+            {
+                "en": "doughnut",
+                "zh": "甜甜圈"
+            },
+            {
+                "en": "chocolate doughnut",
+                "zh": "巧克力甜甜圈"
+            },
+            {
+                "en": "french cruller",
+                "zh": "螺旋脊状甜甜圈"
+            },
+            {
+                "en": "sakura french",
+                "zh": "樱花甜甜圈"
+            },
+            {
+                "en": "old-fashioned doughnut",
+                "zh": "酥皮甜甜圈"
+            },
+            {
+                "en": "gelatin",
+                "zh": "凝胶"
+            },
+            {
+                "en": "ice cream",
+                "zh": "冰激凌"
+            },
+            {
+                "en": "banana split",
+                "zh": "香蕉冰激凌"
+            },
+            {
+                "en": "coolish",
+                "zh": "Coolish"
+            },
+            {
+                "en": "ice cream cone",
+                "zh": "蛋卷冰淇淋"
+            },
+            {
+                "en": "waffle cone",
+                "zh": "华夫饼蛋筒"
+            },
+            {
+                "en": "ice cream float",
+                "zh": "飘浮冰淇淋"
+            },
+            {
+                "en": "ice cream sandwich",
+                "zh": "冰淇淋三明治"
+            },
+            {
+                "en": "parfait",
+                "zh": "芭菲"
+            },
+            {
+                "en": "strawberry parfait",
+                "zh": "草莓冻糕"
+            },
+            {
+                "en": "single scoop",
+                "zh": "单球冰淇淋"
+            },
+            {
+                "en": "double scoop",
+                "zh": "双勺"
+            },
+            {
+                "en": "triple scoop",
+                "zh": "三球冰淇淋"
+            },
+            {
+                "en": "quadruple scoop",
+                "zh": "四个球的冰淇淋蛋筒"
+            },
+            {
+                "en": "too many scoops",
+                "zh": "过多的冰激凌甜筒"
+            },
+            {
+                "en": "soft serve",
+                "zh": "软冰淇淋"
+            },
+            {
+                "en": "sprinkles",
+                "zh": "小块彩色糖果"
+            },
+            {
+                "en": "sundae",
+                "zh": "圣代"
+            },
+            {
+                "en": "imagawayaki",
+                "zh": "今川烧"
+            },
+            {
+                "en": "marshmallow",
+                "zh": "棉花糖"
+            },
+            {
+                "en": "mooncake",
+                "zh": "月饼"
+            },
+            {
+                "en": "muffin",
+                "zh": "松饼"
+            },
+            {
+                "en": "pastry",
+                "zh": "糕点"
+            },
+            {
+                "en": "chocolate cornet",
+                "zh": "巧克力夹心"
+            },
+            {
+                "en": "cream puff",
+                "zh": "泡芙"
+            },
+            {
+                "en": "eclair (food)",
+                "zh": "闪电泡芙"
+            },
+            {
+                "en": "macaron",
+                "zh": "马卡龙"
+            },
+            {
+                "en": "pie",
+                "zh": "馅饼"
+            },
+            {
+                "en": "apple pie",
+                "zh": "苹果派"
+            },
+            {
+                "en": "popsicle",
+                "zh": "冰棒/棒冰"
+            },
+            {
+                "en": "popsicle stick",
+                "zh": "冰棒棍"
+            },
+            {
+                "en": "tupet",
+                "zh": "小喇叭"
+            },
+            {
+                "en": "watermelon bar",
+                "zh": "西瓜冰棍"
+            },
+            {
+                "en": "pudding",
+                "zh": "布丁"
+            },
+            {
+                "en": "custard",
+                "zh": "卡仕达酱"
+            },
+            {
+                "en": "pudding a la mode",
+                "zh": "法式布丁"
+            },
+            {
+                "en": "shaved ice",
+                "zh": "刨冰"
+            },
+            {
+                "en": "slushie",
+                "zh": "冰沙"
+            },
+            {
+                "en": "tanghulu",
+                "zh": "糖葫芦"
+            },
+            {
+                "en": "tart",
+                "zh": "果馅饼"
+            },
+            {
+                "en": "blueberry tart",
+                "zh": "蓝莓馅饼"
+            },
+            {
+                "en": "fruit tart",
+                "zh": "水果馅饼"
+            },
+            {
+                "en": "strawberry tart",
+                "zh": "草莓挞"
+            },
+            {
+                "en": "wagashi",
+                "zh": "日式点心"
+            },
+            {
+                "en": "momiji manjuu",
+                "zh": "红叶馒头"
+            },
+            {
+                "en": "mochi",
+                "zh": "麻糬"
+            },
+            {
+                "en": "dango",
+                "zh": "团子"
+            },
+            {
+                "en": "ichigo daifuku",
+                "zh": "草莓大福"
+            },
+            {
+                "en": "kashiwa mochi (food)",
+                "zh": "柏饼"
+            },
+            {
+                "en": "namagashi",
+                "zh": "生菓子"
+            },
+            {
+                "en": "sakura mochi",
+                "zh": "樱花麻糬"
+            },
+            {
+                "en": "songpyeon",
+                "zh": "松饼"
+            },
+            {
+                "en": "suama (food)",
+                "zh": "蘇阿馬"
+            },
+            {
+                "en": "taiyaki",
+                "zh": "鲷鱼烧"
+            },
+            {
+                "en": "uirou",
+                "zh": "外郎饼"
+            },
+            {
+                "en": "warabimochi",
+                "zh": "蕨饼"
+            },
+            {
+                "en": "youkan",
+                "zh": "羊羹"
+            },
+            {
+                "en": "chikuwa",
+                "zh": "竹轮（食物）"
+            },
+            {
+                "en": "chips",
+                "zh": "薯片"
+            },
+            {
+                "en": "bugles",
+                "zh": "号角"
+            },
+            {
+                "en": "doritos",
+                "zh": "多力多滋"
+            },
+            {
+                "en": "potato chips",
+                "zh": "土豆片"
+            },
+            {
+                "en": "pringles",
+                "zh": "品客"
+            },
+            {
+                "en": "popcorn",
+                "zh": "爆米花"
+            },
+            {
+                "en": "pretzel",
+                "zh": "椒盐卷饼"
+            },
+            {
+                "en": "umaibou",
+                "zh": "美味棒"
+            }
+        ],
+        "蔬菜与香料": [
+            {
+                "en": "asparagus",
+                "zh": "芦笋"
+            },
+            {
+                "en": "beans",
+                "zh": "豆子"
+            },
+            {
+                "en": "red bean paste",
+                "zh": "红豆馅"
+            },
+            {
+                "en": "nattou",
+                "zh": "纳豆"
+            },
+            {
+                "en": "bitter melon",
+                "zh": "苦瓜"
+            },
+            {
+                "en": "broccoli",
+                "zh": "西兰花"
+            },
+            {
+                "en": "cabbage",
+                "zh": "卷心菜"
+            },
+            {
+                "en": "bok choy",
+                "zh": "白菜"
+            },
+            {
+                "en": "carrot",
+                "zh": "胡萝卜"
+            },
+            {
+                "en": "cauliflower",
+                "zh": "菜花"
+            },
+            {
+                "en": "coconut",
+                "zh": "椰子"
+            },
+            {
+                "en": "corn",
+                "zh": "玉米"
+            },
+            {
+                "en": "cucumber",
+                "zh": "黄瓜"
+            },
+            {
+                "en": "pickle",
+                "zh": "泡菜"
+            },
+            {
+                "en": "eggplant",
+                "zh": "茄子"
+            },
+            {
+                "en": "garlic",
+                "zh": "大蒜"
+            },
+            {
+                "en": "kimchi",
+                "zh": "韩国泡菜"
+            },
+            {
+                "en": "lettuce",
+                "zh": "生菜"
+            },
+            {
+                "en": "mint",
+                "zh": "薄荷"
+            },
+            {
+                "en": "mushroom",
+                "zh": "蘑菇"
+            },
+            {
+                "en": "onion",
+                "zh": "洋葱"
+            },
+            {
+                "en": "onion rings",
+                "zh": "洋葱圈"
+            },
+            {
+                "en": "spring onion",
+                "zh": "大葱"
+            },
+            {
+                "en": "parsley",
+                "zh": "欧芹"
+            },
+            {
+                "en": "almond",
+                "zh": "扁桃"
+            },
+            {
+                "en": "chestnut",
+                "zh": "板栗"
+            },
+            {
+                "en": "peanut",
+                "zh": "花生"
+            },
+            {
+                "en": "pepper",
+                "zh": "胡椒"
+            },
+            {
+                "en": "bell pepper",
+                "zh": "灯笼椒"
+            },
+            {
+                "en": "green pepper",
+                "zh": "青椒"
+            },
+            {
+                "en": "red pepper",
+                "zh": "红椒"
+            },
+            {
+                "en": "yellow pepper",
+                "zh": "黄椒"
+            },
+            {
+                "en": "chili pepper",
+                "zh": "辣椒"
+            },
+            {
+                "en": "habanero pepper",
+                "zh": "哈瓦那辣椒"
+            },
+            {
+                "en": "jalapeno pepper",
+                "zh": "墨西哥辣椒"
+            },
+            {
+                "en": "potato",
+                "zh": "土豆"
+            },
+            {
+                "en": "radish",
+                "zh": "萝卜"
+            },
+            {
+                "en": "daikon",
+                "zh": "萝卜"
+            },
+            {
+                "en": "seaweed",
+                "zh": "海藻"
+            },
+            {
+                "en": "hijiki",
+                "zh": "羊栖菜"
+            },
+            {
+                "en": "nori",
+                "zh": "海苔"
+            },
+            {
+                "en": "squash",
+                "zh": "南瓜属"
+            },
+            {
+                "en": "pumpkin",
+                "zh": "南瓜"
+            },
+            {
+                "en": "jack-o'-lantern",
+                "zh": "南瓜灯"
+            },
+            {
+                "en": "sweet potato",
+                "zh": "红薯"
+            },
+            {
+                "en": "yakiimo",
+                "zh": "烤白薯"
+            },
+            {
+                "en": "tomato",
+                "zh": "番茄"
+            },
+            {
+                "en": "cherry tomato",
+                "zh": "圣女果（小西红柿"
+            },
+            {
+                "en": "turnip",
+                "zh": "芜菁"
+            },
+            {
+                "en": "warabi",
+                "zh": "蕨"
+            }
+        ],
+        "花卉": [
+            {
+                "en": "petals",
+                "zh": "花瓣"
+            },
+            {
+                "en": "flower",
+                "zh": "花"
+            },
+            {
+                "en": "rose petals",
+                "zh": "玫瑰花瓣"
+            },
+            {
+                "en": "cherry blossoms",
+                "zh": "樱花"
+            },
+            {
+                "en": "flowers meadows",
+                "zh": "花田"
+            },
+            {
+                "en": "alstroemeria (flower)",
+                "zh": "百合水仙"
+            },
+            {
+                "en": "amaryllis (flower)",
+                "zh": "孤挺花"
+            },
+            {
+                "en": "anemone",
+                "zh": "银莲花"
+            },
+            {
+                "en": "angel's trumpet",
+                "zh": "木曼陀罗"
+            },
+            {
+                "en": "anthurium",
+                "zh": "花烛"
+            },
+            {
+                "en": "azalea",
+                "zh": "杜鹃花"
+            },
+            {
+                "en": "baby's-breath",
+                "zh": "石头花"
+            },
+            {
+                "en": "begonia",
+                "zh": "秋海棠"
+            },
+            {
+                "en": "bellflower",
+                "zh": "风铃草"
+            },
+            {
+                "en": "chinese bellflower",
+                "zh": "桔梗"
+            },
+            {
+                "en": "bird of paradise flower",
+                "zh": "鹤望兰"
+            },
+            {
+                "en": "black-eyed susan",
+                "zh": "黑心金光菊"
+            },
+            {
+                "en": "bleeding heart",
+                "zh": "荷包牡丹"
+            },
+            {
+                "en": "blueberry blossoms",
+                "zh": "蓝莓花"
+            },
+            {
+                "en": "bougainvillea",
+                "zh": "九重葛"
+            },
+            {
+                "en": "calla lily",
+                "zh": "马蹄莲"
+            },
+            {
+                "en": "camellia",
+                "zh": "山茶花"
+            },
+            {
+                "en": "carnation",
+                "zh": "康乃馨"
+            },
+            {
+                "en": "red carnation",
+                "zh": "红色康乃馨"
+            },
+            {
+                "en": "chamomile",
+                "zh": "西洋甘菊"
+            },
+            {
+                "en": "chinese lantern (plant)",
+                "zh": "灯笼草"
+            },
+            {
+                "en": "chrysanthemum",
+                "zh": "菊属"
+            },
+            {
+                "en": "clivia",
+                "zh": "君子兰"
+            },
+            {
+                "en": "clematis",
+                "zh": "铁线莲"
+            },
+            {
+                "en": "columbine",
+                "zh": "耬斗菜"
+            },
+            {
+                "en": "cockscomb (flower)",
+                "zh": "青葙"
+            },
+            {
+                "en": "cornflower",
+                "zh": "矢车菊"
+            },
+            {
+                "en": "cosmos",
+                "zh": "秋英/大波斯菊/秋樱"
+            },
+            {
+                "en": "crocus",
+                "zh": "番紅花"
+            },
+            {
+                "en": "cymbidium",
+                "zh": "蕙兰属"
+            },
+            {
+                "en": "daffodil",
+                "zh": "水仙"
+            },
+            {
+                "en": "dahlia",
+                "zh": "大丽花"
+            },
+            {
+                "en": "daisy",
+                "zh": "雏菊"
+            },
+            {
+                "en": "dimorphotheca",
+                "zh": "异果菊"
+            },
+            {
+                "en": "dandelion",
+                "zh": "蒲公英"
+            },
+            {
+                "en": "dianthus",
+                "zh": "石竹"
+            },
+            {
+                "en": "dipsacaceae",
+                "zh": "川续断科"
+            },
+            {
+                "en": "dusty miller",
+                "zh": "银叶菊"
+            },
+            {
+                "en": "edelweiss",
+                "zh": "高山火绒草"
+            },
+            {
+                "en": "epiphyllum",
+                "zh": "昙花"
+            },
+            {
+                "en": "eustoma",
+                "zh": "洋桔梗"
+            },
+            {
+                "en": "flax",
+                "zh": "亚麻"
+            },
+            {
+                "en": "forget-me-not",
+                "zh": "勿忘草"
+            },
+            {
+                "en": "forsythia",
+                "zh": "连翘"
+            },
+            {
+                "en": "four o'clock (flower)",
+                "zh": "紫茉莉"
+            },
+            {
+                "en": "foxglove",
+                "zh": "毛地黄"
+            },
+            {
+                "en": "freesia",
+                "zh": "小苍兰"
+            },
+            {
+                "en": "fuchsia",
+                "zh": "倒挂金钟"
+            },
+            {
+                "en": "hawthorn (plant)",
+                "zh": "山楂"
+            },
+            {
+                "en": "hellebore",
+                "zh": "铁筷子/嚏根草"
+            },
+            {
+                "en": "hibiscus",
+                "zh": "扶桑花"
+            },
+            {
+                "en": "heliconia",
+                "zh": "蝎尾蕉"
+            },
+            {
+                "en": "hollyhock",
+                "zh": "蜀葵属"
+            },
+            {
+                "en": "hyacinth",
+                "zh": "风信子"
+            },
+            {
+                "en": "hydrangea",
+                "zh": "紫阳花"
+            },
+            {
+                "en": "genista (flower)",
+                "zh": "染料木属"
+            },
+            {
+                "en": "gentiana (flower)",
+                "zh": "龙胆属"
+            },
+            {
+                "en": "geranium",
+                "zh": "天竺葵属"
+            },
+            {
+                "en": "gerbera",
+                "zh": "大丁草属"
+            },
+            {
+                "en": "gladiolus",
+                "zh": "唐菖蒲属"
+            },
+            {
+                "en": "gloriosa (flower)",
+                "zh": "嘉兰"
+            },
+            {
+                "en": "grass lily",
+                "zh": "伞花虎眼万年青"
+            },
+            {
+                "en": "great burnet",
+                "zh": "地榆"
+            },
+            {
+                "en": "jasmine",
+                "zh": "素馨属/素英属/茉莉花"
+            },
+            {
+                "en": "iris",
+                "zh": "鸢尾属"
+            },
+            {
+                "en": "kalanchoe",
+                "zh": "长寿花/家乐花/矮生伽蓝菜/圣诞伽蓝菜/寿星花/布洛斯费尔德高凉菜"
+            },
+            {
+                "en": "kerria japonica",
+                "zh": "棣棠花/山吹"
+            },
+            {
+                "en": "lantana (flower)",
+                "zh": "马缨丹属"
+            },
+            {
+                "en": "larkspur",
+                "zh": "翠雀属"
+            },
+            {
+                "en": "lavender",
+                "zh": "薰衣草"
+            },
+            {
+                "en": "lilac",
+                "zh": "丁香属"
+            },
+            {
+                "en": "lily",
+                "zh": "百合属"
+            },
+            {
+                "en": "tiger lily",
+                "zh": "卷丹"
+            },
+            {
+                "en": "lily of the valley",
+                "zh": "铃兰"
+            },
+            {
+                "en": "lisianthus (flower)",
+                "zh": "洋桔梗属"
+            },
+            {
+                "en": "magnolia",
+                "zh": "荷花玉兰/洋玉兰/广玉兰"
+            },
+            {
+                "en": "marigold",
+                "zh": "万寿菊属"
+            },
+            {
+                "en": "marsh marigold",
+                "zh": "驴蹄草/驴蹄菜/沼泽金盏花/立金花"
+            },
+            {
+                "en": "mimosa (flower)",
+                "zh": "含羞草"
+            },
+            {
+                "en": "morning glory",
+                "zh": "牵牛花"
+            },
+            {
+                "en": "moonflower",
+                "zh": "月光花/嫦娥奔月/天茄儿/天茄子/夜颜/夕颜"
+            },
+            {
+                "en": "gourd blossom",
+                "zh": "葫芦花 (辐射76)"
+            },
+            {
+                "en": "nemophila",
+                "zh": "粉蝶花属/喜林草属/幌菊属"
+            },
+            {
+                "en": "nigella",
+                "zh": "黑种草"
+            },
+            {
+                "en": "oleander",
+                "zh": "夹竹桃"
+            },
+            {
+                "en": "orange blossoms",
+                "zh": "橙花"
+            },
+            {
+                "en": "orchid",
+                "zh": "兰科/兰花/胡姬花"
+            },
+            {
+                "en": "oncidium",
+                "zh": "文心兰属"
+            },
+            {
+                "en": "osmanthus",
+                "zh": "木樨属/木犀属/桂花属/桂花树属"
+            },
+            {
+                "en": "gold osmanthus",
+                "zh": "金木犀"
+            },
+            {
+                "en": "pansy",
+                "zh": "三色紫罗兰/三色堇"
+            },
+            {
+                "en": "passion flower",
+                "zh": "西番莲属"
+            },
+            {
+                "en": "paulownia",
+                "zh": "毛泡桐"
+            },
+            {
+                "en": "peach blossom",
+                "zh": "桃花"
+            },
+            {
+                "en": "pentas (flower)",
+                "zh": "五星花属/繁星花属"
+            },
+            {
+                "en": "peony",
+                "zh": "芍药属"
+            },
+            {
+                "en": "perennial",
+                "zh": "多年生植物"
+            },
+            {
+                "en": "periwinkle",
+                "zh": "蔓长春花属"
+            },
+            {
+                "en": "petunia (flower)",
+                "zh": "碧冬茄属"
+            },
+            {
+                "en": "pieris japonica",
+                "zh": "马醉木"
+            },
+            {
+                "en": "plant",
+                "zh": "植物"
+            },
+            {
+                "en": "clover",
+                "zh": "三叶草"
+            },
+            {
+                "en": "lotus",
+                "zh": "莲花"
+            },
+            {
+                "en": "lily pad",
+                "zh": "睡莲"
+            },
+            {
+                "en": "potted plant",
+                "zh": "盆栽"
+            },
+            {
+                "en": "plum blossoms",
+                "zh": "梅花"
+            },
+            {
+                "en": "plumeria",
+                "zh": "缅栀花"
+            },
+            {
+                "en": "poinsettia",
+                "zh": "一品红/圣诞红/圣诞花"
+            },
+            {
+                "en": "pomegranate flower",
+                "zh": "石榴花"
+            },
+            {
+                "en": "poppy",
+                "zh": "罂粟"
+            },
+            {
+                "en": "portulaca",
+                "zh": "马齿苋"
+            },
+            {
+                "en": "potato flower",
+                "zh": "土豆花"
+            },
+            {
+                "en": "potentilla",
+                "zh": "委陵菜属"
+            },
+            {
+                "en": "rafflesia",
+                "zh": "大花草属"
+            },
+            {
+                "en": "ranunculus",
+                "zh": "毛茛属"
+            },
+            {
+                "en": "buttercup",
+                "zh": "花毛茛"
+            },
+            {
+                "en": "rapeseed blossoms",
+                "zh": "欧洲油菜花"
+            },
+            {
+                "en": "red ginger",
+                "zh": "红姜花"
+            },
+            {
+                "en": "reimu",
+                "zh": "灵梦花"
+            },
+            {
+                "en": "rhododendron",
+                "zh": "杜鹃花属/映山红/满山红/山石榴"
+            },
+            {
+                "en": "rose",
+                "zh": "玫瑰/蔷薇"
+            },
+            {
+                "en": "black rose",
+                "zh": "黑玫瑰"
+            },
+            {
+                "en": "blue rose",
+                "zh": "蓝玫瑰"
+            },
+            {
+                "en": "brown rose",
+                "zh": "棕色玫瑰"
+            },
+            {
+                "en": "green rose",
+                "zh": "绿色玫瑰"
+            },
+            {
+                "en": "grey rose",
+                "zh": "灰色玫瑰"
+            },
+            {
+                "en": "orange rose",
+                "zh": "橙玫瑰"
+            },
+            {
+                "en": "pink rose",
+                "zh": "粉红玫瑰"
+            },
+            {
+                "en": "purple rose",
+                "zh": "紫玫瑰"
+            },
+            {
+                "en": "red rose",
+                "zh": "红玫瑰"
+            },
+            {
+                "en": "white rose",
+                "zh": "白玫瑰"
+            },
+            {
+                "en": "yellow rose",
+                "zh": "黄玫瑰"
+            },
+            {
+                "en": "multicolored rose",
+                "zh": "多色玫瑰"
+            },
+            {
+                "en": "rudbeckia",
+                "zh": "金光菊"
+            },
+            {
+                "en": "snapdragon",
+                "zh": "金鱼草"
+            },
+            {
+                "en": "snowdrop",
+                "zh": "雪花莲属"
+            },
+            {
+                "en": "spathiphyllum",
+                "zh": "白鹤芋属"
+            },
+            {
+                "en": "spider lily",
+                "zh": "彼岸花"
+            },
+            {
+                "en": "strawberry blossoms",
+                "zh": "草莓花"
+            },
+            {
+                "en": "sunflower",
+                "zh": "向日葵"
+            },
+            {
+                "en": "thistle",
+                "zh": "蓟属"
+            },
+            {
+                "en": "trumpet creeper",
+                "zh": "厚萼凌霄"
+            },
+            {
+                "en": "tulip",
+                "zh": "郁金香"
+            },
+            {
+                "en": "water lily flower",
+                "zh": "睡莲科"
+            },
+            {
+                "en": "wax flower",
+                "zh": "风蜡花属"
+            },
+            {
+                "en": "wisteria",
+                "zh": "紫藤"
+            },
+            {
+                "en": "wolfsbane",
+                "zh": "乌头属"
+            },
+            {
+                "en": "violet",
+                "zh": "堇菜属"
+            },
+            {
+                "en": "zinnia",
+                "zh": "百日菊属"
+            },
+            {
+                "en": "black lotus",
+                "zh": "黑莲花"
+            },
+            {
+                "en": "fire flower",
+                "zh": "烈焰花 (原神)"
+            },
+            {
+                "en": "glaze lily",
+                "zh": "琉璃百合 (原神)"
+            },
+            {
+                "en": "gracidea",
+                "zh": "葛拉西蒂亚花 (宝可梦)"
+            },
+            {
+                "en": "ice flower",
+                "zh": "冰雾花 (原神)"
+            },
+            {
+                "en": "lunar tear",
+                "zh": "月之泪 (尼尔)"
+            },
+            {
+                "en": "qingxin flower",
+                "zh": "清心 (原神)"
+            },
+            {
+                "en": "silent princess",
+                "zh": "静谧公主 (塞尔达)"
+            },
+            {
+                "en": "silk flower",
+                "zh": "霓裳花 (原神)"
+            },
+            {
+                "en": "sweet flower",
+                "zh": "甜甜花 (原神)"
+            },
+            {
+                "en": "bouquet",
+                "zh": "花束"
+            },
+            {
+                "en": "coughing flowers",
+                "zh": "咳出花"
+            },
+            {
+                "en": "flower (symbol)",
+                "zh": "花(符号)"
+            },
+            {
+                "en": "flower bed",
+                "zh": "花床"
+            },
+            {
+                "en": "flower bracelet",
+                "zh": "花手镯"
+            },
+            {
+                "en": "flower on liquid",
+                "zh": "水上的花"
+            },
+            {
+                "en": "flower trim",
+                "zh": "花饰"
+            },
+            {
+                "en": "floral print",
+                "zh": "花朵图案(印花)"
+            },
+            {
+                "en": "hanafuda",
+                "zh": "花札"
+            },
+            {
+                "en": "gardening",
+                "zh": "园艺"
+            },
+            {
+                "en": "on flower",
+                "zh": "在花上"
+            },
+            {
+                "en": "petals on liquid",
+                "zh": "水面上漂着花瓣"
+            },
+            {
+                "en": "wreath",
+                "zh": "花环"
+            }
+        ]
+    }
+}

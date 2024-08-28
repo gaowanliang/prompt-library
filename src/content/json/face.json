@@ -1,0 +1,1588 @@
+{
+    "normal": {
+        "default": [
+            {
+                "en": "food on face",
+                "zh": " 食物在脸上（食物可替换）"
+            },
+            {
+                "en": "light blush",
+                "zh": "淡淡腮红"
+            },
+            {
+                "en": "facepaint",
+                "zh": "面纹"
+            },
+            {
+                "en": "makeup ",
+                "zh": "浓妆"
+            },
+            {
+                "en": "cute face",
+                "zh": "可爱表情"
+            },
+            {
+                "en": "white colored eyelashes",
+                "zh": "白色睫毛"
+            },
+            {
+                "en": "longeyelashes",
+                "zh": "长睫毛"
+            },
+            {
+                "en": "white eyebrows",
+                "zh": "白色眉毛"
+            },
+            {
+                "en": "tsurime",
+                "zh": "吊眼角"
+            },
+            {
+                "en": "gradient_eyes",
+                "zh": "渐变眼"
+            },
+            {
+                "en": "beautiful detailed eyes",
+                "zh": "美丽的细节眼睛"
+            },
+            {
+                "en": "tareme",
+                "zh": "垂眼角"
+            },
+            {
+                "en": "slit pupils ",
+                "zh": "猫眼"
+            },
+            {
+                "en": "heterochromia ",
+                "zh": "异色瞳"
+            },
+            {
+                "en": "heterochromia blue red",
+                "zh": "红蓝眼"
+            },
+            {
+                "en": "aqua eyes",
+                "zh": "水汪汪大眼"
+            },
+            {
+                "en": "looking at viewer",
+                "zh": "看你"
+            },
+            {
+                "en": "eyeball",
+                "zh": "盯着看"
+            },
+            {
+                "en": "stare",
+                "zh": "凝视"
+            },
+            {
+                "en": "visible through hair",
+                "zh": "透过刘海看"
+            },
+            {
+                "en": "looking to the side ",
+                "zh": "看旁边"
+            },
+            {
+                "en": "constricted pupils",
+                "zh": "收缩的瞳孔"
+            },
+            {
+                "en": "symbol-shaped pupils ",
+                "zh": "符号形状的瞳孔"
+            },
+            {
+                "en": "heart in eye",
+                "zh": "❤"
+            },
+            {
+                "en": "heart-shaped pupils",
+                "zh": "爱心瞳孔"
+            },
+            {
+                "en": "wink ",
+                "zh": "眨眼"
+            },
+            {
+                "en": "mole under eye",
+                "zh": "眼下痣"
+            },
+            {
+                "en": "eyes closed",
+                "zh": " 闭眼"
+            },
+            {
+                "en": "no_nose",
+                "zh": "没鼻子"
+            },
+            {
+                "en": "fake animal ears",
+                "zh": "动物耳朵"
+            },
+            {
+                "en": "animal ear fluff ",
+                "zh": "动物耳绒毛"
+            },
+            {
+                "en": "animal_ears",
+                "zh": "动物耳朵"
+            },
+            {
+                "en": "fox_ears",
+                "zh": "狐狸耳朵"
+            },
+            {
+                "en": "bunny_ears",
+                "zh": "兔子耳朵"
+            },
+            {
+                "en": "cat_ears",
+                "zh": "猫耳"
+            },
+            {
+                "en": "dog_ears",
+                "zh": "狗耳"
+            },
+            {
+                "en": "mouse_ears",
+                "zh": "叔耳"
+            },
+            {
+                "en": "hair ear",
+                "zh": " 头发上耳朵"
+            },
+            {
+                "en": "pointy ears",
+                "zh": " 尖耳"
+            },
+            {
+                "en": "light smile",
+                "zh": "微笑"
+            },
+            {
+                "en": "seductive smile",
+                "zh": "诱惑笑"
+            },
+            {
+                "en": "grin",
+                "zh": "露齿而笑"
+            },
+            {
+                "en": "laughing",
+                "zh": "笑"
+            },
+            {
+                "en": "teeth ",
+                "zh": "牙"
+            },
+            {
+                "en": "excited",
+                "zh": "兴奋"
+            },
+            {
+                "en": "embarrassed ",
+                "zh": "害羞"
+            },
+            {
+                "en": "blush",
+                "zh": "脸红"
+            },
+            {
+                "en": "shy",
+                "zh": "害羞"
+            },
+            {
+                "en": "nose blush ",
+                "zh": "害羞"
+            },
+            {
+                "en": "expressionless",
+                "zh": "无表情"
+            },
+            {
+                "en": "expressionless eyes",
+                "zh": "失神"
+            },
+            {
+                "en": "sleepy",
+                "zh": "困"
+            },
+            {
+                "en": "drunk",
+                "zh": "喝醉的"
+            },
+            {
+                "en": "tears",
+                "zh": "哭"
+            },
+            {
+                "en": "crying with eyes open",
+                "zh": "哭"
+            },
+            {
+                "en": "sad",
+                "zh": "悲伤的"
+            },
+            {
+                "en": "pout",
+                "zh": "别扭 努嘴"
+            },
+            {
+                "en": "sigh",
+                "zh": "叹气"
+            },
+            {
+                "en": "wide eyed",
+                "zh": "睁大眼睛"
+            },
+            {
+                "en": "angry",
+                "zh": "生气"
+            },
+            {
+                "en": "annoyed",
+                "zh": "苦恼的"
+            },
+            {
+                "en": "frown",
+                "zh": "皱眉"
+            },
+            {
+                "en": "smirk",
+                "zh": "认真"
+            },
+            {
+                "en": "serious",
+                "zh": "严肃"
+            },
+            {
+                "en": "jitome",
+                "zh": "鄙夷"
+            },
+            {
+                "en": "scowl",
+                "zh": "锐利"
+            },
+            {
+                "en": "crazy",
+                "zh": "疯狂的"
+            },
+            {
+                "en": "dark_persona",
+                "zh": "黑化的"
+            },
+            {
+                "en": "smirk",
+                "zh": "微笑"
+            },
+            {
+                "en": "smug",
+                "zh": "得意"
+            },
+            {
+                "en": "naughty_face",
+                "zh": "调皮脸"
+            },
+            {
+                "en": "one eye closed",
+                "zh": "一只眼睛闭上"
+            },
+            {
+                "en": "half-closed eyes",
+                "zh": "半闭眼睛"
+            },
+            {
+                "en": "nosebleed",
+                "zh": "鼻血"
+            },
+            {
+                "en": "eyelid pull ",
+                "zh": "做鬼脸"
+            },
+            {
+                "en": "tongue",
+                "zh": "舌头"
+            },
+            {
+                "en": "tongue out",
+                "zh": "吐舌"
+            },
+            {
+                "en": "closed mouth",
+                "zh": "闭嘴"
+            },
+            {
+                "en": "open mouth",
+                "zh": "张嘴"
+            },
+            {
+                "en": "lipstick",
+                "zh": "口红"
+            },
+            {
+                "en": "fangs",
+                "zh": "尖牙"
+            },
+            {
+                "en": "clenched teeth",
+                "zh": "咬紧牙关"
+            },
+            {
+                "en": ":3",
+                "zh": "ω猫嘴"
+            },
+            {
+                "en": ":p",
+                "zh": "向下吐舌头"
+            },
+            {
+                "en": ":q",
+                "zh": "向上吐舌头"
+            },
+            {
+                "en": ":t",
+                "zh": "不耐烦"
+            },
+            {
+                "en": ":d",
+                "zh": "杯型笑脸"
+            },
+            {
+                "en": "makeup",
+                "zh": "浓装"
+            },
+            {
+                "en": "food on face",
+                "zh": "食物在脸上"
+            },
+            {
+                "en": "smelling",
+                "zh": "闻"
+            },
+            {
+                "en": "nosebleed",
+                "zh": "鼻血"
+            },
+            {
+                "en": "lips",
+                "zh": "嘴唇"
+            },
+            {
+                "en": "clenched teeth",
+                "zh": "咬牙"
+            },
+            {
+                "en": "open mouth",
+                "zh": "张口"
+            },
+            {
+                "en": "pout",
+                "zh": "努嘴"
+            },
+            {
+                "en": "sigh",
+                "zh": "叹气"
+            },
+            {
+                "en": "smile",
+                "zh": "微笑"
+            },
+            {
+                "en": "light smile",
+                "zh": "浅笑"
+            },
+            {
+                "en": "grin",
+                "zh": "露齿而笑"
+            },
+            {
+                "en": "evil smile",
+                "zh": "坏笑"
+            },
+            {
+                "en": "angry",
+                "zh": "生气的"
+            },
+            {
+                "en": "annoyed",
+                "zh": "苦恼的"
+            },
+            {
+                "en": "crazy",
+                "zh": "疯狂的"
+            },
+            {
+                "en": "shy",
+                "zh": "害羞的"
+            },
+            {
+                "en": "embarrassed",
+                "zh": "尴尬的"
+            },
+            {
+                "en": "blush",
+                "zh": "脸红的"
+            },
+            {
+                "en": "sleepy",
+                "zh": "困乏的"
+            },
+            {
+                "en": "sad",
+                "zh": "悲伤的"
+            },
+            {
+                "en": "drunk",
+                "zh": "喝醉的"
+            },
+            {
+                "en": "frown",
+                "zh": "皱眉/蹙额"
+            },
+            {
+                "en": "ahegao",
+                "zh": "阿嘿颜"
+            },
+            {
+                "en": "naughty face",
+                "zh": "下流的表情"
+            },
+            {
+                "en": "endured face",
+                "zh": "忍耐的表情"
+            },
+            {
+                "en": "fangs",
+                "zh": "尖牙"
+            },
+            {
+                "en": "tongue",
+                "zh": "舌头"
+            },
+            {
+                "en": "no nose",
+                "zh": "没有鼻子"
+            },
+            {
+                "en": "saliva",
+                "zh": "唾液"
+            },
+            {
+                "en": "facial hair",
+                "zh": "胡子"
+            },
+            {
+                "en": "fingersmile",
+                "zh": "用手指做出笑脸"
+            },
+            {
+                "en": "mouth hold",
+                "zh": "嘴咬住"
+            },
+            {
+                "en": "parted lips",
+                "zh": "嘴唇微张"
+            },
+            {
+                "en": "closed mouth",
+                "zh": "闭嘴"
+            },
+            {
+                "en": "tongue out",
+                "zh": "吐舌头"
+            },
+            {
+                "en": "licking lips",
+                "zh": "舔嘴唇"
+            },
+            {
+                "en": "pain",
+                "zh": "疼痛"
+            },
+            {
+                "en": "crying",
+                "zh": "哭"
+            },
+            {
+                "en": "fume",
+                "zh": "气得冒烟(漫画)"
+            },
+            {
+                "en": "grimace",
+                "zh": "(因痛苦、厌恶等)做怪相"
+            },
+            {
+                "en": "screaming",
+                "zh": "尖叫/大声喊"
+            },
+            {
+                "en": "v-shaped eyebrows",
+                "zh": "眉毛皱成V形(表高傲或愤怒)"
+            },
+            {
+                "en": "scared",
+                "zh": "害怕的"
+            },
+            {
+                "en": "scowl",
+                "zh": "怒视/嫌弃/不满"
+            },
+            {
+                "en": "serious",
+                "zh": "严肃的"
+            },
+            {
+                "en": "tearing up",
+                "zh": "要哭的表情"
+            },
+            {
+                "en": "bored",
+                "zh": "无聊的"
+            },
+            {
+                "en": "gloom (expression)",
+                "zh": "消沉(表情)"
+            },
+            {
+                "en": "jealous",
+                "zh": "嫉妒的"
+            },
+            {
+                "en": "jitome",
+                "zh": "轻蔑的眼神"
+            },
+            {
+                "en": "nervous",
+                "zh": "不安的"
+            },
+            {
+                "en": "nervous smile",
+                "zh": "不安地微笑"
+            },
+            {
+                "en": "shaded",
+                "zh": "阴沉脸"
+            },
+            {
+                "en": "turn pale",
+                "zh": "脸色苍白"
+            },
+            {
+                "en": "expressionless",
+                "zh": "无口"
+            },
+            {
+                "en": "expressions",
+                "zh": "表情"
+            },
+            {
+                "en": "unconscious",
+                "zh": "失神"
+            },
+            {
+                "en": "bright pupils",
+                "zh": "明亮的瞳孔"
+            },
+            {
+                "en": "ear blush",
+                "zh": "耳红"
+            },
+            {
+                "en": "holding breath",
+                "zh": "憋气"
+            },
+            {
+                "en": "puckered lips",
+                "zh": "撅起的嘴唇"
+            },
+            {
+                "en": "seductive smile",
+                "zh": "诱人的微笑"
+            },
+            {
+                "en": "smiley",
+                "zh": "笑脸"
+            },
+            {
+                "en": "smirk",
+                "zh": "傻笑/得意的笑"
+            },
+            {
+                "en": "doyagao",
+                "zh": "得意脸"
+            },
+            {
+                "en": "flustered",
+                "zh": "慌乱的"
+            },
+            {
+                "en": "full blush",
+                "zh": "整张脸泛红"
+            },
+            {
+                "en": "heart in eye",
+                "zh": "眼里冒爱心"
+            },
+            {
+                "en": "heavy breathing",
+                "zh": "喘粗气"
+            },
+            {
+                "en": "moaning",
+                "zh": "呻吟"
+            },
+            {
+                "en": "smug",
+                "zh": "得意脸"
+            },
+            {
+                "en": "spit take",
+                "zh": "惊讶或无语到喷了"
+            },
+            {
+                "en": "surprised",
+                "zh": "惊讶"
+            },
+            {
+                "en": "tsundere",
+                "zh": "傲娇"
+            },
+            {
+                "en": "drooling",
+                "zh": "流口水"
+            },
+            {
+                "en": "torogao",
+                "zh": "淫荡的表情"
+            },
+            {
+                "en": "glint",
+                "zh": "眼中闪现强烈的情感"
+            },
+            {
+                "en": "happy",
+                "zh": "快乐/幸福"
+            },
+            {
+                "en": "laughing",
+                "zh": "在笑的"
+            },
+            {
+                "en": "naughty",
+                "zh": "下流的表情"
+            },
+            {
+                "en": "troll",
+                "zh": "嚣张脸"
+            },
+            {
+                "en": "yandere",
+                "zh": "病娇"
+            },
+            {
+                "en": "saliva trail",
+                "zh": "唾液拉丝"
+            },
+            {
+                "en": "red lips",
+                "zh": "朱唇"
+            },
+            {
+                "en": "skin fang",
+                "zh": "把嘴的一部分画成虎牙状"
+            },
+            {
+                "en": "upper teeth",
+                "zh": "露出上排牙齿"
+            },
+            {
+                "en": "fang",
+                "zh": "虎牙"
+            },
+            {
+                "en": "fang out",
+                "zh": "露出虎牙/露出尖牙"
+            },
+            {
+                "en": "long tongue",
+                "zh": "长舌头"
+            },
+            {
+                "en": "forehead",
+                "zh": "额头"
+            },
+            {
+                "en": "light blush",
+                "zh": "淡淡的腮红"
+            },
+            {
+                "en": "cheek-to-cheek",
+                "zh": "脸贴脸"
+            },
+            {
+                "en": "cheek bulge",
+                "zh": "鼓着腮帮"
+            },
+            {
+                "en": "cheek pinching",
+                "zh": "捏脸颊"
+            },
+            {
+                "en": "cheek poking",
+                "zh": "戳脸颊"
+            },
+            {
+                "en": "cheek pull",
+                "zh": "扯脸颊"
+            },
+            {
+                "en": "chin grab",
+                "zh": "抬下巴"
+            },
+            {
+                "en": "covering eyes",
+                "zh": "遮住眼睛"
+            },
+            {
+                "en": "covering",
+                "zh": "挡住脸"
+            },
+            {
+                "en": "covering mouth",
+                "zh": "挡住嘴巴"
+            },
+            {
+                "en": "face-to-face",
+                "zh": "脸贴脸"
+            },
+            {
+                "en": "facing another",
+                "zh": "二人面对面(脸贴得很近)"
+            },
+            {
+                "en": "forehead-to-forehead",
+                "zh": "额头贴额头"
+            },
+            {
+                "en": "teeth",
+                "zh": "牙"
+            },
+            {
+                "en": "excited",
+                "zh": "兴奋"
+            },
+            {
+                "en": "nose blush",
+                "zh": "害羞"
+            },
+            {
+                "en": "expressionless eyes",
+                "zh": "失神"
+            },
+            {
+                "en": "wide eyed",
+                "zh": "睁大眼睛"
+            },
+            {
+                "en": ">:(",
+                "zh": "愤怒"
+            },
+            {
+                "en": ">:)",
+                "zh": "嘲笑"
+            },
+            {
+                "en": ":o",
+                "zh": "惊讶"
+            },
+            {
+                "en": ":q",
+                "zh": "右上吐舌头"
+            },
+            {
+                "en": ":p",
+                "zh": "右下吐舌头"
+            },
+            {
+                "en": ":d",
+                "zh": "咧嘴笑"
+            },
+            {
+                "en": ";d",
+                "zh": "单眼咧嘴笑"
+            },
+            {
+                "en": ":3",
+                "zh": "猫嘴"
+            },
+            {
+                "en": "lipstick",
+                "zh": "口红/唇膏"
+            },
+            {
+                "en": "covering face",
+                "zh": "挡住脸"
+            },
+            {
+                "en": "black eyes",
+                "zh": "黑眼"
+            },
+            {
+                "en": "blue eyes",
+                "zh": "蓝眼"
+            },
+            {
+                "en": "brown eyes",
+                "zh": "棕眼"
+            },
+            {
+                "en": "green eyes",
+                "zh": "绿眼"
+            },
+            {
+                "en": "grey eyes",
+                "zh": "灰眼"
+            },
+            {
+                "en": "heart-shaped pupils",
+                "zh": "爱心形瞳孔"
+            },
+            {
+                "en": "heterochromia",
+                "zh": "异色瞳"
+            },
+            {
+                "en": "purple eyes",
+                "zh": "紫眼"
+            },
+            {
+                "en": "red eyes",
+                "zh": "红眼"
+            },
+            {
+                "en": "slit pupils",
+                "zh": "竖瞳孔/猫眼"
+            },
+            {
+                "en": "white eyes",
+                "zh": "白眼"
+            },
+            {
+                "en": "yellow eyes",
+                "zh": "金眼"
+            },
+            {
+                "en": "tareme",
+                "zh": "下垂的眼睛"
+            },
+            {
+                "en": "sanpaku",
+                "zh": "三白眼"
+            },
+            {
+                "en": "upturned eyes",
+                "zh": "上翘的眼睛"
+            },
+            {
+                "en": "wide-eyed",
+                "zh": "睁开眼睛"
+            },
+            {
+                "en": "ringed eyes",
+                "zh": "眼圈"
+            },
+            {
+                "en": "rolling eyes",
+                "zh": "眼睛抬头"
+            },
+            {
+                "en": "crazy eyes",
+                "zh": "疯狂的眼睛"
+            },
+            {
+                "en": "raised eyebrows",
+                "zh": "挑眉"
+            },
+            {
+                "en": "furrowed brow",
+                "zh": "下眉毛"
+            },
+            {
+                "en": "dashed eyes",
+                "zh": "黑眼圈中的水平线"
+            },
+            {
+                "en": "multicolored eyes",
+                "zh": "多色的黑眼睛"
+            },
+            {
+                "en": "mismatched pupils",
+                "zh": "左右眼颜色不同"
+            },
+            {
+                "en": "mismatched sclera",
+                "zh": "左右眼不同颜色的眼白"
+            },
+            {
+                "en": "no pupils",
+                "zh": "没有眼睛"
+            },
+            {
+                "en": "empty eyes",
+                "zh": "眼睛没有亮点"
+            },
+            {
+                "en": "blank eyes",
+                "zh": "白眼球"
+            },
+            {
+                "en": "dilated pupils",
+                "zh": "瞳孔扩张"
+            },
+            {
+                "en": "hollow eyes",
+                "zh": "漆黑的眼睛"
+            },
+            {
+                "en": "constricted pupils",
+                "zh": "瞳孔收缩"
+            },
+            {
+                "en": "symbol-shaped pupils",
+                "zh": "符号眼"
+            },
+            {
+                "en": "star-shaped pupils",
+                "zh": "星形眼睛"
+            },
+            {
+                "en": "x-shaped pupils",
+                "zh": "X 形眼睛"
+            },
+            {
+                "en": "button eyes",
+                "zh": "纽扣眼"
+            },
+            {
+                "en": "eye reflection",
+                "zh": "眼睛反射"
+            },
+            {
+                "en": "closed eyes",
+                "zh": "闭上眼睛"
+            },
+            {
+                "en": "one eye closed",
+                "zh": "一只眼睛闭着"
+            },
+            {
+                "en": "half-closed eyes",
+                "zh": "眼睛半闭"
+            },
+            {
+                "en": "eyes closed",
+                "zh": "闭眼"
+            },
+            {
+                "en": "wince",
+                "zh": "闭一只眼"
+            },
+            {
+                "en": "tsurime",
+                "zh": "吊眼角"
+            },
+            {
+                "en": "eyeball",
+                "zh": "盯着看"
+            },
+            {
+                "en": "tears",
+                "zh": "眼泪"
+            },
+            {
+                "en": "gradient eyes",
+                "zh": "渐变瞳色"
+            },
+            {
+                "en": "aqua eyes",
+                "zh": "吐舌鬼脸"
+            },
+            {
+                "en": "crying with eyes open",
+                "zh": "睁着眼落泪"
+            },
+            {
+                "en": "glowing eyes",
+                "zh": "发光的双眼"
+            },
+            {
+                "en": "half-closed eye",
+                "zh": "半闭的眼睛(单眼)"
+            },
+            {
+                "en": "happy tears",
+                "zh": "开心的眼泪"
+            },
+            {
+                "en": "sparkling eyes",
+                "zh": "星星眼"
+            },
+            {
+                "en": "glaring",
+                "zh": "轻蔑/怒视"
+            },
+            {
+                "en": "streaming tears",
+                "zh": "流泪"
+            },
+            {
+                "en": "eyebrows behind hair",
+                "zh": "挡在头发下的眉毛"
+            },
+            {
+                "en": "eyebrows visible through hair",
+                "zh": "透过头发可以看到的眉毛"
+            },
+            {
+                "en": "eyelashes",
+                "zh": "睫毛"
+            },
+            {
+                "en": "eyeliner",
+                "zh": "眼线"
+            },
+            {
+                "en": "eyes visible through hair",
+                "zh": "透过头发可以看到的眼睛"
+            },
+            {
+                "en": "anger vein",
+                "zh": "青筋"
+            },
+            {
+                "en": "blush stickers",
+                "zh": "表情贴纸"
+            },
+            {
+                "en": "full-face blush",
+                "zh": "整张脸泛红"
+            },
+            {
+                "en": "confused",
+                "zh": "疑惑"
+            },
+            {
+                "en": "determined",
+                "zh": "有决心的"
+            },
+            {
+                "en": "disappointed",
+                "zh": "失望的"
+            },
+            {
+                "en": "disdain",
+                "zh": "蔑视"
+            },
+            {
+                "en": "disgust",
+                "zh": "恶心"
+            },
+            {
+                "en": "despair",
+                "zh": "绝望"
+            },
+            {
+                "en": "envy",
+                "zh": "嫉妒"
+            },
+            {
+                "en": "evil",
+                "zh": "邪恶"
+            },
+            {
+                "en": "facepalm",
+                "zh": "以手掩面"
+            },
+            {
+                "en": "frustrated",
+                "zh": "沮丧"
+            },
+            {
+                "en": "guilt",
+                "zh": "有罪的"
+            },
+            {
+                "en": "kubrick stare",
+                "zh": "库布里克凝视"
+            },
+            {
+                "en": "lonely",
+                "zh": "孤独的"
+            },
+            {
+                "en": "raised eyebrow",
+                "zh": "扬起的眉毛"
+            },
+            {
+                "en": "rape face",
+                "zh": "一副要强奸人的表情"
+            },
+            {
+                "en": "depressed",
+                "zh": "压抑的/郁闷的"
+            },
+            {
+                "en": "panicking",
+                "zh": "恐慌的"
+            },
+            {
+                "en": "worried",
+                "zh": "担忧的"
+            },
+            {
+                "en": "tired",
+                "zh": "累"
+            },
+            {
+                "en": "sulking",
+                "zh": "闷闷不乐"
+            },
+            {
+                "en": "thinking",
+                "zh": "思考"
+            },
+            {
+                "en": "pensive",
+                "zh": "沉思的"
+            },
+            {
+                "en": "upset",
+                "zh": "气愤"
+            },
+            {
+                "en": "crazy smile",
+                "zh": "疯狂地笑"
+            },
+            {
+                "en": "forced smile",
+                "zh": "强迫笑"
+            },
+            {
+                "en": "glasgow smile",
+                "zh": "格拉斯哥微笑"
+            },
+            {
+                "en": "sad smile",
+                "zh": "苦笑"
+            },
+            {
+                "en": "stifled laugh",
+                "zh": "憋笑"
+            },
+            {
+                "en": "^^^",
+                "zh": "惊讶的"
+            },
+            {
+                "en": "color drain",
+                "zh": "惊讶到掉色"
+            },
+            {
+                "en": "horrified",
+                "zh": "恐惧表情"
+            },
+            {
+                "en": "sobbing",
+                "zh": "啜泣"
+            },
+            {
+                "en": "trembling",
+                "zh": "颤抖"
+            },
+            {
+                "en": "wavy mouth",
+                "zh": "薯片嘴型"
+            },
+            {
+                "en": ";)",
+                "zh": ";)"
+            },
+            {
+                "en": "d:",
+                "zh": "d:"
+            },
+            {
+                "en": ";3",
+                "zh": ";3"
+            },
+            {
+                "en": "03:00:00",
+                "zh": "斜嘴"
+            },
+            {
+                "en": "uwu",
+                "zh": "猫脸"
+            },
+            {
+                "en": ";p",
+                "zh": ";p"
+            },
+            {
+                "en": ";q",
+                "zh": ";q"
+            },
+            {
+                "en": ":t",
+                "zh": ":t"
+            },
+            {
+                "en": ":i",
+                "zh": ":i"
+            },
+            {
+                "en": ":/",
+                "zh": "斜嘴"
+            },
+            {
+                "en": ":|",
+                "zh": "无语"
+            },
+            {
+                "en": ":x",
+                "zh": ":x"
+            },
+            {
+                "en": ":c",
+                "zh": "伤心"
+            },
+            {
+                "en": "c:",
+                "zh": "c:"
+            },
+            {
+                "en": ":<",
+                "zh": ":<"
+            },
+            {
+                "en": ";<",
+                "zh": ";<"
+            },
+            {
+                "en": ":<>",
+                "zh": "张大嘴"
+            },
+            {
+                "en": ":>",
+                "zh": ":>"
+            },
+            {
+                "en": ":>=",
+                "zh": ":>="
+            },
+            {
+                "en": ";o",
+                "zh": ";o"
+            },
+            {
+                "en": "o3o",
+                "zh": "o3o"
+            },
+            {
+                "en": "(-3-)",
+                "zh": "嘟嘴"
+            },
+            {
+                "en": ">3<",
+                "zh": "亲嘴"
+            },
+            {
+                "en": "o_o",
+                "zh": "发呆"
+            },
+            {
+                "en": "0_0",
+                "zh": "0_0"
+            },
+            {
+                "en": "|_|",
+                "zh": "|_|"
+            },
+            {
+                "en": "._.",
+                "zh": "._."
+            },
+            {
+                "en": "solid circle eyes",
+                "zh": "实心圆眼睛"
+            },
+            {
+                "en": "heart-shaped eyes",
+                "zh": "心形眼"
+            },
+            {
+                "en": "^_^",
+                "zh": "^_^"
+            },
+            {
+                "en": "^o^",
+                "zh": "^o^"
+            },
+            {
+                "en": "\\(^o^)/",
+                "zh": "\\(^o^)/"
+            },
+            {
+                "en": "^q^",
+                "zh": "^q^"
+            },
+            {
+                "en": ">_<",
+                "zh": ">_<"
+            },
+            {
+                "en": "xd",
+                "zh": "XD"
+            },
+            {
+                "en": "x3",
+                "zh": "X3"
+            },
+            {
+                "en": ">o<",
+                "zh": ">o<"
+            },
+            {
+                "en": ">_@",
+                "zh": ">_@"
+            },
+            {
+                "en": "+_-",
+                "zh": "+_-"
+            },
+            {
+                "en": "=_=",
+                "zh": "=_="
+            },
+            {
+                "en": "=^=",
+                "zh": "=^="
+            },
+            {
+                "en": "=v=",
+                "zh": "=v="
+            },
+            {
+                "en": "<o>_<o>",
+                "zh": "<o>_<o>"
+            },
+            {
+                "en": "<|>_<|>",
+                "zh": "<|>_<|>"
+            },
+            {
+                "en": "cross-eyed",
+                "zh": "斗鸡眼"
+            },
+            {
+                "en": "dot mouth",
+                "zh": "小圆点嘴"
+            },
+            {
+                "en": "dot nose",
+                "zh": "小圆点鼻"
+            },
+            {
+                "en": "mouth drool",
+                "zh": "嘴角画着口水滴形状的缺口"
+            },
+            {
+                "en": "no mouth",
+                "zh": "没画出嘴"
+            },
+            {
+                "en": "rectangular mouth",
+                "zh": "方形嘴"
+            },
+            {
+                "en": "sideways mouth",
+                "zh": "把嘴画在侧脸"
+            },
+            {
+                "en": "split mouth",
+                "zh": "裂开的嘴"
+            },
+            {
+                "en": "flower in mouth",
+                "zh": "花在嘴里"
+            }
+        ],
+        "耳朵": [
+            {
+                "en": "animal ears",
+                "zh": "动物耳朵"
+            },
+            {
+                "en": "fox ears",
+                "zh": "狐狸耳朵"
+            },
+            {
+                "en": "cat ears",
+                "zh": "猫耳"
+            },
+            {
+                "en": "dog ears",
+                "zh": "狗耳"
+            },
+            {
+                "en": "mouse ears",
+                "zh": "老鼠耳朵"
+            },
+            {
+                "en": "pointy ears",
+                "zh": "尖耳"
+            },
+            {
+                "en": "heart earrings",
+                "zh": "心形耳环"
+            },
+            {
+                "en": "hoop earrings",
+                "zh": "环状耳环"
+            },
+            {
+                "en": "crystal earrings",
+                "zh": "水晶耳环"
+            },
+            {
+                "en": "earrings",
+                "zh": "耳环"
+            },
+            {
+                "en": "crescent earrings",
+                "zh": "月牙耳环"
+            },
+            {
+                "en": "cat ear headphones",
+                "zh": "猫耳式耳机"
+            },
+            {
+                "en": "bat ears",
+                "zh": "蝙蝠耳朵"
+            },
+            {
+                "en": "raccoon ears",
+                "zh": "浣熊耳朵"
+            },
+            {
+                "en": "long pointy ears",
+                "zh": "尖尖的长耳朵"
+            },
+            {
+                "en": "covering ears",
+                "zh": "遮住耳朵"
+            },
+            {
+                "en": "bear ears",
+                "zh": "熊耳朵"
+            },
+            {
+                "en": "rabbit ears",
+                "zh": "兔子耳朵"
+            },
+            {
+                "en": "cow ears",
+                "zh": "牛耳朵"
+            },
+            {
+                "en": "deer ears",
+                "zh": "鹿耳朵"
+            },
+            {
+                "en": "ferret ears",
+                "zh": "鼬耳朵"
+            },
+            {
+                "en": "goat ears",
+                "zh": "山羊耳朵"
+            },
+            {
+                "en": "horse ears",
+                "zh": "马耳"
+            },
+            {
+                "en": "kemonomimi mode",
+                "zh": "兽耳萝莉模式"
+            },
+            {
+                "en": "lion ears",
+                "zh": "狮子耳朵"
+            },
+            {
+                "en": "monkey ears",
+                "zh": "猴耳"
+            },
+            {
+                "en": "panda ears",
+                "zh": "熊猫耳朵"
+            },
+            {
+                "en": "pikachu ears",
+                "zh": "皮卡丘耳朵"
+            },
+            {
+                "en": "pig ears",
+                "zh": "猪耳朵"
+            },
+            {
+                "en": "sheep ears",
+                "zh": "羊耳"
+            },
+            {
+                "en": "squirrel ears",
+                "zh": "松鼠耳朵"
+            },
+            {
+                "en": "tiger ears",
+                "zh": "虎耳"
+            },
+            {
+                "en": "wolf ears",
+                "zh": "狼耳朵"
+            },
+            {
+                "en": "fake animal ears",
+                "zh": "仿制的动物耳朵"
+            }
+        ]
+    },
+    "r18": {
+        "default": [
+            {
+                "en": "naughty_face",
+                "zh": "下流的表情"
+            },
+            {
+                "en": "endured_face",
+                "zh": "忍耐的表情"
+            },
+            {
+                "en": "ahegao",
+                "zh": "阿黑颜"
+            },
+            {
+                "en": "blood on face",
+                "zh": "血在脸上"
+            },
+            {
+                "en": "saliva",
+                "zh": "唾液"
+            },
+            {
+                "en": "oral invitation",
+                "zh": "迎接射精而伸出舌头"
+            }
+        ]
+    }
+}

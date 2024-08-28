@@ -1,0 +1,300 @@
+{
+    "normal": {
+        "颜色": [
+            {
+                "en": "blue eyes",
+                "zh": "蓝色"
+            },
+            {
+                "en": "red eyes",
+                "zh": "红色"
+            },
+            {
+                "en": "brown eyes",
+                "zh": "棕色"
+            },
+            {
+                "en": "green eyes",
+                "zh": "绿色"
+            },
+            {
+                "en": "purple eyes",
+                "zh": "紫色"
+            },
+            {
+                "en": "yellow eyes",
+                "zh": "黄色"
+            },
+            {
+                "en": "pink eyes",
+                "zh": "粉红"
+            },
+            {
+                "en": "black eyes",
+                "zh": "黑色"
+            },
+            {
+                "en": "aqua eyes",
+                "zh": "水蓝色"
+            },
+            {
+                "en": "orange eyes",
+                "zh": "橙色"
+            },
+            {
+                "en": "grey eyes",
+                "zh": "灰色"
+            },
+            {
+                "en": "multicolored eyes",
+                "zh": "五彩"
+            },
+            {
+                "en": "white eyes",
+                "zh": "白色"
+            },
+            {
+                "en": "gradient eyes",
+                "zh": "渐变"
+            }
+        ],
+        "状态": [
+            {
+                "en": "closed eyes",
+                "zh": "闭上眼睛"
+            },
+            {
+                "en": "half-closed eyes",
+                "zh": "半闭眼"
+            },
+            {
+                "en": "crying with eyes open",
+                "zh": "睁着眼睛哭"
+            },
+            {
+                "en": "narrowed eyes",
+                "zh": "眯起眼睛"
+            },
+            {
+                "en": "hidden eyes",
+                "zh": "隐藏的眼睛"
+            },
+            {
+                "en": "heart-shaped eyes",
+                "zh": "心形眼睛"
+            },
+            {
+                "en": "button eyes",
+                "zh": "纽扣眼"
+            },
+            {
+                "en": "cephalopod eyes",
+                "zh": "头足类眼睛"
+            },
+            {
+                "en": "eyes visible through hair",
+                "zh": "透过头发看见眼睛"
+            },
+            {
+                "en": "glowing eyes",
+                "zh": "发光的眼睛"
+            },
+            {
+                "en": "empty eyes",
+                "zh": "空洞的眼睛"
+            },
+            {
+                "en": "rolling eyes",
+                "zh": "翻白眼"
+            },
+            {
+                "en": "blank eyes",
+                "zh": "空白的眼睛"
+            },
+            {
+                "en": "no eyes",
+                "zh": "没有眼睛"
+            },
+            {
+                "en": "sparkling eyes",
+                "zh": "闪闪发光的眼睛"
+            },
+            {
+                "en": "extra eyes",
+                "zh": "额外的眼睛"
+            },
+            {
+                "en": "crazy eyes",
+                "zh": "疯狂的眼睛"
+            },
+            {
+                "en": "solid circle eyes",
+                "zh": "实心圆眼"
+            },
+            {
+                "en": "solid oval eyes",
+                "zh": "实心椭圆形眼睛"
+            },
+            {
+                "en": "uneven eyes",
+                "zh": "不均匀的眼睛"
+            },
+            {
+                "en": "blood from eyes",
+                "zh": "眼睛里的血"
+            }
+        ],
+        "其他相关": [
+            {
+                "en": "eyeshadow",
+                "zh": "眼影"
+            },
+            {
+                "en": "red eyeshadow",
+                "zh": "红色眼影"
+            },
+            {
+                "en": "blue eyeshadow",
+                "zh": "蓝色眼影"
+            },
+            {
+                "en": "purple eyeshadow",
+                "zh": "紫色眼影"
+            },
+            {
+                "en": "pink eyeshadow",
+                "zh": "粉色眼影"
+            },
+            {
+                "en": "green eyeshadow",
+                "zh": "绿色眼影"
+            },
+            {
+                "en": "bags under eyes",
+                "zh": "眼袋"
+            },
+            {
+                "en": "ringed eyes",
+                "zh": "眼圈"
+            },
+            {
+                "en": "covered eyes",
+                "zh": "蒙住眼睛"
+            },
+            {
+                "en": "covering eyes",
+                "zh": "遮住眼睛"
+            },
+            {
+                "en": "shading eyes",
+                "zh": "遮住眼睛"
+            }
+        ],
+        "default": [
+            {
+                "en": "orange eyes",
+                "zh": "橙色的眼睛"
+            },
+            {
+                "en": "pink eyes",
+                "zh": "粉红色的眼睛"
+            },
+            {
+                "en": "amber eyes",
+                "zh": "琥珀色眼"
+            },
+            {
+                "en": "@ @",
+                "zh": "晕眼"
+            },
+            {
+                "en": "pac-man eyes",
+                "zh": "吃豆人形眼"
+            },
+            {
+                "en": "horizontal pupils",
+                "zh": "一字型瞳孔/蛙眼"
+            },
+            {
+                "en": "+ +",
+                "zh": "加号型眼"
+            },
+            {
+                "en": "diamond-shaped pupils",
+                "zh": "钻石形瞳孔"
+            },
+            {
+                "en": "flower-shaped pupils",
+                "zh": "花形瞳孔"
+            },
+            {
+                "en": "blue sclera",
+                "zh": "蓝色巩膜"
+            },
+            {
+                "en": "black sclera",
+                "zh": "黑色巩膜"
+            },
+            {
+                "en": "bloodshot eyes",
+                "zh": "布满血丝的眼睛"
+            },
+            {
+                "en": "green sclera",
+                "zh": "绿色巩膜"
+            },
+            {
+                "en": "no sclera",
+                "zh": "无色巩膜"
+            },
+            {
+                "en": "orange sclera",
+                "zh": "橙色巩膜"
+            },
+            {
+                "en": "red sclera",
+                "zh": "红色巩膜"
+            },
+            {
+                "en": "yellow sclera",
+                "zh": "黄色巩膜"
+            },
+            {
+                "en": "bags under eyes",
+                "zh": "眼袋"
+            },
+            {
+                "en": "aegyo sal",
+                "zh": "眼袋"
+            },
+            {
+                "en": "bruised eye",
+                "zh": "瘀伤的眼睛"
+            },
+            {
+                "en": "flaming eyes",
+                "zh": "燃烧的眼睛"
+            },
+            {
+                "en": "glowing eye",
+                "zh": "发光的眼睛(单眼)"
+            },
+            {
+                "en": "mako eyes",
+                "zh": "魔眼"
+            },
+            {
+                "en": "amphibian eyes",
+                "zh": "两栖动物的眼睛"
+            },
+            {
+                "en": "cephalopod eyes",
+                "zh": "头足类动物的眼睛"
+            },
+            {
+                "en": "compound eyes",
+                "zh": "复合眼"
+            }
+        ]
+    }
+}

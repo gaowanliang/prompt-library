@@ -1,0 +1,630 @@
+{
+    "normal": {
+        "人物": [
+            {
+                "en": "girl",
+                "zh": "女孩"
+            },
+            {
+                "en": "2girls",
+                "zh": "2女孩"
+            },
+            {
+                "en": "3girls",
+                "zh": "3女孩"
+            },
+            {
+                "en": "boy",
+                "zh": "男孩"
+            },
+            {
+                "en": "2boys",
+                "zh": "2男孩"
+            },
+            {
+                "en": "3boys",
+                "zh": "3男孩"
+            },
+            {
+                "en": "solo",
+                "zh": "单人"
+            },
+            {
+                "en": "multiple girls",
+                "zh": "多个"
+            },
+            {
+                "en": "little girl",
+                "zh": "小女孩"
+            },
+            {
+                "en": "little boy",
+                "zh": "小男孩"
+            },
+            {
+                "en": "shota",
+                "zh": "正太"
+            },
+            {
+                "en": "loli",
+                "zh": "萝莉"
+            },
+            {
+                "en": "kawaii",
+                "zh": "可爱"
+            },
+            {
+                "en": "mesugaki",
+                "zh": "雌小鬼"
+            },
+            {
+                "en": "adorable girl",
+                "zh": "可爱的女孩"
+            },
+            {
+                "en": "bishoujo",
+                "zh": "美少女"
+            },
+            {
+                "en": "gyaru",
+                "zh": "辣妹"
+            },
+            {
+                "en": "sisters",
+                "zh": "姐妹"
+            },
+            {
+                "en": "ojousama",
+                "zh": "大小姐"
+            },
+            {
+                "en": "mature female",
+                "zh": "成熟女性"
+            },
+            {
+                "en": "mature",
+                "zh": "成熟"
+            },
+            {
+                "en": "female pervert",
+                "zh": "痴女"
+            },
+            {
+                "en": "milf",
+                "zh": "熟女"
+            },
+            {
+                "en": "harem",
+                "zh": "后宫"
+            },
+            {
+                "en": "1boy",
+                "zh": "1 个男人"
+            },
+            {
+                "en": "1girl",
+                "zh": "1 个女人"
+            },
+            {
+                "en": "2boys",
+                "zh": "2 个男人"
+            },
+            {
+                "en": "2girls",
+                "zh": "2 个女人"
+            },
+            {
+                "en": "female",
+                "zh": "女人"
+            },
+            {
+                "en": "male",
+                "zh": "男人"
+            },
+            {
+                "en": "milf",
+                "zh": "熟女"
+            },
+            {
+                "en": "siblings",
+                "zh": "兄弟姐妹"
+            },
+            {
+                "en": "sisters",
+                "zh": "姐妹"
+            },
+            {
+                "en": "solo",
+                "zh": "单人"
+            },
+            {
+                "en": "teenage",
+                "zh": "青少年"
+            },
+            {
+                "en": "adolescent",
+                "zh": "青春期的"
+            },
+            {
+                "en": "ballerina",
+                "zh": "芭蕾舞女演员"
+            },
+            {
+                "en": "butler",
+                "zh": "管家"
+            },
+            {
+                "en": "cheerleader",
+                "zh": "啦啦队"
+            },
+            {
+                "en": "chef",
+                "zh": "厨师"
+            },
+            {
+                "en": "child",
+                "zh": "儿童"
+            },
+            {
+                "en": "dancer",
+                "zh": "舞者"
+            },
+            {
+                "en": "doctor",
+                "zh": "医生"
+            },
+            {
+                "en": "female pervert",
+                "zh": "痴女"
+            },
+            {
+                "en": "gyaru",
+                "zh": "辣妹"
+            },
+            {
+                "en": "kogal",
+                "zh": "小辣妹"
+            },
+            {
+                "en": "nurse",
+                "zh": "护士"
+            },
+            {
+                "en": "office lady",
+                "zh": "办公室女职员"
+            },
+            {
+                "en": "police",
+                "zh": "警察"
+            },
+            {
+                "en": "policewoman",
+                "zh": "女警"
+            },
+            {
+                "en": "priest",
+                "zh": "牧师"
+            },
+            {
+                "en": "brother and sister",
+                "zh": "姐弟/兄妹"
+            },
+            {
+                "en": "cousins",
+                "zh": "表亲"
+            },
+            {
+                "en": "husband and wife",
+                "zh": "夫妻"
+            },
+            {
+                "en": "mother and daughter",
+                "zh": "母女"
+            },
+            {
+                "en": "mother and son",
+                "zh": "母子"
+            },
+            {
+                "en": "twins",
+                "zh": "双胞胎"
+            }
+        ],
+        "角色": [
+            {
+                "en": "idol",
+                "zh": "偶像"
+            },
+            {
+                "en": "kemonomimi_mode",
+                "zh": "兽耳萝莉模式"
+            },
+            {
+                "en": "loli",
+                "zh": "萝莉"
+            },
+            {
+                "en": "magical_girl",
+                "zh": "魔法少女"
+            },
+            {
+                "en": "maid",
+                "zh": "女仆"
+            },
+            {
+                "en": "male",
+                "zh": "男人"
+            },
+            {
+                "en": "mermaid",
+                "zh": "美人鱼"
+            },
+            {
+                "en": "miko",
+                "zh": "巫女"
+            },
+            {
+                "en": "milf",
+                "zh": "熟女"
+            },
+            {
+                "en": "minigirl",
+                "zh": "迷你女孩"
+            },
+            {
+                "en": "monster",
+                "zh": "怪物"
+            },
+            {
+                "en": "multiple_girls",
+                "zh": "魔幻少女"
+            },
+            {
+                "en": "ninja",
+                "zh": "忍者"
+            },
+            {
+                "en": "no_humans",
+                "zh": "非人"
+            },
+            {
+                "en": "nun",
+                "zh": "修女"
+            },
+            {
+                "en": "nurse",
+                "zh": "护士"
+            },
+            {
+                "en": "shota",
+                "zh": "正太"
+            },
+            {
+                "en": "stewardess",
+                "zh": "空姐"
+            },
+            {
+                "en": "student",
+                "zh": "学生"
+            },
+            {
+                "en": "trap",
+                "zh": "伪娘"
+            },
+            {
+                "en": "vampire",
+                "zh": "吸血鬼"
+            },
+            {
+                "en": "waitress",
+                "zh": "女服务员"
+            },
+            {
+                "en": "witch",
+                "zh": "女巫"
+            },
+            {
+                "en": "yaoi",
+                "zh": "搞基"
+            },
+            {
+                "en": "yukkuri_shiteitte_ne",
+                "zh": "油库里"
+            },
+            {
+                "en": "yuri",
+                "zh": "百合"
+            },
+            {
+                "en": "angel",
+                "zh": "天使"
+            },
+            {
+                "en": "chibi",
+                "zh": "Q 版"
+            },
+            {
+                "en": "crossdressing",
+                "zh": "伪娘"
+            },
+            {
+                "en": "devil",
+                "zh": "魔鬼（撒旦）"
+            },
+            {
+                "en": "doll",
+                "zh": "人偶"
+            },
+            {
+                "en": "elf",
+                "zh": "妖精"
+            },
+            {
+                "en": "fairy",
+                "zh": "小精灵"
+            },
+            {
+                "en": "furry",
+                "zh": "兽人"
+            },
+            {
+                "en": "giantess",
+                "zh": "女巨人"
+            },
+            {
+                "en": "harem",
+                "zh": "后宫"
+            },
+            {
+                "en": "loli",
+                "zh": "萝莉"
+            },
+            {
+                "en": "magical girl",
+                "zh": "魔法少女"
+            },
+            {
+                "en": "maid",
+                "zh": "女仆"
+            },
+            {
+                "en": "mermaid",
+                "zh": "美人鱼"
+            },
+            {
+                "en": "miko",
+                "zh": "巫女"
+            },
+            {
+                "en": "minigirl",
+                "zh": "迷你女孩"
+            },
+            {
+                "en": "monster",
+                "zh": "怪物"
+            },
+            {
+                "en": "ninja",
+                "zh": "忍者/日本武士"
+            },
+            {
+                "en": "nun",
+                "zh": "修女"
+            },
+            {
+                "en": "orc",
+                "zh": "半兽人"
+            },
+            {
+                "en": "shota",
+                "zh": "正太"
+            },
+            {
+                "en": "vampire",
+                "zh": "吸血鬼"
+            },
+            {
+                "en": "waitress",
+                "zh": "女服务员"
+            },
+            {
+                "en": "witch",
+                "zh": "女巫/魔女"
+            },
+            {
+                "en": "yaoi",
+                "zh": "搞基"
+            },
+            {
+                "en": "yukkuri shiteitte ne",
+                "zh": "油库里"
+            },
+            {
+                "en": "yuri",
+                "zh": "百合"
+            },
+            {
+                "en": "no humans",
+                "zh": "无人"
+            },
+            {
+                "en": "angel and devil",
+                "zh": "天使与恶魔"
+            },
+            {
+                "en": "bunny girl",
+                "zh": "兔娘/兔女郎"
+            },
+            {
+                "en": "cat girl",
+                "zh": "猫娘"
+            },
+            {
+                "en": "centaur",
+                "zh": "人马"
+            },
+            {
+                "en": "horse girl",
+                "zh": "马娘"
+            },
+            {
+                "en": "cow girl",
+                "zh": "牛娘"
+            },
+            {
+                "en": "dark elf",
+                "zh": "暗精灵"
+            },
+            {
+                "en": "demon girl",
+                "zh": "魅魔"
+            },
+            {
+                "en": "dog girl",
+                "zh": "犬娘"
+            },
+            {
+                "en": "dragon girl",
+                "zh": "龙娘"
+            },
+            {
+                "en": "fox girl",
+                "zh": "狐娘"
+            },
+            {
+                "en": "ghost",
+                "zh": "幽灵"
+            },
+            {
+                "en": "goblin",
+                "zh": "哥布林"
+            },
+            {
+                "en": "goddess",
+                "zh": "女神"
+            },
+            {
+                "en": "imp",
+                "zh": "小恶魔"
+            },
+            {
+                "en": "k/da (league of legends)",
+                "zh": "KDA组合(英雄联盟)"
+            },
+            {
+                "en": "kirisame marisa (cosplay)",
+                "zh": "cos成雾雨魔理沙"
+            },
+            {
+                "en": "kitsune",
+                "zh": "妖狐"
+            },
+            {
+                "en": "kyuubi",
+                "zh": "九尾|九尾狐"
+            },
+            {
+                "en": "mecha musume",
+                "zh": "机娘"
+            },
+            {
+                "en": "raccoon girl",
+                "zh": "浣熊娘"
+            },
+            {
+                "en": "sailor senshi",
+                "zh": "美少女战士"
+            },
+            {
+                "en": "spider girl",
+                "zh": "蜘蛛娘"
+            },
+            {
+                "en": "valkyrie",
+                "zh": "女武神"
+            },
+            {
+                "en": "voyakiloid",
+                "zh": "弱音(歌手)"
+            },
+            {
+                "en": "wolf girl",
+                "zh": "狼女孩"
+            },
+            {
+                "en": "bara",
+                "zh": "大叔"
+            },
+            {
+                "en": "gothic lolita",
+                "zh": "哥特萝莉"
+            },
+            {
+                "en": "gym leader",
+                "zh": "体操队队长"
+            },
+            {
+                "en": "idol",
+                "zh": "偶像"
+            },
+            {
+                "en": "kyuudou",
+                "zh": "弓道"
+            },
+            {
+                "en": "oppai loli",
+                "zh": "巨乳萝莉"
+            },
+            {
+                "en": "princess",
+                "zh": "公主"
+            },
+            {
+                "en": "race queen",
+                "zh": "赛车女郎"
+            },
+            {
+                "en": "wa lolita",
+                "zh": "和风萝莉"
+            },
+            {
+                "en": "wa maid",
+                "zh": "和风女仆"
+            },
+            {
+                "en": "glasses",
+                "zh": "眼镜/眼镜娘"
+            },
+            {
+                "en": "long neck",
+                "zh": "长脖子"
+            }
+        ]
+    },
+    "r18": {
+        "人物": [
+            {
+                "en": "interracial",
+                "zh": "跨人种的"
+            },
+            {
+                "en": "mmf threesome",
+                "zh": "二男加一女"
+            }
+        ],
+        "角色": [
+            {
+                "en": "dominatrix",
+                "zh": "女王(SM中)"
+            },
+            {
+                "en": "public use",
+                "zh": "公用/肉便器/公交车"
+            },
+            {
+                "en": "interspecies",
+                "zh": "异种奸/异种爱"
+            }
+        ]
+    }
+}

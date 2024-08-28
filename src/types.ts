@@ -8,7 +8,7 @@ export interface TagWithWeight extends Tag {
 }
 
 export interface CategoryTags {
-    normal: Record<string, Tag[]>;
+    normal?: Record<string, Tag[]>;
     r18?: Record<string, Tag[]>;
 }
 

@@ -1,0 +1,1714 @@
+{
+    "normal": {
+        "default": [
+            {
+                "en": "head tilt",
+                "zh": " 歪头"
+            },
+            {
+                "en": "turning around",
+                "zh": "回头"
+            },
+            {
+                "en": "looking back",
+                "zh": "回头"
+            },
+            {
+                "en": "looking down",
+                "zh": "向下看"
+            },
+            {
+                "en": "looking up",
+                "zh": "向上看"
+            },
+            {
+                "en": "smelling",
+                "zh": "闻"
+            },
+            {
+                "en": "hand_to_mouth",
+                "zh": "手放在嘴边"
+            },
+            {
+                "en": "arm at side ",
+                "zh": "手放头旁边"
+            },
+            {
+                "en": "arms behind head",
+                "zh": "手放脑后"
+            },
+            {
+                "en": "arms behind back ",
+                "zh": "手放后面"
+            },
+            {
+                "en": "hand on own chest",
+                "zh": "手放在自己的胸前"
+            },
+            {
+                "en": "arms_crossed",
+                "zh": "手交叉于胸前"
+            },
+            {
+                "en": "hand on hip",
+                "zh": " 手放臀"
+            },
+            {
+                "en": "hand on another's hip",
+                "zh": " 手放臀"
+            },
+            {
+                "en": "hand_on_hip",
+                "zh": "单手插腰"
+            },
+            {
+                "en": "hands_on_hips",
+                "zh": "双手叉腰"
+            },
+            {
+                "en": "arms up",
+                "zh": "举手"
+            },
+            {
+                "en": "hands up ",
+                "zh": "举手"
+            },
+            {
+                "en": "stretch",
+                "zh": "伸懒腰"
+            },
+            {
+                "en": "armpits",
+                "zh": "举手露腋"
+            },
+            {
+                "en": "leg hold",
+                "zh": "手把腿抓着"
+            },
+            {
+                "en": "grabbing",
+                "zh": "抓住"
+            },
+            {
+                "en": "holding",
+                "zh": "拿着"
+            },
+            {
+                "en": "fingersmile",
+                "zh": "用手指做出笑脸"
+            },
+            {
+                "en": "hair_pull",
+                "zh": "拉头发"
+            },
+            {
+                "en": "hair scrunchie",
+                "zh": "撮头发"
+            },
+            {
+                "en": "w ",
+                "zh": "手势"
+            },
+            {
+                "en": "v",
+                "zh": "耶"
+            },
+            {
+                "en": "peace symbol ",
+                "zh": "耶"
+            },
+            {
+                "en": "thumbs_up",
+                "zh": "翘大拇指"
+            },
+            {
+                "en": "middle_finger",
+                "zh": "比出中指"
+            },
+            {
+                "en": "cat_pose",
+                "zh": "猫爪手势"
+            },
+            {
+                "en": "finger_gun",
+                "zh": "手枪手势"
+            },
+            {
+                "en": "shushing",
+                "zh": "嘘手势"
+            },
+            {
+                "en": "waving",
+                "zh": "招手"
+            },
+            {
+                "en": "salute",
+                "zh": "敬礼"
+            },
+            {
+                "en": "spread_arms",
+                "zh": "张手"
+            },
+            {
+                "en": "spread legs",
+                "zh": "张开腿"
+            },
+            {
+                "en": "crossed_legs",
+                "zh": "二郎腿"
+            },
+            {
+                "en": "fetal_position",
+                "zh": "曲腿至胸"
+            },
+            {
+                "en": "leg_lift",
+                "zh": "抬一只脚"
+            },
+            {
+                "en": "legs_up",
+                "zh": "抬两只脚"
+            },
+            {
+                "en": "leaning forward",
+                "zh": " 前倾"
+            },
+            {
+                "en": "fetal position",
+                "zh": "婴儿姿势"
+            },
+            {
+                "en": " against wall",
+                "zh": "靠墙"
+            },
+            {
+                "en": "on_stomach",
+                "zh": "趴着"
+            },
+            {
+                "en": "squatting",
+                "zh": "蹲下"
+            },
+            {
+                "en": " lying ",
+                "zh": "躺着"
+            },
+            {
+                "en": "sitting",
+                "zh": " 坐"
+            },
+            {
+                "en": "sitting on",
+                "zh": " 坐"
+            },
+            {
+                "en": "seiza",
+                "zh": "正坐"
+            },
+            {
+                "en": "wariza/w-sitting",
+                "zh": "割坐"
+            },
+            {
+                "en": "yokozuwari",
+                "zh": "侧身坐"
+            },
+            {
+                "en": "indian_style",
+                "zh": "盘腿"
+            },
+            {
+                "en": "leg_hug",
+                "zh": "抱腿"
+            },
+            {
+                "en": "walking",
+                "zh": "走"
+            },
+            {
+                "en": "running",
+                "zh": "跑"
+            },
+            {
+                "en": "straddle",
+                "zh": "跨坐"
+            },
+            {
+                "en": "straddling",
+                "zh": "跨坐"
+            },
+            {
+                "en": "kneeling",
+                "zh": "下跪"
+            },
+            {
+                "en": "smoking",
+                "zh": "抽烟"
+            },
+            {
+                "en": "arm_support",
+                "zh": "用手支撑住"
+            },
+            {
+                "en": "caramelldansen",
+                "zh": "niconiconi"
+            },
+            {
+                "en": "princess_carry",
+                "zh": "公主抱"
+            },
+            {
+                "en": "fighting_stance",
+                "zh": "战斗姿态"
+            },
+            {
+                "en": "upside-down",
+                "zh": "颠倒的"
+            },
+            {
+                "en": "top-down_bottom-up",
+                "zh": "趴着翘臀"
+            },
+            {
+                "en": "bent_over",
+                "zh": "翘臀姿势"
+            },
+            {
+                "en": "arched_back",
+                "zh": "弓身体"
+            },
+            {
+                "en": "back-to-back",
+                "zh": "背对背"
+            },
+            {
+                "en": "symmetrical_hand_pose",
+                "zh": "手对手"
+            },
+            {
+                "en": "eye_contact",
+                "zh": "眼对眼（对视）"
+            },
+            {
+                "en": "hug",
+                "zh": "拥抱"
+            },
+            {
+                "en": "lap_pillow",
+                "zh": "膝枕"
+            },
+            {
+                "en": "sleeping",
+                "zh": "睡觉"
+            },
+            {
+                "en": "bathing",
+                "zh": "洗澡"
+            },
+            {
+                "en": "mimikaki",
+                "zh": "掏耳勺"
+            },
+            {
+                "en": "holding_hands",
+                "zh": "牵手"
+            }
+        ],
+        "头发相关": [
+            {
+                "en": "hair blowing",
+                "zh": "吹头发"
+            },
+            {
+                "en": "adjusting hair",
+                "zh": "调整头发"
+            },
+            {
+                "en": "hand in own hair",
+                "zh": "手牵自己的头发"
+            },
+            {
+                "en": "holding hair",
+                "zh": "握头发"
+            },
+            {
+                "en": "tying hair",
+                "zh": "扎头发"
+            },
+            {
+                "en": "grabbing another's hair",
+                "zh": "抓别人的头发"
+            },
+            {
+                "en": "hands in hair",
+                "zh": "手在头发"
+            },
+            {
+                "en": "brushing hair",
+                "zh": "梳头"
+            },
+            {
+                "en": "washing hair",
+                "zh": "洗头"
+            }
+        ],
+        "人物": [
+            {
+                "en": "arm support",
+                "zh": "用手支撑住"
+            },
+            {
+                "en": "armpits",
+                "zh": "举手露腋"
+            },
+            {
+                "en": "arms behind back",
+                "zh": "手放在身后"
+            },
+            {
+                "en": "arms crossed",
+                "zh": "手交叉于胸前"
+            },
+            {
+                "en": "arms up",
+                "zh": "双抬臂"
+            },
+            {
+                "en": "caramelldansen",
+                "zh": "焦糖舞"
+            },
+            {
+                "en": "finger gun",
+                "zh": "手枪手势"
+            },
+            {
+                "en": "hand on hip",
+                "zh": "单手插腰"
+            },
+            {
+                "en": "hands on another's breast",
+                "zh": "手放在另一人的胸前"
+            },
+            {
+                "en": "hands on hips",
+                "zh": "双手叉腰"
+            },
+            {
+                "en": "holding",
+                "zh": "拿着"
+            },
+            {
+                "en": "holding hands",
+                "zh": "牵手"
+            },
+            {
+                "en": "middle finger",
+                "zh": "比出中指"
+            },
+            {
+                "en": "salute",
+                "zh": "敬礼"
+            },
+            {
+                "en": "shushing",
+                "zh": "嘘手势"
+            },
+            {
+                "en": "spread arms",
+                "zh": "张开双臂"
+            },
+            {
+                "en": "thumbs up",
+                "zh": "翘大拇指"
+            },
+            {
+                "en": "undressing",
+                "zh": "脱衣服中"
+            },
+            {
+                "en": "v",
+                "zh": "胜利手势"
+            },
+            {
+                "en": "waving",
+                "zh": "招手"
+            },
+            {
+                "en": "outstretched arms",
+                "zh": "伸出双臂"
+            },
+            {
+                "en": "outstretched arm",
+                "zh": "伸出单臂"
+            },
+            {
+                "en": "outstretched hand",
+                "zh": "伸出手"
+            },
+            {
+                "en": "reaching",
+                "zh": "伸手触及"
+            },
+            {
+                "en": "arm up",
+                "zh": "单抬臂"
+            },
+            {
+                "en": "presenting armpit",
+                "zh": "展示腋窝"
+            },
+            {
+                "en": "presenting panties",
+                "zh": "展示内裤"
+            },
+            {
+                "en": "arms behind head",
+                "zh": "手臂放头后"
+            },
+            {
+                "en": "kimono lift",
+                "zh": "掀起和服"
+            },
+            {
+                "en": "kimono pull",
+                "zh": "剥开和服"
+            },
+            {
+                "en": "skirt lift",
+                "zh": "掀起裙子"
+            },
+            {
+                "en": "shared food",
+                "zh": "共享食物/用嘴递食物"
+            },
+            {
+                "en": "adjusting hair",
+                "zh": "理头发"
+            },
+            {
+                "en": "adjusting legwear",
+                "zh": "整理裤袜"
+            },
+            {
+                "en": "adjusting panties",
+                "zh": "拨内裤"
+            },
+            {
+                "en": "arm grab",
+                "zh": "抓住手臂"
+            },
+            {
+                "en": "arm held back",
+                "zh": "手臂往后拉"
+            },
+            {
+                "en": "arm hug",
+                "zh": "挽手"
+            },
+            {
+                "en": "armpit peek",
+                "zh": "微微露出腋窝"
+            },
+            {
+                "en": "arms around neck",
+                "zh": "双手搂着脖子"
+            },
+            {
+                "en": "arms at sides",
+                "zh": "双手垂放"
+            },
+            {
+                "en": "beckoning",
+                "zh": "招手"
+            },
+            {
+                "en": "belly grab",
+                "zh": "捏着肚子"
+            },
+            {
+                "en": "bikini pull",
+                "zh": "扯着比基尼"
+            },
+            {
+                "en": "skirt pull",
+                "zh": "拉开裙子"
+            },
+            {
+                "en": "carrying over shoulder",
+                "zh": "肩扛"
+            },
+            {
+                "en": "carrying under arm",
+                "zh": "夹在腋下"
+            },
+            {
+                "en": "paw pose",
+                "zh": "爪子姿势"
+            },
+            {
+                "en": "claw pose",
+                "zh": "举爪姿势"
+            },
+            {
+                "en": "clothes lift",
+                "zh": "掀起衣物"
+            },
+            {
+                "en": "clothes pull",
+                "zh": "拉开衣物"
+            },
+            {
+                "en": "bunching hair",
+                "zh": "手持辫子"
+            },
+            {
+                "en": "convenient arm",
+                "zh": "遮住关键部位的手臂"
+            },
+            {
+                "en": "convenient head",
+                "zh": "挡住关键部位的头"
+            },
+            {
+                "en": "convenient leg",
+                "zh": "挡住关键部位的腿"
+            },
+            {
+                "en": "crossed arms",
+                "zh": "交叉双臂"
+            },
+            {
+                "en": "cuddling",
+                "zh": "拥抱"
+            },
+            {
+                "en": "dress lift",
+                "zh": "掀起裙子"
+            },
+            {
+                "en": "dress removed",
+                "zh": "脱下裙子"
+            },
+            {
+                "en": "dual wielding",
+                "zh": "双持"
+            },
+            {
+                "en": "palm",
+                "zh": "以手掩面"
+            },
+            {
+                "en": "feeding",
+                "zh": "喂食"
+            },
+            {
+                "en": "fingering through clothes",
+                "zh": "手指隔着衣物摸来摸去"
+            },
+            {
+                "en": "flapping",
+                "zh": "拍打动作"
+            },
+            {
+                "en": "glomp",
+                "zh": "热情的拥抱/扑上来抱住"
+            },
+            {
+                "en": "grabbing",
+                "zh": "抓住/抓着"
+            },
+            {
+                "en": "hair flip",
+                "zh": "拨头发"
+            },
+            {
+                "en": "hair tucking",
+                "zh": "撩头发"
+            },
+            {
+                "en": "hair twirling",
+                "zh": "手指卷着头发"
+            },
+            {
+                "en": "hand between legs",
+                "zh": "手放在两腿之间"
+            },
+            {
+                "en": "hand in hair",
+                "zh": "手埋在头发里"
+            },
+            {
+                "en": "hand in panties",
+                "zh": "手伸进内裤里"
+            },
+            {
+                "en": "hand on another's cheek",
+                "zh": "手摸着对方的脸颊"
+            },
+            {
+                "en": "hand on another's chest",
+                "zh": "手放在对方的胸前"
+            },
+            {
+                "en": "hand on another's chin",
+                "zh": "手托着对方的下巴"
+            },
+            {
+                "en": "hand on another's",
+                "zh": "手接触到对方的脸"
+            },
+            {
+                "en": "hand on another's stomach",
+                "zh": "手放在对方的肚子上"
+            },
+            {
+                "en": "hand on own knee",
+                "zh": "手放在自己的膝盖上"
+            },
+            {
+                "en": "hand on own stomach",
+                "zh": "把手放在自己的肚子上"
+            },
+            {
+                "en": "hand to own mouth",
+                "zh": "手朝向自己嘴"
+            },
+            {
+                "en": "heart hands",
+                "zh": "双手比心"
+            },
+            {
+                "en": "heart hands duo",
+                "zh": "两个人一起用手比心"
+            },
+            {
+                "en": "holding arrow",
+                "zh": "拉着弓"
+            },
+            {
+                "en": "holding strap",
+                "zh": "手拉着吊带"
+            },
+            {
+                "en": "holding syringe",
+                "zh": "手持注射器"
+            },
+            {
+                "en": "holding whip",
+                "zh": "握着鞭子"
+            },
+            {
+                "en": "index finger raised",
+                "zh": "食指抬起"
+            },
+            {
+                "en": "lifted by another",
+                "zh": "被对方掀起衣物"
+            },
+            {
+                "en": "lifted by self",
+                "zh": "掀起自己的衣物"
+            },
+            {
+                "en": "necktie grab",
+                "zh": "抓着领带"
+            },
+            {
+                "en": "ok sign",
+                "zh": "OK手势"
+            },
+            {
+                "en": "own hands together",
+                "zh": "双手合十"
+            },
+            {
+                "en": "rubbing eyes",
+                "zh": "揉眼睛"
+            },
+            {
+                "en": "shading eyes",
+                "zh": "遮阳手势"
+            },
+            {
+                "en": "sheet grab",
+                "zh": "抓着床单"
+            },
+            {
+                "en": "shoujo kitou-chuu",
+                "zh": "少女祈祷中"
+            },
+            {
+                "en": "talking on phone",
+                "zh": "打电话"
+            },
+            {
+                "en": "through clothes",
+                "zh": "隔着衣物爱抚"
+            },
+            {
+                "en": "tying",
+                "zh": "打结(动作)"
+            },
+            {
+                "en": "yawning",
+                "zh": "打哈欠"
+            },
+            {
+                "en": "drying hair",
+                "zh": "弄干头发"
+            },
+            {
+                "en": "v over eye",
+                "zh": "在眼边比剪刀手"
+            },
+            {
+                "en": "grabbing another's hair",
+                "zh": "抓着对方的头发"
+            },
+            {
+                "en": "tying hair",
+                "zh": "扎头发"
+            },
+            {
+                "en": "mimikaki",
+                "zh": "采耳"
+            },
+            {
+                "en": "holding eyewear",
+                "zh": "拿着眼镜/正在摘眼镜"
+            },
+            {
+                "en": "hand on ear",
+                "zh": "手放在耳朵上"
+            },
+            {
+                "en": "adjusting eyewear",
+                "zh": "扶眼镜"
+            },
+            {
+                "en": "hand on another's head",
+                "zh": "手放在对方的头上"
+            },
+            {
+                "en": "hand on own head",
+                "zh": "手放在自己头上"
+            },
+            {
+                "en": "hand on own forehead",
+                "zh": "手放在自己前额"
+            },
+            {
+                "en": "hand on another's face",
+                "zh": "手接触到对方的脸"
+            },
+            {
+                "en": "hand on own face",
+                "zh": "把手放在自己脸上"
+            },
+            {
+                "en": "hands on another's face",
+                "zh": "双手放在别人的脸上"
+            },
+            {
+                "en": "hands on own face",
+                "zh": "双手放在自己的脸上"
+            },
+            {
+                "en": "hand on own cheek",
+                "zh": "把手放在自己的脸颊上"
+            },
+            {
+                "en": "hand on headwear",
+                "zh": "手触碰帽子"
+            },
+            {
+                "en": "hand on own chest",
+                "zh": "把手放在自己的胸口"
+            },
+            {
+                "en": "hand on another's shoulder",
+                "zh": "手放在对方的肩上"
+            },
+            {
+                "en": "hand on own shoulder",
+                "zh": "手放在自己的肩上"
+            },
+            {
+                "en": "hand on own ass",
+                "zh": "把手放在自己的臀部"
+            },
+            {
+                "en": "hands on ass",
+                "zh": "双手放在屁股上"
+            },
+            {
+                "en": "hands on own knees",
+                "zh": "双手放在自己的膝盖上"
+            },
+            {
+                "en": "hands on feet",
+                "zh": "双手放在脚上"
+            },
+            {
+                "en": "hand on another's hand",
+                "zh": "手放在对方的手上"
+            },
+            {
+                "en": "hand in pocket",
+                "zh": "手插在口袋里"
+            },
+            {
+                "en": "hands in pockets",
+                "zh": "双手插在兜里"
+            },
+            {
+                "en": "air quotes",
+                "zh": "引号手势"
+            },
+            {
+                "en": "bunny pose",
+                "zh": "兔耳 pose"
+            },
+            {
+                "en": "carry me",
+                "zh": "抱着我手势"
+            },
+            {
+                "en": "clenched hands",
+                "zh": "紧握的双手"
+            },
+            {
+                "en": "cupping hands",
+                "zh": "用手比作杯子"
+            },
+            {
+                "en": "double v",
+                "zh": "双手比 V"
+            },
+            {
+                "en": "fidgeting",
+                "zh": "紧张手势"
+            },
+            {
+                "en": "finger counting",
+                "zh": "用手指比数字"
+            },
+            {
+                "en": "finger frame",
+                "zh": "用手指作相框"
+            },
+            {
+                "en": "fist bump",
+                "zh": "碰拳"
+            },
+            {
+                "en": "fist in hand",
+                "zh": "抱拳"
+            },
+            {
+                "en": "hand glasses",
+                "zh": "用手比作眼镜"
+            },
+            {
+                "en": "own hands clasped",
+                "zh": "握住自己的双手"
+            },
+            {
+                "en": "heart arms",
+                "zh": "手臂摆出心的姿势"
+            },
+            {
+                "en": "heart hands trio",
+                "zh": "三个人用手比心"
+            },
+            {
+                "en": "high five",
+                "zh": "击掌庆祝"
+            },
+            {
+                "en": "horns pose",
+                "zh": "用手比作角"
+            },
+            {
+                "en": "noogie",
+                "zh": "双拳挤头"
+            },
+            {
+                "en": "palm-fist greeting",
+                "zh": "拱手礼"
+            },
+            {
+                "en": "palm-fist tap",
+                "zh": "拳头拍手掌/有主意了"
+            },
+            {
+                "en": "pinky swear",
+                "zh": "勾指起誓"
+            },
+            {
+                "en": "shadow puppet",
+                "zh": "用手模仿其他物件/皮影戏"
+            },
+            {
+                "en": "tsuki ni kawatte oshioki yo",
+                "zh": "代表月亮消灭你"
+            },
+            {
+                "en": "steepled fingers",
+                "zh": "指尖抵着指间"
+            },
+            {
+                "en": "akanbe",
+                "zh": "拉下眼睑的鬼脸"
+            },
+            {
+                "en": "slit throat (gesture)",
+                "zh": "割喉手势"
+            },
+            {
+                "en": "pinky out",
+                "zh": "伸出小拇指"
+            },
+            {
+                "en": "pointing",
+                "zh": "用手指着"
+            },
+            {
+                "en": "pointing at self",
+                "zh": "指着自己"
+            },
+            {
+                "en": "pointing at viewer",
+                "zh": "指向看图的人"
+            },
+            {
+                "en": "pointing down",
+                "zh": "指向下方"
+            },
+            {
+                "en": "pointing forward",
+                "zh": "指向前方"
+            },
+            {
+                "en": "pointing up",
+                "zh": "向上指"
+            },
+            {
+                "en": "kamina pose",
+                "zh": "抬高手臂向上指"
+            },
+            {
+                "en": "saturday night fever",
+                "zh": "叉腰向上指 (舞蹈)"
+            },
+            {
+                "en": "thumbs down",
+                "zh": "大拇指向下"
+            },
+            {
+                "en": "\\n/",
+                "zh": "摇滚手势"
+            },
+            {
+                "en": "crossed fingers",
+                "zh": "手指交错"
+            },
+            {
+                "en": "fox shadow puppet",
+                "zh": "狐狸手势"
+            },
+            {
+                "en": "finger heart",
+                "zh": "双指比心"
+            },
+            {
+                "en": "inward v",
+                "zh": "反向比 V"
+            },
+            {
+                "en": "shaka sign",
+                "zh": "沙卡手势"
+            },
+            {
+                "en": "two-finger salute",
+                "zh": "二指敬禮"
+            },
+            {
+                "en": "\\m/",
+                "zh": "6+1 手势"
+            },
+            {
+                "en": "middle w",
+                "zh": "3 手势"
+            },
+            {
+                "en": "money gesture",
+                "zh": "金钱手势"
+            },
+            {
+                "en": "\\||/",
+                "zh": "手掌贴墙"
+            },
+            {
+                "en": "open hand",
+                "zh": "张开的手"
+            },
+            {
+                "en": "ohikaenasutte",
+                "zh": "要求自我介绍"
+            },
+            {
+                "en": "spread fingers",
+                "zh": "张开手指"
+            },
+            {
+                "en": "vulcan salute",
+                "zh": "瓦肯举手礼"
+            },
+            {
+                "en": "clenched hand",
+                "zh": "握紧的手"
+            },
+            {
+                "en": "fig sign",
+                "zh": "Fig 手势"
+            },
+            {
+                "en": "power fist",
+                "zh": "力量手套"
+            },
+            {
+                "en": "raised fist",
+                "zh": "举起的拳头"
+            },
+            {
+                "en": "stroking own chin",
+                "zh": "扶颏冥想"
+            },
+            {
+                "en": "hat tip",
+                "zh": "捏着帽檐"
+            },
+            {
+                "en": "shocker (gesture)",
+                "zh": "爽歪歪 (手势)"
+            },
+            {
+                "en": "v over mouth",
+                "zh": "手指比 V 放在手上"
+            },
+            {
+                "en": "w",
+                "zh": "手指比 W"
+            },
+            {
+                "en": "air guitar",
+                "zh": "空气吉他"
+            },
+            {
+                "en": "curtsey",
+                "zh": "(女子的)屈膝礼"
+            },
+            {
+                "en": "heart tail",
+                "zh": "心形尾巴/心形尾尖/尾巴摆出心形"
+            },
+            {
+                "en": "heart tail duo",
+                "zh": "两人尾巴摆出心形"
+            },
+            {
+                "en": "kuji-in",
+                "zh": "九字印"
+            },
+            {
+                "en": "shrugging",
+                "zh": "耸肩"
+            },
+            {
+                "en": "toe-point",
+                "zh": "趾尖/脚尖"
+            },
+            {
+                "en": "victory pose",
+                "zh": "胜利手势"
+            },
+            {
+                "en": "orchid fingers",
+                "zh": "兰花指"
+            },
+            {
+                "en": "holding flower",
+                "zh": "拿着花"
+            },
+            {
+                "en": "smelling flower",
+                "zh": "闻花"
+            },
+            {
+                "en": "dress tug",
+                "zh": "拉下连衣裙下摆"
+            },
+            {
+                "en": "open dress",
+                "zh": "分开裙子"
+            },
+            {
+                "en": "all fours",
+                "zh": "四肢趴地"
+            },
+            {
+                "en": "arched back",
+                "zh": "弓身体"
+            },
+            {
+                "en": "bent over",
+                "zh": "翘臀姿势"
+            },
+            {
+                "en": "crossed legs",
+                "zh": "二郎腿"
+            },
+            {
+                "en": "fetal position",
+                "zh": "曲腿至胸"
+            },
+            {
+                "en": "fighting stance",
+                "zh": "战斗姿态"
+            },
+            {
+                "en": "hugging own legs",
+                "zh": "抱腿"
+            },
+            {
+                "en": "indian style",
+                "zh": "盘腿"
+            },
+            {
+                "en": "kneeling",
+                "zh": "下跪"
+            },
+            {
+                "en": "leaning forward",
+                "zh": "身体前驱"
+            },
+            {
+                "en": "leg lift",
+                "zh": "抬一只脚"
+            },
+            {
+                "en": "legs up",
+                "zh": "抬两只脚"
+            },
+            {
+                "en": "lying",
+                "zh": "躺着"
+            },
+            {
+                "en": "on stomach",
+                "zh": "趴着"
+            },
+            {
+                "en": "princess carry",
+                "zh": "公主抱"
+            },
+            {
+                "en": "seiza",
+                "zh": "正坐"
+            },
+            {
+                "en": "sitting",
+                "zh": "坐着"
+            },
+            {
+                "en": "spread legs",
+                "zh": "张腿"
+            },
+            {
+                "en": "squatting",
+                "zh": "蹲下"
+            },
+            {
+                "en": "top-down bottom-up",
+                "zh": "趴着翘臀"
+            },
+            {
+                "en": "wariza",
+                "zh": "割坐"
+            },
+            {
+                "en": "yokozuwari",
+                "zh": "侧身坐"
+            },
+            {
+                "en": "zombie pose",
+                "zh": "僵尸姿势"
+            },
+            {
+                "en": "humpbacked",
+                "zh": "驼背"
+            },
+            {
+                "en": "back-to-back",
+                "zh": "背靠背"
+            },
+            {
+                "en": "head back",
+                "zh": "弓背高潮"
+            },
+            {
+                "en": "bowing",
+                "zh": "鞠躬"
+            },
+            {
+                "en": "leaning",
+                "zh": "倚靠/身体倾斜"
+            },
+            {
+                "en": "leaning back",
+                "zh": "身体往后靠"
+            },
+            {
+                "en": "leaning to the side",
+                "zh": "向一侧倾斜身体"
+            },
+            {
+                "en": "on back",
+                "zh": "仰躺"
+            },
+            {
+                "en": "on side",
+                "zh": "侧卧"
+            },
+            {
+                "en": "reclining",
+                "zh": "斜倒斜躺姿势"
+            },
+            {
+                "en": "sitting on lap",
+                "zh": "坐在大腿上"
+            },
+            {
+                "en": "straddling",
+                "zh": "跨坐"
+            },
+            {
+                "en": "the pose",
+                "zh": "趴在地上并翘起脚"
+            },
+            {
+                "en": "head rest",
+                "zh": "枕着头/托着头"
+            },
+            {
+                "en": "head tilt",
+                "zh": "歪着头"
+            },
+            {
+                "en": "head down",
+                "zh": "低着头"
+            },
+            {
+                "en": "one knee",
+                "zh": "单膝跪"
+            },
+            {
+                "en": "butterfly sitting",
+                "zh": "蝴蝶坐"
+            },
+            {
+                "en": "figure four sitting",
+                "zh": "二郎腿"
+            },
+            {
+                "en": "lotus position",
+                "zh": "结跏趺坐"
+            },
+            {
+                "en": "sitting on person",
+                "zh": "坐在人身上"
+            },
+            {
+                "en": "thigh straddling",
+                "zh": "大腿跨骑"
+            },
+            {
+                "en": "upright straddle",
+                "zh": "对坐体位"
+            },
+            {
+                "en": "standing",
+                "zh": "站立的"
+            },
+            {
+                "en": "legs apart",
+                "zh": "两腿分开"
+            },
+            {
+                "en": "standing on one leg",
+                "zh": "单腿站立"
+            },
+            {
+                "en": "balancing",
+                "zh": "(保持)平衡的姿势"
+            },
+            {
+                "en": "crawling",
+                "zh": "爬行"
+            },
+            {
+                "en": "jumping",
+                "zh": "跳跃"
+            },
+            {
+                "en": "running",
+                "zh": "奔跑"
+            },
+            {
+                "en": "walking",
+                "zh": "走路"
+            },
+            {
+                "en": "wallwalking",
+                "zh": "走在墙顶上"
+            },
+            {
+                "en": "prostration",
+                "zh": "失意体前屈/Orz"
+            },
+            {
+                "en": "chest stand",
+                "zh": "用胸支撑身体"
+            },
+            {
+                "en": "cowering",
+                "zh": "抱头"
+            },
+            {
+                "en": "crucifixion",
+                "zh": "磔"
+            },
+            {
+                "en": "faceplant",
+                "zh": "脸贴地面"
+            },
+            {
+                "en": "battoujutsu stance",
+                "zh": "拔刀起手式"
+            },
+            {
+                "en": "full scorpion",
+                "zh": "头扑倒在地"
+            },
+            {
+                "en": "stretching",
+                "zh": "伸懒腰"
+            },
+            {
+                "en": "superhero landing",
+                "zh": "三点着地"
+            },
+            {
+                "en": "handstand",
+                "zh": "用手倒立"
+            },
+            {
+                "en": "headstand",
+                "zh": "用头倒立"
+            },
+            {
+                "en": "yoga",
+                "zh": "瑜伽"
+            },
+            {
+                "en": "scorpion pose",
+                "zh": "蝎子姿势"
+            },
+            {
+                "en": "slouching",
+                "zh": "伛"
+            },
+            {
+                "en": "twisted torso",
+                "zh": "躯干夸张地扭曲"
+            },
+            {
+                "en": "crossed ankles",
+                "zh": "交叉脚踝"
+            },
+            {
+                "en": "folded",
+                "zh": "抬腿露阴"
+            },
+            {
+                "en": "leg up",
+                "zh": "抬起腿"
+            },
+            {
+                "en": "knees to chest",
+                "zh": "膝盖顶到胸部"
+            },
+            {
+                "en": "legs over head",
+                "zh": "双腿抬过头"
+            },
+            {
+                "en": "outstretched leg",
+                "zh": "腿部伸展"
+            },
+            {
+                "en": "split",
+                "zh": "分开"
+            },
+            {
+                "en": "pigeon pose",
+                "zh": "鸽子姿势"
+            },
+            {
+                "en": "standing split",
+                "zh": "站立劈叉/站立高抬腿"
+            },
+            {
+                "en": "watson cross",
+                "zh": "双腿交叉站姿"
+            },
+            {
+                "en": "arm around neck",
+                "zh": "手臂环绕脖子"
+            },
+            {
+                "en": "hand on another's neck",
+                "zh": "手放在他人的脖子上"
+            },
+            {
+                "en": "hand on own neck",
+                "zh": "把手放在自己的脖子上"
+            },
+            {
+                "en": "neck biting",
+                "zh": "咬脖子"
+            },
+            {
+                "en": "necking",
+                "zh": "缩颈"
+            },
+            {
+                "en": "kissing neck",
+                "zh": "亲吻脖子"
+            }
+        ],
+        "摆位": [
+            {
+                "en": "facing away",
+                "zh": "背对"
+            },
+            {
+                "en": "profile",
+                "zh": "侧脸"
+            },
+            {
+                "en": "straight-on",
+                "zh": "正脸"
+            },
+            {
+                "en": "full body",
+                "zh": "全身"
+            },
+            {
+                "en": "upper body",
+                "zh": "上半身"
+            },
+            {
+                "en": "lower body",
+                "zh": "下半身"
+            },
+            {
+                "en": "cropped torso upper body",
+                "zh": "上半身出框"
+            },
+            {
+                "en": "cropped shoulders",
+                "zh": "肩膀出框"
+            },
+            {
+                "en": "cropped arms",
+                "zh": "手臂出框"
+            },
+            {
+                "en": "cropped legs",
+                "zh": "腿部出框"
+            },
+            {
+                "en": "cropped torso",
+                "zh": "躯干出框"
+            },
+            {
+                "en": "selfiemirror",
+                "zh": "自拍镜"
+            },
+            {
+                "en": "facing viewer",
+                "zh": "面对观众"
+            },
+            {
+                "en": "looking at another",
+                "zh": "盯着另一人"
+            },
+            {
+                "en": "looking afar",
+                "zh": "远眺"
+            },
+            {
+                "en": "staring",
+                "zh": "盯着看"
+            },
+            {
+                "en": "eye contact",
+                "zh": "对视"
+            },
+            {
+                "en": "female pov",
+                "zh": "女性视角"
+            },
+            {
+                "en": "looking at phone",
+                "zh": "看手机"
+            },
+            {
+                "en": "looking at viewer",
+                "zh": "看向阅图者"
+            },
+            {
+                "en": "looking away",
+                "zh": "移开视线"
+            },
+            {
+                "en": "looking back",
+                "zh": "回眸"
+            },
+            {
+                "en": "looking down",
+                "zh": "俯视"
+            },
+            {
+                "en": "looking to the side",
+                "zh": "看向侧面"
+            },
+            {
+                "en": "looking up",
+                "zh": "仰视"
+            },
+            {
+                "en": "peeping",
+                "zh": "偷窥(强调视角)"
+            },
+            {
+                "en": "pov crotch",
+                "zh": "看向裤裆的视角"
+            },
+            {
+                "en": "pov hands",
+                "zh": "手伸来方向的视角"
+            },
+            {
+                "en": "sideways glance",
+                "zh": "轻轻向侧面瞥"
+            },
+            {
+                "en": "taking picture",
+                "zh": "拍照/自拍"
+            },
+            {
+                "en": "upshirt",
+                "zh": "从衬衫下方瞥"
+            },
+            {
+                "en": "upshorts",
+                "zh": "从裙底瞥"
+            },
+            {
+                "en": "upskirt",
+                "zh": "从人的下方往上瞥"
+            },
+            {
+                "en": "solo focus",
+                "zh": "单人焦点"
+            },
+            {
+                "en": "back focus",
+                "zh": "背景焦点"
+            },
+            {
+                "en": "ass focus",
+                "zh": "臀部焦点"
+            },
+            {
+                "en": "foot focus",
+                "zh": "足部焦点"
+            },
+            {
+                "en": "portrait",
+                "zh": "半身像"
+            }
+        ]
+    },
+    "r18": {
+        "人物": [
+            {
+                "en": "caressing testicles",
+                "zh": "爱抚睾丸"
+            },
+            {
+                "en": "guided breast grab",
+                "zh": "把对方的手抓过来摸自己的胸"
+            },
+            {
+                "en": "holding condom",
+                "zh": "拿着避孕套"
+            },
+            {
+                "en": "holding panties",
+                "zh": "拿着内裤"
+            },
+            {
+                "en": "holding underwear",
+                "zh": "手持内衣"
+            },
+            {
+                "en": "penetration gesture",
+                "zh": "插入手势/做爱示意"
+            },
+            {
+                "en": "straight-arm salute",
+                "zh": "直臂敬礼/纳粹式敬礼"
+            },
+            {
+                "en": "cunnilingus gesture",
+                "zh": "舔阴手势"
+            },
+            {
+                "en": "fellatio gesture",
+                "zh": "口交手势"
+            },
+            {
+                "en": "handjob gesture",
+                "zh": "手冲手势"
+            },
+            {
+                "en": "dress pull",
+                "zh": "剥下裙子露出胸口"
+            }
+        ],
+        "摆位": [
+            {
+                "en": "looking at breasts",
+                "zh": "瞄着乳房"
+            },
+            {
+                "en": "looking at penis",
+                "zh": "看着阴茎"
+            }
+        ]
+    }
+}

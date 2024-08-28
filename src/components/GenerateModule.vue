@@ -2,6 +2,8 @@
     <n-card class="card">
         <div style="display: flex; justify-content: space-between; align-items: center;">
             <n-gradient-text size="24" style="margin-bottom: 10px; display: inline-block; font-weight: bold;"> 自选菜区
+                <n-gradient-text size="10" style="display: inline-block;"> 共3373词
+                </n-gradient-text>
             </n-gradient-text>
             <n-switch v-model:value="isNSFW" size="medium" style="display: inline-block;">
                 <template #icon>
@@ -75,7 +77,7 @@ import { defineComponent, ref, h, computed, onMounted, onBeforeUnmount } from 'v
 import type { Component } from 'vue'
 import type { TagDB } from '../types';
 
-import tagDB from '../content/tag.json';
+import tagDB from '../content/jsonReader';
 
 const typedTagDB = tagDB as TagDB;
 
@@ -86,7 +88,8 @@ import { useTagStore } from '../utils/useTagStore';
 
 import {
     BookOutline as BookIcon,
-    Body
+    Body,
+    Rose,
 } from "@vicons/ionicons5";
 
 import {
@@ -151,6 +154,11 @@ const menuOptions = [
         label: "人物",
         key: "person",
         icon: renderIcon(PersonBoard24Filled),
+    },
+    {
+        label: "物体",
+        key: "goods",
+        icon: renderIcon(Rose),
     },
     {
         label: "头发&头饰",

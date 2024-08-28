@@ -1,0 +1,39 @@
+{
+    "normal": {
+        "default": [
+            {
+                "en": "masterpiece",
+                "zh": "杰作"
+            },
+            {
+                "en": "best quality",
+                "zh": "最高质量"
+            },
+            {
+                "en": "official art",
+                "zh": "官方原画"
+            },
+            {
+                "en": "extremely detailed",
+                "zh": "极其详细"
+            },
+            {
+                "en": "CG",
+                "zh": "计算机生成的动画"
+            },
+            {
+                "en": "unity",
+                "zh": "Unity 游戏引擎"
+            },
+            {
+                "en": "8k",
+                "zh": "8K像素"
+            },
+            {
+                "en": "wallpaper",
+                "zh": "壁纸"
+            }
+        ]
+    },
+    "r18": {}
+}

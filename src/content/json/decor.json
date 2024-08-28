@@ -1,0 +1,340 @@
+{
+    "normal": {
+        "default": [
+            {
+                "en": "halo",
+                "zh": "光环"
+            },
+            {
+                "en": "mini_top_hat",
+                "zh": "迷你礼帽"
+            },
+            {
+                "en": "beret",
+                "zh": "贝雷帽"
+            },
+            {
+                "en": "hood",
+                "zh": "兜帽"
+            },
+            {
+                "en": "nurse cap",
+                "zh": " 护士帽"
+            },
+            {
+                "en": "tiara",
+                "zh": "皇冠"
+            },
+            {
+                "en": "oni horns",
+                "zh": "鬼角"
+            },
+            {
+                "en": "demon horns",
+                "zh": "恶魔角"
+            },
+            {
+                "en": "hair ribbon",
+                "zh": " 发带"
+            },
+            {
+                "en": "flower ribbon",
+                "zh": "花丝带"
+            },
+            {
+                "en": "hairband",
+                "zh": "发卡"
+            },
+            {
+                "en": "hairclip",
+                "zh": "发夹"
+            },
+            {
+                "en": "hair_ribbon",
+                "zh": "发带"
+            },
+            {
+                "en": "hair_flower",
+                "zh": "发花"
+            },
+            {
+                "en": "hair_ornament",
+                "zh": "头饰"
+            },
+            {
+                "en": "bowtie",
+                "zh": "蝴蝶结"
+            },
+            {
+                "en": "hair_bow",
+                "zh": "蝴蝶结发饰"
+            },
+            {
+                "en": "maid_headdress",
+                "zh": "女仆头饰"
+            },
+            {
+                "en": "bow",
+                "zh": "服装饰品/头部饰品"
+            },
+            {
+                "en": "hair ornament",
+                "zh": "发饰"
+            },
+            {
+                "en": "heart hair ornament",
+                "zh": "心形"
+            },
+            {
+                "en": "bandaid hair ornament",
+                "zh": "创可贴"
+            },
+            {
+                "en": "hair bun",
+                "zh": " 发包"
+            },
+            {
+                "en": "cone hair bun",
+                "zh": " 锥形发髻"
+            },
+            {
+                "en": "double bun",
+                "zh": "双发髻"
+            },
+            {
+                "en": "semi-rimless eyewear",
+                "zh": "半无框的眼镜"
+            },
+            {
+                "en": "sunglasses",
+                "zh": "太阳镜"
+            },
+            {
+                "en": "goggles",
+                "zh": "风镜"
+            },
+            {
+                "en": "eyepatch",
+                "zh": "眼罩(独眼)"
+            },
+            {
+                "en": "black blindfold",
+                "zh": "黑色眼罩"
+            },
+            {
+                "en": "headphones",
+                "zh": "耳机"
+            },
+            {
+                "en": "veil",
+                "zh": "面纱"
+            },
+            {
+                "en": "mouth mask",
+                "zh": "口罩"
+            },
+            {
+                "en": "glasses",
+                "zh": "眼镜"
+            },
+            {
+                "en": "earrings",
+                "zh": "耳环"
+            },
+            {
+                "en": "jewelry",
+                "zh": "首饰"
+            },
+            {
+                "en": "bell",
+                "zh": "铃铛"
+            },
+            {
+                "en": "ribbon_choker",
+                "zh": "颈带"
+            },
+            {
+                "en": "black choker ",
+                "zh": "颈部饰品"
+            },
+            {
+                "en": "necklace",
+                "zh": "项链"
+            },
+            {
+                "en": "headphones around neck",
+                "zh": "耳机套脖子上"
+            },
+            {
+                "en": "collar",
+                "zh": " 项圈"
+            },
+            {
+                "en": "sailor_collar",
+                "zh": "水手领"
+            },
+            {
+                "en": "neckerchief",
+                "zh": "领巾"
+            },
+            {
+                "en": "necktie",
+                "zh": " 领带"
+            },
+            {
+                "en": "cross necklace",
+                "zh": "十字架"
+            },
+            {
+                "en": "pendant",
+                "zh": " 吊坠"
+            },
+            {
+                "en": "jewelry",
+                "zh": " 珠宝"
+            },
+            {
+                "en": "scarf",
+                "zh": "围巾"
+            },
+            {
+                "en": "armband",
+                "zh": "臂章"
+            },
+            {
+                "en": "armlet",
+                "zh": "臂环"
+            },
+            {
+                "en": "arm strap",
+                "zh": " 臂带"
+            },
+            {
+                "en": "elbow gloves ",
+                "zh": "肘部手套"
+            },
+            {
+                "en": "half gloves ",
+                "zh": "露指手套"
+            },
+            {
+                "en": "fingerless_gloves",
+                "zh": "手镯"
+            },
+            {
+                "en": "gloves",
+                "zh": "手套"
+            },
+            {
+                "en": "fingerless gloves",
+                "zh": " 五指手套"
+            },
+            {
+                "en": "chains",
+                "zh": "锁链"
+            },
+            {
+                "en": "shackles",
+                "zh": "手链"
+            },
+            {
+                "en": "cuffs",
+                "zh": "手铐"
+            },
+            {
+                "en": "handcuffs",
+                "zh": "手铐"
+            },
+            {
+                "en": "bracelet",
+                "zh": "手镯"
+            },
+            {
+                "en": "wristwatch",
+                "zh": "手表"
+            },
+            {
+                "en": "wristband",
+                "zh": "腕带"
+            },
+            {
+                "en": "wrist_cuffs",
+                "zh": "腕饰"
+            },
+            {
+                "en": "holding book",
+                "zh": "拿着书"
+            },
+            {
+                "en": "holding sword",
+                "zh": "拿着剑"
+            },
+            {
+                "en": "tennis racket",
+                "zh": "球拍"
+            },
+            {
+                "en": "cane",
+                "zh": "手杖"
+            },
+            {
+                "en": "backpack",
+                "zh": "双肩包"
+            },
+            {
+                "en": "school bag ",
+                "zh": "书包"
+            },
+            {
+                "en": "satchel",
+                "zh": "肩背书包"
+            },
+            {
+                "en": "smartphone ",
+                "zh": "手机"
+            },
+            {
+                "en": "bandaid",
+                "zh": "创可贴"
+            }
+        ],
+        "人物": [
+            {
+                "en": "bandaid",
+                "zh": "创可贴"
+            },
+            {
+                "en": "cane",
+                "zh": "手杖"
+            },
+            {
+                "en": "chains",
+                "zh": "锁链"
+            },
+            {
+                "en": "cuffs",
+                "zh": "手枷"
+            },
+            {
+                "en": "handcuffs",
+                "zh": "警用手铐"
+            },
+            {
+                "en": "shackles",
+                "zh": "宽手铐"
+            },
+            {
+                "en": "tattoo",
+                "zh": "纹身"
+            },
+            {
+                "en": "sarong",
+                "zh": "莎笼/沙滩浴巾"
+            },
+            {
+                "en": "buttons",
+                "zh": "纽扣"
+            }
+        ]
+    }
+}

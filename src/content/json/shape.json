@@ -1,0 +1,686 @@
+{
+    "normal": {
+        "胸": [
+            {
+                "en": "breasts",
+                "zh": "胸.1"
+            },
+            {
+                "en": "small breasts",
+                "zh": "小"
+            },
+            {
+                "en": "medium breasts",
+                "zh": "中"
+            },
+            {
+                "en": "large breasts",
+                "zh": "大"
+            },
+            {
+                "en": "huge breasts",
+                "zh": "超大"
+            },
+            {
+                "en": "alternate breast size",
+                "zh": "不同尺寸"
+            },
+            {
+                "en": "mole on breast",
+                "zh": "乳房上有痣"
+            },
+            {
+                "en": "between breasts",
+                "zh": "两胸之间"
+            },
+            {
+                "en": "breasts apart",
+                "zh": "胸部分开"
+            },
+            {
+                "en": "hanging breasts",
+                "zh": "晃来晃去"
+            },
+            {
+                "en": "bouncing breasts",
+                "zh": "弹来弹去"
+            },
+            {
+                "en": "chest",
+                "zh": "胸肌"
+            },
+            {
+                "en": "breasts",
+                "zh": "胸部"
+            },
+            {
+                "en": "flat chest",
+                "zh": "贫乳 (A)"
+            },
+            {
+                "en": "small breasts",
+                "zh": "小胸部 (B)"
+            },
+            {
+                "en": "medium breasts",
+                "zh": "中等胸部 (C)"
+            },
+            {
+                "en": "large breasts",
+                "zh": "大胸 (D)"
+            },
+            {
+                "en": "huge breasts",
+                "zh": "巨乳 (E)"
+            },
+            {
+                "en": "gigantic breasts",
+                "zh": "魔乳 (F)"
+            },
+            {
+                "en": "bra",
+                "zh": "胸罩"
+            },
+            {
+                "en": "bustier",
+                "zh": "胸衣"
+            },
+            {
+                "en": "chemise",
+                "zh": "吊带胸衣"
+            },
+            {
+                "en": "sarashi",
+                "zh": "缠胸布"
+            },
+            {
+                "en": "cleavage",
+                "zh": "乳沟"
+            },
+            {
+                "en": "brooch",
+                "zh": "胸针"
+            },
+            {
+                "en": "chest jewel",
+                "zh": "胸前有宝石"
+            },
+            {
+                "en": "chocolate on breasts",
+                "zh": "胸上的巧克力"
+            },
+            {
+                "en": "strap between breasts",
+                "zh": "乳房之间的带子"
+            },
+            {
+                "en": "headphones on breasts",
+                "zh": "耳机压胸"
+            },
+            {
+                "en": "underboob",
+                "zh": "南半球"
+            },
+            {
+                "en": "bandaids on nipples",
+                "zh": "乳头贴着创可贴"
+            },
+            {
+                "en": "beltbra",
+                "zh": "皮带束胸"
+            },
+            {
+                "en": "lace-trimmed bra",
+                "zh": "蕾丝边胸罩"
+            },
+            {
+                "en": "open bra",
+                "zh": "(前面)解开的胸罩"
+            },
+            {
+                "en": "sports bra",
+                "zh": "运动内衣"
+            },
+            {
+                "en": "bow bra",
+                "zh": "带蝴蝶结的胸罩"
+            },
+            {
+                "en": "star pasties",
+                "zh": "星形乳贴"
+            },
+            {
+                "en": "training bra",
+                "zh": "运动内衣"
+            },
+            {
+                "en": "bra lift",
+                "zh": "掀上去的胸罩"
+            },
+            {
+                "en": "bra peek",
+                "zh": "微微露出胸罩"
+            },
+            {
+                "en": "bra pull",
+                "zh": "拉下的胸罩"
+            },
+            {
+                "en": "bra removed",
+                "zh": "摘下的胸罩"
+            },
+            {
+                "en": "bra strap",
+                "zh": "内衣肩带"
+            },
+            {
+                "en": "breast padding",
+                "zh": "胸垫"
+            },
+            {
+                "en": "breastplate",
+                "zh": "胸甲"
+            },
+            {
+                "en": "budget sarashi",
+                "zh": "绷带裹胸"
+            },
+            {
+                "en": "cupless bra",
+                "zh": "高露出度胸罩"
+            },
+            {
+                "en": "heart pasties",
+                "zh": "心形乳贴"
+            },
+            {
+                "en": "lace bra",
+                "zh": "蕾丝胸罩"
+            },
+            {
+                "en": "pasties",
+                "zh": "乳贴"
+            },
+            {
+                "en": "strap gap",
+                "zh": "泛指覆盖面少的吊带胸罩"
+            },
+            {
+                "en": "strapless bra",
+                "zh": "无肩带胸罩"
+            },
+            {
+                "en": "tube top",
+                "zh": "直筒式抹胸"
+            },
+            {
+                "en": "areola slip",
+                "zh": "乳晕微露"
+            },
+            {
+                "en": "arm under breasts",
+                "zh": "托胸"
+            },
+            {
+                "en": "arms under breasts",
+                "zh": "双手托胸"
+            },
+            {
+                "en": "asymmetrical docking",
+                "zh": "胸部互碰/胸顶着胸"
+            },
+            {
+                "en": "symmetrical docking",
+                "zh": "胸部贴着胸部"
+            },
+            {
+                "en": "bouncing breasts",
+                "zh": "乳摇"
+            },
+            {
+                "en": "breast bondage",
+                "zh": "乳房绑缚"
+            },
+            {
+                "en": "breast grab",
+                "zh": "揉胸"
+            },
+            {
+                "en": "breast hold",
+                "zh": "抱着胸部"
+            },
+            {
+                "en": "breast lift",
+                "zh": "托着胸部"
+            },
+            {
+                "en": "breast poke",
+                "zh": "戳胸"
+            },
+            {
+                "en": "breast press",
+                "zh": "挤压胸部"
+            },
+            {
+                "en": "breast rest",
+                "zh": "搁着胸部"
+            },
+            {
+                "en": "head between breasts",
+                "zh": "头埋在胸里/洗面奶"
+            },
+            {
+                "en": "breast squeeze",
+                "zh": "从两侧挤胸"
+            },
+            {
+                "en": "breast suppress",
+                "zh": "手放在乳房上方"
+            },
+            {
+                "en": "breasts on glass",
+                "zh": "胸压玻璃"
+            },
+            {
+                "en": "breasts on head",
+                "zh": "压在头上的乳房"
+            },
+            {
+                "en": "bubble tea challenge",
+                "zh": "不用手喝珍珠奶茶挑战"
+            },
+            {
+                "en": "breast envy",
+                "zh": "胸围歧视"
+            },
+            {
+                "en": "flat envy",
+                "zh": "平胸歧视"
+            },
+            {
+                "en": "breast expansion",
+                "zh": "丰胸"
+            },
+            {
+                "en": "breast reduction",
+                "zh": "缩胸"
+            },
+            {
+                "en": "bust measuring",
+                "zh": "罩杯测量"
+            },
+            {
+                "en": "flying button",
+                "zh": "飞出的纽扣"
+            },
+            {
+                "en": "convenient breasts",
+                "zh": "自然的胸部"
+            },
+            {
+                "en": "inconvenient breasts",
+                "zh": "不自然的胸部"
+            },
+            {
+                "en": "oversized breast cup",
+                "zh": "过大的罩杯"
+            },
+            {
+                "en": "weighing breasts",
+                "zh": "测量乳房重量"
+            },
+            {
+                "en": "areolae",
+                "zh": "乳晕"
+            },
+            {
+                "en": "dark areolae",
+                "zh": "深色的乳晕"
+            },
+            {
+                "en": "glands of montgomery",
+                "zh": "蒙哥马利腺体"
+            },
+            {
+                "en": "large areolae",
+                "zh": "大乳晕"
+            },
+            {
+                "en": "light areolae",
+                "zh": "有光泽的乳晕"
+            },
+            {
+                "en": "backboob",
+                "zh": "从背后可看到的胸部"
+            },
+            {
+                "en": "bursting breasts",
+                "zh": "包不住的巨乳"
+            },
+            {
+                "en": "covered nipples",
+                "zh": "激凸的乳头/隐约可见的乳头"
+            },
+            {
+                "en": "no nipples",
+                "zh": "没画出乳头"
+            },
+            {
+                "en": "sideboob",
+                "zh": "侧乳"
+            },
+            {
+                "en": "breast slip",
+                "zh": "胸部走光"
+            },
+            {
+                "en": "breasts out",
+                "zh": "胸部露出"
+            },
+            {
+                "en": "impossible shirt",
+                "zh": "贴合程度不合逻辑的衬衫"
+            },
+            {
+                "en": "one breast out",
+                "zh": "露出一只乳房"
+            },
+            {
+                "en": "asymmetrical breasts",
+                "zh": "不对称的胸部"
+            },
+            {
+                "en": "breasts apart",
+                "zh": "向两侧摊开的乳房"
+            },
+            {
+                "en": "floating breasts",
+                "zh": "漂浮的乳房"
+            },
+            {
+                "en": "hanging breasts",
+                "zh": "(俯身)双乳下垂"
+            },
+            {
+                "en": "perky breasts",
+                "zh": "丰满的乳房"
+            },
+            {
+                "en": "sagging breasts",
+                "zh": "(因俯身而)下垂的乳房"
+            },
+            {
+                "en": "unaligned breasts",
+                "zh": "左右乳房动态不一"
+            },
+            {
+                "en": "veiny breasts",
+                "zh": "看见静脉的乳房"
+            },
+            {
+                "en": "pointy breasts",
+                "zh": "尖乳房"
+            },
+            {
+                "en": "nursing bra",
+                "zh": "哺乳用文胸"
+            },
+            {
+                "en": "shelf bra",
+                "zh": "无顶文胸/露出乳头的胸罩"
+            },
+            {
+                "en": "breastless clothes",
+                "zh": "露胸的衣服"
+            },
+            {
+                "en": "breast curtain",
+                "zh": "乳帘"
+            },
+            {
+                "en": "chest binder",
+                "zh": "平胸衬衫"
+            },
+            {
+                "en": "cinderella bust",
+                "zh": "Feast 灰姑娘系列胸罩"
+            },
+            {
+                "en": "cleavage cutout",
+                "zh": "露出的乳沟"
+            },
+            {
+                "en": "framed breasts",
+                "zh": "极具立体感的乳房"
+            },
+            {
+                "en": "nipple cutout",
+                "zh": "衣服破损露出乳头"
+            },
+            {
+                "en": "nippleless clothes",
+                "zh": "能露出乳头的衣物"
+            },
+            {
+                "en": "panties on breasts",
+                "zh": "在乳房上穿内裤"
+            },
+            {
+                "en": "rei no himo",
+                "zh": "(乳头)激凸"
+            },
+            {
+                "en": "taut shirt",
+                "zh": "绷紧的衬衫"
+            },
+            {
+                "en": "underbust",
+                "zh": "勒着下胸围的衣服"
+            },
+            {
+                "en": "breast pillow",
+                "zh": "乳房枕头"
+            },
+            {
+                "en": "face to breasts",
+                "zh": "脸贴乳房"
+            },
+            {
+                "en": "face to pecs",
+                "zh": "脸贴胸肌"
+            },
+            {
+                "en": "breast biting",
+                "zh": "咬胸"
+            },
+            {
+                "en": "breastfeeding",
+                "zh": "哺乳"
+            },
+            {
+                "en": "breast pull",
+                "zh": "拉胸"
+            },
+            {
+                "en": "breast punch",
+                "zh": "锤胸"
+            },
+            {
+                "en": "breast slap",
+                "zh": "拍胸"
+            },
+            {
+                "en": "hand in bra",
+                "zh": "手在胸罩里"
+            },
+            {
+                "en": "nipple flick",
+                "zh": "拨动乳头"
+            },
+            {
+                "en": "between breasts",
+                "zh": "乳沟里"
+            },
+            {
+                "en": "card between breasts",
+                "zh": "卡片在乳沟里"
+            },
+            {
+                "en": "arm between breasts",
+                "zh": "胳膊在乳沟里"
+            },
+            {
+                "en": "person between breasts",
+                "zh": "乳房夹人"
+            },
+            {
+                "en": "tied breast",
+                "zh": "绑起来的乳房"
+            },
+            {
+                "en": "breast mousepad",
+                "zh": "乳房鼠标垫"
+            },
+            {
+                "en": "carried breast rest",
+                "zh": "拿着乳房"
+            },
+            {
+                "en": "bust cup",
+                "zh": "乳沟作杯子"
+            },
+            {
+                "en": "food on breasts",
+                "zh": "胸上有食物"
+            },
+            {
+                "en": "object on breast",
+                "zh": "胸上有物体"
+            },
+            {
+                "en": "tawawa challenge",
+                "zh": "tawawa挑战/用胸撑起平放的手机"
+            },
+            {
+                "en": "object on pectorals",
+                "zh": "胸肌上有物体"
+            },
+            {
+                "en": "oppai challenge",
+                "zh": "欧派挑战"
+            }
+        ]
+    },
+    "r18": {
+        "胸": [
+            {
+                "en": "breasts out",
+                "zh": "露出胸部"
+            },
+            {
+                "en": "one breast out",
+                "zh": "露出一边"
+            },
+            {
+                "en": "no bra",
+                "zh": "无胸罩"
+            },
+            {
+                "en": "nipples",
+                "zh": "乳头"
+            },
+            {
+                "en": "puffy nipples",
+                "zh": "大乳头"
+            },
+            {
+                "en": "small nipples",
+                "zh": "小乳头"
+            },
+            {
+                "en": "covering breasts",
+                "zh": "遮着乳房"
+            },
+            {
+                "en": "covering nipples",
+                "zh": "挡住乳头"
+            },
+            {
+                "en": "flat chest grab",
+                "zh": "抓着贫乳"
+            },
+            {
+                "en": "grabbing from behind",
+                "zh": "从背后揉胸/从背后抓住胸部"
+            },
+            {
+                "en": "hand under shirt",
+                "zh": "手伸进衬衫下面"
+            },
+            {
+                "en": "nipple tweak",
+                "zh": "玩弄乳头"
+            },
+            {
+                "en": "nipple pull",
+                "zh": "拉乳头"
+            },
+            {
+                "en": "breast smother",
+                "zh": "把头塞入胸"
+            },
+            {
+                "en": "dark nipples",
+                "zh": "深色的乳头"
+            },
+            {
+                "en": "inverted nipples",
+                "zh": "内陷乳头"
+            },
+            {
+                "en": "long nipples",
+                "zh": "长乳头"
+            },
+            {
+                "en": "nipple slip",
+                "zh": "乳头走光"
+            },
+            {
+                "en": "nipple hair",
+                "zh": "乳头毛"
+            },
+            {
+                "en": "nursing handjob",
+                "zh": "喂奶手交"
+            },
+            {
+                "en": "nipple biting",
+                "zh": "咬乳头"
+            },
+            {
+                "en": "licking nipple",
+                "zh": "舔乳头"
+            },
+            {
+                "en": "nipple press",
+                "zh": "按乳头"
+            },
+            {
+                "en": "nipple push",
+                "zh": "压乳头"
+            },
+            {
+                "en": "nipple rub",
+                "zh": "揉搓乳头"
+            },
+            {
+                "en": "nipple-to-nipple",
+                "zh": "乳头贴乳头"
+            },
+            {
+                "en": "cum on breasts",
+                "zh": "射在胸上"
+            }
+        ]
+    }
+}

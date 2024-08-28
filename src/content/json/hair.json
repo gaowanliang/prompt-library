@@ -1,0 +1,1206 @@
+{
+    "normal": {
+        "长度": [
+            {
+                "en": "very short hair",
+                "zh": "很短"
+            },
+            {
+                "en": "short hair",
+                "zh": "短发"
+            },
+            {
+                "en": "medium hair",
+                "zh": "中发"
+            },
+            {
+                "en": "long hair",
+                "zh": "长发"
+            },
+            {
+                "en": "very long hair",
+                "zh": "很长"
+            },
+            {
+                "en": "absurdly long hair",
+                "zh": "特别长"
+            },
+            {
+                "en": "hair over shoulder",
+                "zh": "头发过肩"
+            }
+        ],
+        "颜色": [
+            {
+                "en": "blonde hair",
+                "zh": "金色"
+            },
+            {
+                "en": "brown hair",
+                "zh": "棕色"
+            },
+            {
+                "en": "black hair",
+                "zh": "黑色"
+            },
+            {
+                "en": "blue hair",
+                "zh": "蓝色"
+            },
+            {
+                "en": "purple hair",
+                "zh": "紫色"
+            },
+            {
+                "en": "pink hair",
+                "zh": "粉红"
+            },
+            {
+                "en": "white hair",
+                "zh": "白色"
+            },
+            {
+                "en": "red hair",
+                "zh": "红色"
+            },
+            {
+                "en": "grey hair",
+                "zh": "灰色"
+            },
+            {
+                "en": "green hair",
+                "zh": "绿色"
+            },
+            {
+                "en": "silver hair",
+                "zh": "银色"
+            },
+            {
+                "en": "orange hair",
+                "zh": "橙色"
+            },
+            {
+                "en": "light brown hair",
+                "zh": "浅棕"
+            },
+            {
+                "en": "light purple hair",
+                "zh": "浅紫"
+            },
+            {
+                "en": "light blue hair",
+                "zh": "浅蓝"
+            },
+            {
+                "en": "platinum blonde hair",
+                "zh": "铂金色"
+            },
+            {
+                "en": "gradient hair",
+                "zh": "渐变"
+            },
+            {
+                "en": "multicolored hair",
+                "zh": "多色"
+            },
+            {
+                "en": "shiny hair",
+                "zh": "闪亮"
+            },
+            {
+                "en": "two-tone hair",
+                "zh": "双色"
+            },
+            {
+                "en": "streaked hair",
+                "zh": "挑染"
+            },
+            {
+                "en": "aqua hair",
+                "zh": "水色"
+            },
+            {
+                "en": "colored inner hair",
+                "zh": "内层彩发"
+            },
+            {
+                "en": "wet hair",
+                "zh": "湿头发"
+            }
+        ],
+        "发型": [
+            {
+                "en": "ahoge",
+                "zh": "呆毛"
+            },
+            {
+                "en": "antenna hair",
+                "zh": "多根呆毛"
+            },
+            {
+                "en": "bob cut",
+                "zh": "妹妹切"
+            },
+            {
+                "en": "hime_cut",
+                "zh": "公主切"
+            },
+            {
+                "en": "crossed bangs",
+                "zh": "交叉刘海"
+            },
+            {
+                "en": "hair wings",
+                "zh": "翼状头发"
+            },
+            {
+                "en": "disheveled hair",
+                "zh": "蓬发"
+            },
+            {
+                "en": "wavy hair",
+                "zh": "波浪头"
+            },
+            {
+                "en": "curly_hair",
+                "zh": "卷发"
+            },
+            {
+                "en": "hair in takes",
+                "zh": "收拢"
+            },
+            {
+                "en": "forehead",
+                "zh": "露额头"
+            },
+            {
+                "en": "drill hair",
+                "zh": "公主卷"
+            },
+            {
+                "en": "hair bun",
+                "zh": "包子头"
+            },
+            {
+                "en": "double_bun",
+                "zh": "俩包子头"
+            },
+            {
+                "en": "straight hair",
+                "zh": "直发"
+            },
+            {
+                "en": "spiked hair",
+                "zh": "尖刺的头发"
+            },
+            {
+                "en": "short hair with long locks",
+                "zh": "短发长鬓角"
+            },
+            {
+                "en": "low-tied long hair",
+                "zh": "低扎长发"
+            },
+            {
+                "en": "asymmetrical hair",
+                "zh": "不对称的头发"
+            },
+            {
+                "en": "big hair",
+                "zh": "大头发"
+            },
+            {
+                "en": "hair strand",
+                "zh": "发丝"
+            },
+            {
+                "en": "hair twirling",
+                "zh": "卷发"
+            },
+            {
+                "en": "pointy hair",
+                "zh": "尖头头发"
+            },
+            {
+                "en": "hair slicked back",
+                "zh": "头发向后梳"
+            },
+            {
+                "en": "hair pulled back",
+                "zh": "头发向后拉"
+            },
+            {
+                "en": "split-color hair",
+                "zh": "分色头发"
+            }
+        ],
+        "辫子": [
+            {
+                "en": "braid",
+                "zh": "辫子"
+            },
+            {
+                "en": "twin braids",
+                "zh": "双辫子"
+            },
+            {
+                "en": "single braid",
+                "zh": "单辫"
+            },
+            {
+                "en": "side braid",
+                "zh": "侧辫子"
+            },
+            {
+                "en": "long braid",
+                "zh": "长辫子"
+            },
+            {
+                "en": "french braid",
+                "zh": "法式辫子"
+            },
+            {
+                "en": "crown braid",
+                "zh": "皇冠编织"
+            },
+            {
+                "en": "braided bun",
+                "zh": "编织发髻"
+            },
+            {
+                "en": "ponytail",
+                "zh": "马尾辫"
+            },
+            {
+                "en": "braided ponytail ",
+                "zh": "编马尾"
+            },
+            {
+                "en": "high ponytail",
+                "zh": "高马尾"
+            },
+            {
+                "en": "twintails",
+                "zh": "双马尾"
+            },
+            {
+                "en": "short_ponytail",
+                "zh": "短马尾"
+            },
+            {
+                "en": "twin_braids",
+                "zh": "双辫子"
+            },
+            {
+                "en": "Side ponytail",
+                "zh": "侧马"
+            }
+        ],
+        "刘海": [
+            {
+                "en": "bangs",
+                "zh": "刘海"
+            },
+            {
+                "en": "blunt bangs",
+                "zh": "齐刘海"
+            },
+            {
+                "en": "parted bangs",
+                "zh": "分刘海"
+            },
+            {
+                "en": "swept bangs",
+                "zh": "侧扫刘海"
+            },
+            {
+                "en": "asymmetrical bangs",
+                "zh": "不对称刘海"
+            },
+            {
+                "en": "braided bangs",
+                "zh": "辫子刘海"
+            },
+            {
+                "en": "long bangs",
+                "zh": "长刘海"
+            },
+            {
+                "en": "bangs pinned back",
+                "zh": "往后夹"
+            },
+            {
+                "en": "diagonal bangs",
+                "zh": "斜刘海"
+            },
+            {
+                "en": "dyed bangs",
+                "zh": "染刘海"
+            },
+            {
+                "en": "hair between eyes",
+                "zh": "眼睛之间的头发"
+            },
+            {
+                "en": "hair over one eye",
+                "zh": "一只眼睛上的头发"
+            },
+            {
+                "en": "hair over eyes",
+                "zh": "头发遮住眼睛"
+            },
+            {
+                "en": "hair behind ear",
+                "zh": "耳朵后面的头发"
+            },
+            {
+                "en": "hair between breasts",
+                "zh": "乳房之间的毛发"
+            },
+            {
+                "en": "hair over breasts",
+                "zh": "乳房上的头发"
+            }
+        ],
+        "头饰": [
+            {
+                "en": "hair ornament",
+                "zh": "发饰"
+            },
+            {
+                "en": "hair bow",
+                "zh": "蝴蝶结"
+            },
+            {
+                "en": "hair ribbon",
+                "zh": "发带"
+            },
+            {
+                "en": "hairband",
+                "zh": "发带"
+            },
+            {
+                "en": "hair flower",
+                "zh": "头花"
+            },
+            {
+                "en": "hair bobbles",
+                "zh": "毛球"
+            },
+            {
+                "en": "hairclip",
+                "zh": "发夹"
+            },
+            {
+                "en": "single hair bun",
+                "zh": "单发髻"
+            },
+            {
+                "en": "x hair ornament",
+                "zh": "x发饰"
+            },
+            {
+                "en": "black hairband",
+                "zh": "黑色发带"
+            },
+            {
+                "en": "hair scrunchie",
+                "zh": "发箍"
+            },
+            {
+                "en": "hair rings",
+                "zh": "发圈"
+            },
+            {
+                "en": "tied hair",
+                "zh": "扎头发"
+            },
+            {
+                "en": "hairpin",
+                "zh": "发夹"
+            },
+            {
+                "en": "white hairband",
+                "zh": "白色发带"
+            },
+            {
+                "en": "hair tie",
+                "zh": "发带"
+            },
+            {
+                "en": "frog hair ornament",
+                "zh": "青蛙发饰"
+            },
+            {
+                "en": "food-themed hair ornament",
+                "zh": "食物发饰"
+            },
+            {
+                "en": "tentacle hair",
+                "zh": "触手头发"
+            },
+            {
+                "en": "star hair ornament",
+                "zh": "星星发饰"
+            },
+            {
+                "en": "hair bell",
+                "zh": "发铃"
+            },
+            {
+                "en": "heart hair ornament",
+                "zh": "心形发饰"
+            },
+            {
+                "en": "red hairband",
+                "zh": "红色发带"
+            },
+            {
+                "en": "butterfly hair ornament",
+                "zh": "蝴蝶发饰"
+            },
+            {
+                "en": "hair stick",
+                "zh": "发棒"
+            },
+            {
+                "en": "snake hair ornament",
+                "zh": "蛇发饰"
+            },
+            {
+                "en": "lolita hairband",
+                "zh": "洛丽塔发带"
+            },
+            {
+                "en": "crescent hair ornament",
+                "zh": "新月发饰"
+            },
+            {
+                "en": "cone hair bun",
+                "zh": "锥形发髻"
+            },
+            {
+                "en": "feather hair ornament",
+                "zh": "羽毛头饰"
+            },
+            {
+                "en": "blue hairband",
+                "zh": "蓝色发带"
+            },
+            {
+                "en": "anchor hair ornament",
+                "zh": "锚发饰"
+            },
+            {
+                "en": "leaf hair ornament",
+                "zh": "叶发饰"
+            },
+            {
+                "en": "bunny hair ornament",
+                "zh": "兔子头饰"
+            },
+            {
+                "en": "skull hair ornament",
+                "zh": "骷髅头饰"
+            },
+            {
+                "en": "yellow hairband",
+                "zh": "黄色发带"
+            },
+            {
+                "en": "pink hairband",
+                "zh": "粉色发带"
+            },
+            {
+                "en": "dark blue hair",
+                "zh": "深蓝色头发"
+            },
+            {
+                "en": "bow hairband",
+                "zh": "蝴蝶结发带"
+            },
+            {
+                "en": "cat hair ornament",
+                "zh": "猫头饰"
+            },
+            {
+                "en": "musical note hair ornament",
+                "zh": "音符发饰"
+            },
+            {
+                "en": "carrot hair ornament",
+                "zh": "胡萝卜发饰"
+            },
+            {
+                "en": "purple hairband",
+                "zh": "紫色发带"
+            },
+            {
+                "en": "hair tucking",
+                "zh": "头发掖"
+            },
+            {
+                "en": "hair beads",
+                "zh": "发珠"
+            },
+            {
+                "en": "multiple hair bows",
+                "zh": "多个蝴蝶结"
+            },
+            {
+                "en": "hairpods",
+                "zh": "发夹"
+            },
+            {
+                "en": "bat hair ornament",
+                "zh": "蝙蝠发饰"
+            },
+            {
+                "en": "bone hair ornament",
+                "zh": "骨发饰"
+            },
+            {
+                "en": "orange hairband",
+                "zh": "橙色发带"
+            },
+            {
+                "en": "multi-tied hair",
+                "zh": "多扎头发"
+            },
+            {
+                "en": "snowflake hair ornament",
+                "zh": "雪花发饰"
+            },
+            {
+                "en": "halo",
+                "zh": "头顶光环"
+            },
+            {
+                "en": "tokin hat",
+                "zh": "东金帽子"
+            },
+            {
+                "en": "mini top hat",
+                "zh": "迷你礼帽"
+            },
+            {
+                "en": "beret",
+                "zh": "贝雷帽"
+            },
+            {
+                "en": "hood",
+                "zh": "兜帽"
+            },
+            {
+                "en": "nurse cap",
+                "zh": "护士帽"
+            },
+            {
+                "en": "tiara",
+                "zh": "三重冕"
+            },
+            {
+                "en": "crown",
+                "zh": "皇冠"
+            },
+            {
+                "en": "maid headdress",
+                "zh": "女仆头饰"
+            },
+            {
+                "en": "ribbon",
+                "zh": "丝带"
+            },
+            {
+                "en": "sunglasses",
+                "zh": "太阳镜"
+            },
+            {
+                "en": "blindfold",
+                "zh": "眼罩"
+            },
+            {
+                "en": "eyepatch",
+                "zh": "单眼罩"
+            },
+            {
+                "en": "mask",
+                "zh": "面具/眼罩/口罩"
+            },
+            {
+                "en": "jewelry",
+                "zh": "首饰"
+            },
+            {
+                "en": "bell",
+                "zh": "铃铛"
+            },
+            {
+                "en": "facepaint",
+                "zh": "面纹"
+            },
+            {
+                "en": "horns",
+                "zh": "兽角"
+            },
+            {
+                "en": "antlers",
+                "zh": "鹿角"
+            },
+            {
+                "en": "clover hair ornament",
+                "zh": "三叶草发饰"
+            },
+            {
+                "en": "demon horns",
+                "zh": "恶魔的角"
+            },
+            {
+                "en": "jeweled branch of hourai",
+                "zh": "蓬莱玉枝"
+            },
+            {
+                "en": "fish hair ornament",
+                "zh": "鱼形发饰"
+            },
+            {
+                "en": "forehead jewel",
+                "zh": "额前有宝石"
+            },
+            {
+                "en": "forehead mark",
+                "zh": "额前有图案"
+            },
+            {
+                "en": "forehead protector",
+                "zh": "护额"
+            },
+            {
+                "en": "kanzashi",
+                "zh": "簪子"
+            },
+            {
+                "en": "heart-shaped eyewear",
+                "zh": "心形眼镜"
+            },
+            {
+                "en": "goggles",
+                "zh": "护目镜"
+            },
+            {
+                "en": "rimless eyewear",
+                "zh": "无框眼镜"
+            },
+            {
+                "en": "over-rim eyewear",
+                "zh": "下半无框眼镜"
+            },
+            {
+                "en": "kamina shades",
+                "zh": "卡米纳墨镜"
+            },
+            {
+                "en": "goggles on head",
+                "zh": "头上别着护目镜"
+            },
+            {
+                "en": "goggles on headwear",
+                "zh": "帽子上别着护目镜"
+            },
+            {
+                "en": "head mounted display",
+                "zh": "戴着头戴显示设备"
+            },
+            {
+                "en": "bandage on",
+                "zh": "贴有绷带的脸"
+            },
+            {
+                "en": "bandage over one eye",
+                "zh": "缠着绷带的单眼"
+            },
+            {
+                "en": "scar across eye",
+                "zh": "眼睛上的疤痕"
+            },
+            {
+                "en": "scar on cheek",
+                "zh": "脸颊上的疤痕"
+            },
+            {
+                "en": "covered eyes",
+                "zh": "蒙住的眼"
+            },
+            {
+                "en": "surgical mask",
+                "zh": "医用口罩"
+            },
+            {
+                "en": "mouth mask",
+                "zh": "口罩"
+            },
+            {
+                "en": "mouth veil",
+                "zh": "面纱"
+            },
+            {
+                "en": "coke-bottle glasses",
+                "zh": "厚如玻璃瓶底的圆眼镜"
+            },
+            {
+                "en": "tengu mask",
+                "zh": "天狗面具"
+            },
+            {
+                "en": "fox mask",
+                "zh": "狐狸面具"
+            },
+            {
+                "en": "mask on head",
+                "zh": "掀到头上的面具"
+            },
+            {
+                "en": "mask pull",
+                "zh": "拉着口罩"
+            },
+            {
+                "en": "mask removed",
+                "zh": "摘下的面具"
+            },
+            {
+                "en": "gas mask",
+                "zh": "防毒面具"
+            },
+            {
+                "en": "anchor choker",
+                "zh": "锚形项圈"
+            },
+            {
+                "en": "bead necklace",
+                "zh": "珠子项链"
+            },
+            {
+                "en": "headphones",
+                "zh": "耳机"
+            },
+            {
+                "en": "behind-the-head headphones",
+                "zh": "从后脑戴上的耳机"
+            },
+            {
+                "en": "whistle around neck",
+                "zh": "脖子上挂着口哨"
+            },
+            {
+                "en": "animal hood",
+                "zh": "兽耳头罩"
+            },
+            {
+                "en": "bespectacled",
+                "zh": "戴眼镜的"
+            },
+            {
+                "en": "fedora",
+                "zh": "软呢帽"
+            },
+            {
+                "en": "witch hat",
+                "zh": "女巫帽"
+            },
+            {
+                "en": "wizard hat",
+                "zh": "法师帽"
+            },
+            {
+                "en": "winged helmet",
+                "zh": "带翅膀的头盔"
+            },
+            {
+                "en": "hood down",
+                "zh": "放下的兜帽"
+            },
+            {
+                "en": "hood up",
+                "zh": "戴起来的兜帽"
+            },
+            {
+                "en": "sailor hat",
+                "zh": "水手帽"
+            },
+            {
+                "en": "santa hat",
+                "zh": "圣诞帽"
+            },
+            {
+                "en": "peaked cap",
+                "zh": "类似警帽的帽子"
+            },
+            {
+                "en": "elbow pads",
+                "zh": "护肘"
+            },
+            {
+                "en": "dragon horns",
+                "zh": "龙角"
+            },
+            {
+                "en": "eyewear on head",
+                "zh": "眼镜别在头上"
+            },
+            {
+                "en": "mole under eye",
+                "zh": "眼角有痣"
+            },
+            {
+                "en": "mole under mouth",
+                "zh": "嘴角有痣/美人痣"
+            },
+            {
+                "en": "flower on head",
+                "zh": "头上有花"
+            },
+            {
+                "en": "head wreath",
+                "zh": "头上戴着花冠"
+            }
+        ],
+        "default": [
+            {
+                "en": "rainbow hair",
+                "zh": "彩虹发"
+            },
+            {
+                "en": "braided ponytail",
+                "zh": "编织马尾辫"
+            },
+            {
+                "en": "curly hair",
+                "zh": "卷发"
+            },
+            {
+                "en": "curtained hair",
+                "zh": "窗帘/瀑布发型"
+            },
+            {
+                "en": "double bun",
+                "zh": "双团子头"
+            },
+            {
+                "en": "twin drills",
+                "zh": "双钻头卷"
+            },
+            {
+                "en": "quad drills",
+                "zh": "多钻头卷"
+            },
+            {
+                "en": "side drill",
+                "zh": "单侧钻头卷"
+            },
+            {
+                "en": "hair intakes",
+                "zh": "进气口发型"
+            },
+            {
+                "en": "hime cut",
+                "zh": "姬发式"
+            },
+            {
+                "en": "messy hair",
+                "zh": "凌乱发型"
+            },
+            {
+                "en": "short ponytail",
+                "zh": "短马尾"
+            },
+            {
+                "en": "side swept bangs",
+                "zh": "朝一个方向的刘海"
+            },
+            {
+                "en": "front ponytail",
+                "zh": "前马尾"
+            },
+            {
+                "en": "short twintails",
+                "zh": "短双马尾"
+            },
+            {
+                "en": "folded ponytail",
+                "zh": "折叠马尾"
+            },
+            {
+                "en": "quad tails",
+                "zh": "四马尾"
+            },
+            {
+                "en": "low twin braids",
+                "zh": "低双辫"
+            },
+            {
+                "en": "dreadlocks",
+                "zh": "脏辫"
+            },
+            {
+                "en": "doughnut hair bun",
+                "zh": "圆环发髻"
+            },
+            {
+                "en": "heart hair bun",
+                "zh": "心形发髻"
+            },
+            {
+                "en": "sidelocks",
+                "zh": "耳前发"
+            },
+            {
+                "en": "single sidelock",
+                "zh": "单耳前发"
+            },
+            {
+                "en": "half updo",
+                "zh": "侧发后梳"
+            },
+            {
+                "en": "hair one side up",
+                "zh": "一侧绑发"
+            },
+            {
+                "en": "hair two side up",
+                "zh": "双侧绑发"
+            },
+            {
+                "en": "hair spread out",
+                "zh": "散发"
+            },
+            {
+                "en": "floating hair",
+                "zh": "漂浮的头发"
+            },
+            {
+                "en": "crystal hair",
+                "zh": "水晶状的头发"
+            },
+            {
+                "en": "expressive hair",
+                "zh": "富有表现力的头发"
+            },
+            {
+                "en": "low ponytail",
+                "zh": "低扎马尾"
+            },
+            {
+                "en": "low twintails",
+                "zh": "低扎双尾"
+            },
+            {
+                "en": "ringlets",
+                "zh": "垂下的长鬈发"
+            },
+            {
+                "en": "side braids",
+                "zh": "披在两侧的两条辫子"
+            },
+            {
+                "en": "side bun",
+                "zh": "披在两侧的发髻"
+            },
+            {
+                "en": "split ponytail",
+                "zh": "尾部散开的单马尾发型"
+            },
+            {
+                "en": "two side up",
+                "zh": "小型双股辫"
+            },
+            {
+                "en": "cloud hair",
+                "zh": "云絮状发型"
+            },
+            {
+                "en": "flipped hair",
+                "zh": "外卷发型"
+            },
+            {
+                "en": "single hair intake",
+                "zh": "单侧进气口发型"
+            },
+            {
+                "en": "hair ears",
+                "zh": "耳状头发"
+            },
+            {
+                "en": "bald",
+                "zh": "秃头"
+            },
+            {
+                "en": "bald girl",
+                "zh": "秃头女孩"
+            },
+            {
+                "en": "bowl cut",
+                "zh": "锅盖头"
+            },
+            {
+                "en": "buzz cut",
+                "zh": "寸头"
+            },
+            {
+                "en": "chonmage",
+                "zh": "丁髷"
+            },
+            {
+                "en": "crew cut",
+                "zh": "平头/板寸头"
+            },
+            {
+                "en": "flattop",
+                "zh": "平顶"
+            },
+            {
+                "en": "okappa",
+                "zh": "河童头"
+            },
+            {
+                "en": "pixie cut",
+                "zh": "精灵头"
+            },
+            {
+                "en": "undercut",
+                "zh": "帽盔式发型"
+            },
+            {
+                "en": "cornrows",
+                "zh": "玉米垄发型"
+            },
+            {
+                "en": "mullet",
+                "zh": "鲻鱼头"
+            },
+            {
+                "en": "bow-shaped hair",
+                "zh": "弓形头发"
+            },
+            {
+                "en": "front braid",
+                "zh": "前辫"
+            },
+            {
+                "en": "multiple braids",
+                "zh": "多股(麻花)辫"
+            },
+            {
+                "en": "tri braids",
+                "zh": "三股辫"
+            },
+            {
+                "en": "quad braids",
+                "zh": "四股辫"
+            },
+            {
+                "en": "triple bun",
+                "zh": "三发髻"
+            },
+            {
+                "en": "single hair ring",
+                "zh": "单发圈"
+            },
+            {
+                "en": "one side up",
+                "zh": "只扎了一边的头发"
+            },
+            {
+                "en": "low-braided long hair",
+                "zh": "低辫长发"
+            },
+            {
+                "en": "mizura",
+                "zh": "角发"
+            },
+            {
+                "en": "nihongami",
+                "zh": "日本发"
+            },
+            {
+                "en": "topknot",
+                "zh": "丸子头"
+            },
+            {
+                "en": "uneven twintails",
+                "zh": "两股辫子大小不一"
+            },
+            {
+                "en": "tri tails",
+                "zh": "有三股辫子"
+            },
+            {
+                "en": "quin tails",
+                "zh": "有五股辫子"
+            },
+            {
+                "en": "afro",
+                "zh": "鸟窝头/爆炸头"
+            },
+            {
+                "en": "huge afro",
+                "zh": "超大鸟窝头"
+            },
+            {
+                "en": "beehive hairdo",
+                "zh": "蜂窝头"
+            },
+            {
+                "en": "pompadour",
+                "zh": "蓬帕杜发型"
+            },
+            {
+                "en": "quiff",
+                "zh": "蓬松感油头"
+            },
+            {
+                "en": "shouten pegasus mix mori",
+                "zh": "昇天ペガサスMIX盛り"
+            },
+            {
+                "en": "hair flaps",
+                "zh": "在摆动的头发"
+            },
+            {
+                "en": "widow's peak",
+                "zh": "美人尖"
+            },
+            {
+                "en": "heart ahoge",
+                "zh": "心形呆毛"
+            },
+            {
+                "en": "huge ahoge",
+                "zh": "大呆毛"
+            },
+            {
+                "en": "comb over",
+                "zh": "遮盖头发稀少部分"
+            },
+            {
+                "en": "mohawk",
+                "zh": "莫霍克发型"
+            },
+            {
+                "en": "lone nape hair",
+                "zh": "孤颈毛"
+            },
+            {
+                "en": "hair bikini",
+                "zh": "头发比基尼"
+            },
+            {
+                "en": "hair in mouth",
+                "zh": "嘴里有头发"
+            },
+            {
+                "en": "hair scarf",
+                "zh": "头发围巾"
+            }
+        ]
+    }
+}

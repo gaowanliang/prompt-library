@@ -1,0 +1,434 @@
+{
+    "normal": {
+        "袜子": [
+            {
+                "en": "socks.1",
+                "zh": "袜子.1"
+            },
+            {
+                "en": "kneehighs",
+                "zh": "过膝袜"
+            },
+            {
+                "en": "white kneehighs",
+                "zh": "白色过膝袜"
+            },
+            {
+                "en": "black kneehighs",
+                "zh": "黑色过膝袜"
+            },
+            {
+                "en": "over-kneehighs",
+                "zh": "过膝袜"
+            },
+            {
+                "en": "single kneehigh",
+                "zh": "单只过膝袜"
+            },
+            {
+                "en": "tabi",
+                "zh": "日式厚底短袜"
+            },
+            {
+                "en": "bobby socks",
+                "zh": "短袜"
+            },
+            {
+                "en": "loose socks",
+                "zh": "堆堆袜"
+            },
+            {
+                "en": "single sock",
+                "zh": "单袜"
+            },
+            {
+                "en": "no socks",
+                "zh": "没有袜子"
+            },
+            {
+                "en": "socks removed",
+                "zh": "脱掉袜子"
+            },
+            {
+                "en": "ankle socks",
+                "zh": "及踝袜"
+            },
+            {
+                "en": "striped socks",
+                "zh": "条纹袜"
+            },
+            {
+                "en": "blue socks",
+                "zh": "蓝袜子"
+            },
+            {
+                "en": "grey socks",
+                "zh": "灰袜子"
+            },
+            {
+                "en": "red socks",
+                "zh": "红袜子"
+            },
+            {
+                "en": "frilled socks",
+                "zh": "荷叶边袜子"
+            }
+        ],
+        "长筒袜": [
+            {
+                "en": "thighhighs",
+                "zh": "长筒袜"
+            },
+            {
+                "en": "black thighhighs",
+                "zh": "黑色长筒袜"
+            },
+            {
+                "en": "white thighhighs",
+                "zh": "白色长筒袜"
+            },
+            {
+                "en": "striped thighhighs",
+                "zh": "条纹长筒袜"
+            },
+            {
+                "en": "brown thighhighs",
+                "zh": "棕色长筒袜"
+            },
+            {
+                "en": "blue thighhighs",
+                "zh": "蓝色长筒袜"
+            },
+            {
+                "en": "red thighhighs",
+                "zh": "红色长筒袜"
+            },
+            {
+                "en": "purple thighhighs",
+                "zh": "紫色长筒袜"
+            },
+            {
+                "en": "pink thighhighs",
+                "zh": "粉色长筒袜"
+            },
+            {
+                "en": "grey thighhighs",
+                "zh": "灰色长筒袜"
+            },
+            {
+                "en": "thighhighs under boots",
+                "zh": "靴子长筒袜"
+            },
+            {
+                "en": "green thighhighs",
+                "zh": "绿色长筒袜"
+            },
+            {
+                "en": "yellow thighhighs",
+                "zh": "黄色长筒袜"
+            },
+            {
+                "en": "orange thighhighs",
+                "zh": "橙色长筒袜"
+            },
+            {
+                "en": "vertical-striped thighhighs",
+                "zh": "竖条纹长筒袜"
+            },
+            {
+                "en": "frilled thighhighs",
+                "zh": "褶边长筒袜"
+            },
+            {
+                "en": "fishnet thighhighs",
+                "zh": "渔网长筒袜"
+            }
+        ],
+        "连裤袜": [
+            {
+                "en": "pantyhose",
+                "zh": "连裤袜"
+            },
+            {
+                "en": "black pantyhose",
+                "zh": "黑色连裤袜"
+            },
+            {
+                "en": "white pantyhose",
+                "zh": "白色连裤袜"
+            },
+            {
+                "en": "thighband pantyhose",
+                "zh": "绑腿连裤袜"
+            },
+            {
+                "en": "brown pantyhose",
+                "zh": "棕色连裤袜"
+            },
+            {
+                "en": "fishnet pantyhose",
+                "zh": "渔网连裤袜"
+            },
+            {
+                "en": "striped pantyhose",
+                "zh": "竖条纹连裤袜"
+            },
+            {
+                "en": "vertical-striped pantyhose",
+                "zh": "竖条纹连裤袜"
+            },
+            {
+                "en": "grey pantyhose",
+                "zh": "灰色连裤袜"
+            },
+            {
+                "en": "blue pantyhose",
+                "zh": "蓝色连裤袜"
+            },
+            {
+                "en": "single leg pantyhose",
+                "zh": "单腿连裤袜"
+            },
+            {
+                "en": "purple pantyhose",
+                "zh": "紫色连裤袜"
+            },
+            {
+                "en": "red pantyhose",
+                "zh": "红色连裤袜"
+            },
+            {
+                "en": "fishnet legwear",
+                "zh": "渔网袜"
+            }
+        ],
+        "腿饰": [
+            {
+                "en": "bandaged leg",
+                "zh": "包扎腿"
+            },
+            {
+                "en": "bandaid on leg",
+                "zh": "腿上的绷带"
+            },
+            {
+                "en": "mechanical legs",
+                "zh": "机械腿"
+            },
+            {
+                "en": "leg belt",
+                "zh": "腿带"
+            },
+            {
+                "en": "leg tattoo",
+                "zh": "腿部纹身"
+            },
+            {
+                "en": "bound legs",
+                "zh": "绑腿"
+            },
+            {
+                "en": "leg lock",
+                "zh": "腿锁"
+            },
+            {
+                "en": "panties under pantyhose",
+                "zh": "连裤袜下的内裤"
+            },
+            {
+                "en": "panty & stocking with garterbelt",
+                "zh": "吊袜带内裤和长袜"
+            },
+            {
+                "en": "thighhighs over pantyhose",
+                "zh": "连裤袜加长筒袜"
+            },
+            {
+                "en": "socks over thighhighs",
+                "zh": "长筒袜加短袜"
+            },
+            {
+                "en": "panties over pantyhose",
+                "zh": "连裤袜上的内裤"
+            },
+            {
+                "en": "pantyhose under swimsuit",
+                "zh": "泳衣下连裤袜"
+            },
+            {
+                "en": "black garter belt",
+                "zh": "黑色吊袜带"
+            },
+            {
+                "en": "neck garter",
+                "zh": "吊袜带"
+            },
+            {
+                "en": "white garter straps",
+                "zh": "白色吊袜带"
+            },
+            {
+                "en": "black garter straps",
+                "zh": "黑色吊袜带"
+            },
+            {
+                "en": "ankle garter",
+                "zh": "脚踝吊袜带"
+            }
+        ],
+        "裤袜": [
+            {
+                "en": "no legwear",
+                "zh": "裸腿"
+            },
+            {
+                "en": "black legwear",
+                "zh": "黑色裤袜"
+            },
+            {
+                "en": "white legwear",
+                "zh": "白色裤袜"
+            },
+            {
+                "en": "torn legwear",
+                "zh": "撕裂的裤袜"
+            },
+            {
+                "en": "striped legwear",
+                "zh": "条纹裤袜"
+            },
+            {
+                "en": "asymmetrical legwear",
+                "zh": "不对称裤腿"
+            },
+            {
+                "en": "brown legwear",
+                "zh": "棕色裤袜"
+            },
+            {
+                "en": "uneven legwear",
+                "zh": "不均匀的裤腿"
+            },
+            {
+                "en": "toeless legwear",
+                "zh": "无趾裤袜"
+            },
+            {
+                "en": "print legwear",
+                "zh": "印花裤袜"
+            },
+            {
+                "en": "lace-trimmed legwear",
+                "zh": "蕾丝边裤"
+            },
+            {
+                "en": "red legwear",
+                "zh": "红色裤袜"
+            },
+            {
+                "en": "mismatched legwear",
+                "zh": "不匹配的腿饰"
+            },
+            {
+                "en": "legwear under shorts",
+                "zh": "短裤下的裤袜"
+            },
+            {
+                "en": "purple legwear",
+                "zh": "紫色裤袜"
+            },
+            {
+                "en": "grey legwear",
+                "zh": "灰色裤袜"
+            },
+            {
+                "en": "blue legwear",
+                "zh": "蓝色裤袜"
+            },
+            {
+                "en": "pink legwear",
+                "zh": "粉色裤袜"
+            },
+            {
+                "en": "argyle legwear",
+                "zh": "菱形裤腿"
+            },
+            {
+                "en": "ribbon-trimmed legwear",
+                "zh": "丝带边饰裤袜"
+            },
+            {
+                "en": "american flag legwear",
+                "zh": "星条旗裤袜"
+            },
+            {
+                "en": "green legwear",
+                "zh": "绿色裤袜"
+            },
+            {
+                "en": "vertical-striped legwear",
+                "zh": "竖条纹裤袜"
+            },
+            {
+                "en": "frilled legwear",
+                "zh": "褶边裤袜"
+            },
+            {
+                "en": "stirrup legwear",
+                "zh": "马镫腿裤"
+            },
+            {
+                "en": "alternate legwear",
+                "zh": "备用裤袜"
+            },
+            {
+                "en": "seamed legwear",
+                "zh": "接缝裤袜"
+            },
+            {
+                "en": "yellow legwear",
+                "zh": "黄色裤袜"
+            },
+            {
+                "en": "multicolored legwear",
+                "zh": "五彩裤袜"
+            },
+            {
+                "en": "ribbed legwear",
+                "zh": "罗纹裤袜"
+            },
+            {
+                "en": "fur-trimmed legwear",
+                "zh": "毛皮裤袜"
+            },
+            {
+                "en": "see-through legwear",
+                "zh": "透视裤袜"
+            },
+            {
+                "en": "legwear garter",
+                "zh": "裤袜吊袜带"
+            },
+            {
+                "en": "two-tone legwear",
+                "zh": "双色裤袜"
+            },
+            {
+                "en": "latex legwear",
+                "zh": "乳胶裤袜"
+            }
+        ]
+    },
+    "r18": {
+        "default": [
+            {
+                "en": "vibrator in thighhighs",
+                "zh": "长筒袜里塞跳蛋"
+            },
+            {
+                "en": "torn pantyhose",
+                "zh": "撕裂的连裤袜"
+            }
+        ]
+    }
+}
