@@ -1,6 +1,6 @@
 <template>
-  <n-card class="card" title="结果">
-    <n-alert title="你应该知道的" type="info" closable>
+  <n-card class="card v-sticky" title="结果">
+    <n-alert title="你应该知道的" type="info" closable class="v-sticky">
       选择Prompt后，可在这里拖拽排序，Prompt的顺序对生成结果有影响，越靠前越优先。点击后可以设置权重，权重越高越优先。
       <br />
       不好用？<n-button text tag="a"
@@ -197,6 +197,12 @@ export default defineComponent({
 <style scoped>
 .card {
   margin-bottom: 24px;
+}
+
+.v-sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0px;
 }
 
 .form {

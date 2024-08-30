@@ -36,17 +36,21 @@
                         @update:value="handleMenuSelect" />
                 </n-layout-sider>
                 <n-layout style="padding: 10px;">
-                    <n-card v-for="(tags, title) in currentTags" :key="title" size="small" style="margin-bottom: 10px;">
-                        <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title !==
-                            'default' ? title : '' }}
-                        </n-gradient-text>
+                    <n-scrollbar style="max-height: 720px">
+                        <n-card v-for="(tags, title) in currentTags" :key="title" size="small"
+                            style="margin-bottom: 10px;">
+                            <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title
+                                !==
+                                'default' ? title : '' }}
+                            </n-gradient-text>
 
-                        <n-tag class="v-border" v-for="tag in tags" :key="tag.en" checkable :checked="isTagChecked(tag)"
-                            @update:checked="toggleTag(tag)">
-                            <div style="font-weight: bold;"> {{ tag.en }} </div>
-                            <div style="font-size: 10px; margin-top:3px;"> {{ tag.zh }} </div>
-                        </n-tag>
-                    </n-card>
+                            <n-tag class="v-border" v-for="tag in tags" :key="tag.en" checkable
+                                :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
+                                <div style="font-weight: bold;"> {{ tag.en }} </div>
+                                <div style="font-size: 10px; margin-top:3px;"> {{ tag.zh }} </div>
+                            </n-tag>
+                        </n-card>
+                    </n-scrollbar>
                 </n-layout>
             </n-layout>
         </n-space>
@@ -54,18 +58,21 @@
             <n-scrollbar x-scrollable style="padding: 10px 0;">
                 <n-menu mode="horizontal" :options="menuOptions" @update:value="handleMenuSelect" responsive />
             </n-scrollbar>
-            <n-card v-for="(tags, title) in currentTags" :key="title" size="small" style="margin-bottom: 10px;">
-                <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title !== 'default'
-                    ?
-                    title : '' }}
-                </n-gradient-text>
+            <n-scrollbar style="max-height: 500px">
+                <n-card v-for="(tags, title) in currentTags" :key="title" size="small" style="margin-bottom: 10px;">
+                    <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title !==
+                        'default'
+                        ?
+                        title : '' }}
+                    </n-gradient-text>
 
-                <n-tag size="small" class="v-border small" v-for="tag in tags" :key="tag.en" checkable
-                    :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
-                    <div style="font-weight: bold; font-size: 12px;"> {{ tag.en }} </div>
-                    <div style="font-size: 8px; margin-top:3px;"> {{ tag.zh }} </div>
-                </n-tag>
-            </n-card>
+                    <n-tag size="small" class="v-border small" v-for="tag in tags" :key="tag.en" checkable
+                        :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
+                        <div style="font-weight: bold; font-size: 12px;"> {{ tag.en }} </div>
+                        <div style="font-size: 8px; margin-top:3px;"> {{ tag.zh }} </div>
+                    </n-tag>
+                </n-card>
+            </n-scrollbar>
         </n-space>
 
     </n-card>
@@ -126,7 +133,8 @@ import {
     NScrollbar,
     NInputGroup,
     NInput,
-    NButton
+    NButton,
+
 
 } from 'naive-ui'
 

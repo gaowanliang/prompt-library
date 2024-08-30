@@ -1,11 +1,16 @@
 <template>
+  <n-back-top :right="100" />
   <n-config-provider :theme-overrides="themeOverrides" :locale="locale">
     <n-layout embedded>
+
       <PageHead />
+
       <div class="content-box">
         <n-grid cols="1 l:3" :x-gap="12" item-responsive responsive="screen">
-          <n-grid-item :span="1">
-            <PromptOutput class="v-flex" />
+          <n-grid-item :span="1" class="container">
+
+            <PromptOutput class="v-flex" :style="{ marginTop: promptOutputMarginTop + 'px' }" />
+
           </n-grid-item>
           <n-grid-item :span="2">
             <GenerateModule class="v-flex" />
@@ -17,12 +22,16 @@
         {{ new Date().getFullYear() }} , All Rights Reserved
       </h5>
     </n-layout>
-    <n-back-top :right="100" />
+
   </n-config-provider>
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from 'vue'
+import {
+  defineComponent, ref,
+  onMounted,
+  onUnmounted,
+} from 'vue'
 import {
   NLayout,
   NConfigProvider,
@@ -30,7 +39,8 @@ import {
   zhCN,
   NGrid,
   NGridItem,
-  NBackTop
+  NBackTop,
+  NAffix
 } from 'naive-ui'
 import PageHead from './PageHead.vue'
 import GenerateModule from './GenerateModule.vue'
@@ -46,6 +56,7 @@ export default defineComponent({
     NGrid,
     NGridItem,
     NBackTop,
+    // NAffix,
     PromptOutput
   },
   setup: () => {
@@ -70,11 +81,27 @@ export default defineComponent({
       }
     }
 
+    const promptOutputMarginTop = ref<number>(0)
+
+    // const handleScroll = () => {
+    //   const scrollTop = window.scrollY || document.documentElement.scrollTop
+    //   promptOutputMarginTop.value = scrollTop
+    // }
+
+    // onMounted(() => {
+    //   window.addEventListener('scroll', handleScroll)
+    // })
+
+    // onUnmounted(() => {
+    //   window.removeEventListener('scroll', handleScroll)
+    // })
+
     return {
       lang,
       locale,
       themeOverrides,
-      setLang
+      setLang,
+      promptOutputMarginTop
     }
   }
 })
@@ -95,5 +122,10 @@ export default defineComponent({
 .v-flex {
   display: flex;
   justify-content: center;
+}
+
+.container {
+  height: auto;
+  overflow: auto;
 }
 </style>
