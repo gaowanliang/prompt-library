@@ -55,6 +55,11 @@ export function useTagStore() {
         localStorage.setItem('selectedTags', JSON.stringify(selectedTags.value));  // 更新 localStorage
     };
 
+    const cleanAllTags = () => {
+        selectedTags.value = [];
+        localStorage.removeItem('selectedTags');  // 清空 localStorage
+    }
+
     return {
         selectedTags,
         isNSFW,
@@ -63,5 +68,6 @@ export function useTagStore() {
         toggleTag,
         isTagChecked,
         updateTagWeight,
+        cleanAllTags
     };
 }

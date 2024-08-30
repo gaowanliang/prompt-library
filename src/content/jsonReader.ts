@@ -16,7 +16,9 @@ import start from "./json/start.json";
 import socks from "./json/socks.json";
 import style from "./json/style.json";
 
-const tagDB = {
+import type { Tag, TagDB } from "../types";
+
+const tagDB: TagDB = {
     action,
     clothes,
     decor,
@@ -35,4 +37,26 @@ const tagDB = {
     style
 };
 
+let allTags: Tag[] = [];
+
+// Iterate over each category in the tagDB
+for (const category in tagDB) {
+    const categoryTags = tagDB[category];
+
+    // If there are normal tags, add them to the array
+    if (categoryTags.normal) {
+        for (const subCategory in categoryTags.normal) {
+            allTags = allTags.concat(categoryTags.normal[subCategory]);
+        }
+    }
+
+    // If there are r18 tags, add them to the array
+    if (categoryTags.r18) {
+        for (const subCategory in categoryTags.r18) {
+            allTags = allTags.concat(categoryTags.r18[subCategory]);
+        }
+    }
+}
+
 export default tagDB;
+export { allTags };

@@ -10,7 +10,18 @@
       </n-button>
     </n-alert>
     <n-card class="card" size="small" style="margin-top: 10px;">
-      <n-gradient-text type="info" style="margin-bottom: 10px"> 正向Prompt </n-gradient-text>
+      <div class="flex-sb">
+        <n-gradient-text type="info" style="margin-bottom: 10px"> 正向Prompt </n-gradient-text>
+        <n-button strong secondary circle @click="cleanAllTags">
+          <template #icon>
+            <n-icon>
+              <DeleteIcon />
+            </n-icon>
+          </template>
+        </n-button>
+      </div>
+
+
       <VueDraggable ref="el" v-model="list" animation="20" v-if="list.length > 0">
         <n-badge v-for="tag in list as TagWithWeight[]" :key="tag.en" :value="tag.weight.toString()"
           :show="tag.weight !== 1" :offset="offset">
@@ -22,9 +33,14 @@
         </n-badge>
       </VueDraggable>
       <n-result v-else status="404" title="是不是应该先点菜" style="margin-top: 20px;">
-
       </n-result>
     </n-card>
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+      <n-slider v-model:value="cardCount" :step="1" :min="1" :max="100" />
+      <n-button dashed strong :render-icon="renderIcon" style="margin-left: 20px;" @click="addRandomPrompt">
+        随机来{{ cardCount }}个Prompt
+      </n-button>
+    </div>
     <div v-if="selectedTag" style="display: flex; justify-content: space-between; align-items: center;">
       <n-badge :value="selectedTagWeight.toString()" v-if="selectedTagWeight !== 1">
         <n-tag type="success" style="padding: 20px 10px; margin: 5px;">
@@ -51,11 +67,18 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, computed, toRaw } from 'vue';
+import { defineComponent, ref, computed, h } from 'vue';
 import { useTagStore } from '../utils/useTagStore';
-import { NCard, NButton, NGradientText, NTag, NBadge, NInputNumber, NAlert, NResult } from 'naive-ui';
+import { NCard, NButton, NGradientText, NTag, NBadge, NInputNumber, NAlert, NResult, NSlider, NIcon } from 'naive-ui';
 import { VueDraggable } from 'vue-draggable-plus';
 import type { TagWithWeight } from '../types';
+import { allTags } from '@/content/jsonReader';
+
+import {
+  GiftCard20Filled,
+  DeleteLines20Filled as DeleteIcon,
+} from "@vicons/fluent";
+
 
 export default defineComponent({
   name: 'PromptOutput',
@@ -68,14 +91,18 @@ export default defineComponent({
     NInputNumber,
     NAlert,
     NResult,
+    NSlider,
     VueDraggable,
+    NIcon,
+    DeleteIcon,
   },
   setup() {
-    const { selectedTags, isNSFW, removeTag, updateTagWeight } = useTagStore();
+    const { selectedTags, isNSFW, removeTag, updateTagWeight, cleanAllTags } = useTagStore();
     const selectedTag = ref<TagWithWeight | null>(null);
     const selectedTagWeight = ref(1);
     const list = ref(selectedTags);
     const outputPromptText = ref('');
+    const cardCount = ref(1);
 
     const isNegativeOutput = ref(false);
 
@@ -110,6 +137,18 @@ export default defineComponent({
       });
     };
 
+    // 随机从allTags中抽取cardCount个Prompt，加上Weight为1后添加到list中，不要重复
+    const addRandomPrompt = () => {
+      const tags = Array.from(list.value as TagWithWeight[]);
+      const promptList = allTags.filter(tag => !tags.some(t => t.en === tag.en));
+      const randomTags = promptList.sort(() => Math.random() - 0.5).slice(0, cardCount.value);
+      const newTags = randomTags.map(tag => {
+        return { ...tag, weight: 1 };
+      });
+      list.value = tags.concat(newTags);
+    };
+
+
     const copyNegativePrompt = () => {
       isNegativeOutput.value = true;
       var promptText = "lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet"
@@ -124,6 +163,7 @@ export default defineComponent({
 
 
 
+
     return {
       list,
       selectedTag,
@@ -135,7 +175,15 @@ export default defineComponent({
       copyPositivePrompt,
       outputPromptText,
       copyNegativePrompt,
+      addRandomPrompt,
       isNegativeOutput,
+      cardCount,
+      cleanAllTags,
+      renderIcon() {
+        return h(NIcon, null, {
+          default: () => h(GiftCard20Filled)
+        })
+      }
     };
   },
 });
@@ -170,5 +218,11 @@ export default defineComponent({
   width: 100%;
   display: flex;
   justify-content: center;
+}
+
+.flex-sb {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 </style>
