@@ -38,6 +38,7 @@ const tagDB: TagDB = {
 };
 
 let allTags: Tag[] = [];
+let allTagsWithR18: Tag[] = [];
 
 // Iterate over each category in the tagDB
 for (const category in tagDB) {
@@ -47,16 +48,17 @@ for (const category in tagDB) {
     if (categoryTags.normal) {
         for (const subCategory in categoryTags.normal) {
             allTags = allTags.concat(categoryTags.normal[subCategory]);
+            allTagsWithR18 = allTagsWithR18.concat(categoryTags.normal[subCategory]);
         }
     }
 
     // If there are r18 tags, add them to the array
     if (categoryTags.r18) {
         for (const subCategory in categoryTags.r18) {
-            allTags = allTags.concat(categoryTags.r18[subCategory]);
+            allTagsWithR18 = allTagsWithR18.concat(categoryTags.r18[subCategory]);
         }
     }
 }
 
 export default tagDB;
-export { allTags };
+export { allTags, allTagsWithR18 };

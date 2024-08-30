@@ -72,7 +72,7 @@ import { useTagStore } from '../utils/useTagStore';
 import { NCard, NButton, NGradientText, NTag, NBadge, NInputNumber, NAlert, NResult, NSlider, NIcon } from 'naive-ui';
 import { VueDraggable } from 'vue-draggable-plus';
 import type { TagWithWeight } from '../types';
-import { allTags } from '@/content/jsonReader';
+import { allTags, allTagsWithR18 } from '@/content/jsonReader';
 
 import {
   GiftCard20Filled,
@@ -140,7 +140,12 @@ export default defineComponent({
     // 随机从allTags中抽取cardCount个Prompt，加上Weight为1后添加到list中，不要重复
     const addRandomPrompt = () => {
       const tags = Array.from(list.value as TagWithWeight[]);
-      const promptList = allTags.filter(tag => !tags.some(t => t.en === tag.en));
+      var promptList = [];
+      if (isNSFW.value) {
+        promptList = allTagsWithR18.filter(tag => !tags.some(t => t.en === tag.en));
+      } else {
+        promptList = allTags.filter(tag => !tags.some(t => t.en === tag.en));
+      }
       const randomTags = promptList.sort(() => Math.random() - 0.5).slice(0, cardCount.value);
       const newTags = randomTags.map(tag => {
         return { ...tag, weight: 1 };
