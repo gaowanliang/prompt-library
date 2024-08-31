@@ -1,15 +1,17 @@
 <template>
   <n-config-provider :theme="theme">
-    <n-message-provider>
-      <GeneratorPage />
-      <n-global-style />
-    </n-message-provider>
+    <n-notification-provider>
+      <n-message-provider>
+        <GeneratorPage />
+        <n-global-style />
+      </n-message-provider>
+    </n-notification-provider>
   </n-config-provider>
 </template>
 
 <script lang="ts">
 import { computed, defineComponent } from 'vue'
-import { NMessageProvider, NConfigProvider, useOsTheme, darkTheme, NGlobalStyle } from 'naive-ui'
+import { NMessageProvider, NConfigProvider, useOsTheme, darkTheme, NGlobalStyle, NNotificationProvider } from 'naive-ui'
 import GeneratorPage from './components/GeneratorPage.vue'
 
 export default defineComponent({
@@ -19,6 +21,7 @@ export default defineComponent({
     NMessageProvider,
     NConfigProvider,
     NGlobalStyle,
+    NNotificationProvider
   },
   setup() {
     const osThemeRef = useOsTheme()

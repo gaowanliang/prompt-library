@@ -1,0 +1,166 @@
+{
+    "normal": {
+        "default": [
+            {
+                "en": "easynegative",
+                "zh": "简易负面"
+            },
+            {
+                "en": "bad",
+                "zh": "差"
+            },
+            {
+                "en": "bad anatomy",
+                "zh": "解剖结构差"
+            },
+            {
+                "en": "bad composition",
+                "zh": "构图不佳"
+            },
+            {
+                "en": "bad feet",
+                "zh": "脚部差"
+            },
+            {
+                "en": "bad hands",
+                "zh": "手部差"
+            },
+            {
+                "en": "nsfw",
+                "zh": "不适合工作时查看(R18)"
+            },
+            {
+                "en": "blurry",
+                "zh": "模糊"
+            },
+            {
+                "en": "cropped",
+                "zh": "被裁剪"
+            },
+            {
+                "en": "deformed",
+                "zh": "畸形"
+            },
+            {
+                "en": "digit",
+                "zh": "手指数量异常"
+            },
+            {
+                "en": "error",
+                "zh": "错误"
+            },
+            {
+                "en": "extra digit",
+                "zh": "多余手指"
+            },
+            {
+                "en": "extra limb",
+                "zh": "多余肢体"
+            },
+            {
+                "en": "extra missing fingers",
+                "zh": "额外或缺失手指"
+            },
+            {
+                "en": "fake",
+                "zh": "虚假"
+            },
+            {
+                "en": "fat",
+                "zh": "肥胖"
+            },
+            {
+                "en": "fewer digits",
+                "zh": "手指数量过少"
+            },
+            {
+                "en": "imperfect eyes",
+                "zh": "眼睛不完美"
+            },
+            {
+                "en": "inaccurate eyes",
+                "zh": "眼睛不准确"
+            },
+            {
+                "en": "inaccurate limb",
+                "zh": "四肢不准确"
+            },
+            {
+                "en": "jpeg artifacts",
+                "zh": "JPEG 压缩失真"
+            },
+            {
+                "en": "logo",
+                "zh": "标志"
+            },
+            {
+                "en": "low quality",
+                "zh": "低质量"
+            },
+            {
+                "en": "lowres",
+                "zh": "低分辨率"
+            },
+            {
+                "en": "missing fingers",
+                "zh": "缺失手指"
+            },
+            {
+                "en": "missing limbs",
+                "zh": "缺失肢体"
+            },
+            {
+                "en": "negative_hand",
+                "zh": "负面手部"
+            },
+            {
+                "en": "normal quality",
+                "zh": "一般质量"
+            },
+            {
+                "en": "painting by bad-artist",
+                "zh": "糟糕画家的作品"
+            },
+            {
+                "en": "signature",
+                "zh": "签名"
+            },
+            {
+                "en": "skewed eyes",
+                "zh": "眼睛歪斜"
+            },
+            {
+                "en": "text",
+                "zh": "文本"
+            },
+            {
+                "en": "ugly",
+                "zh": "丑陋"
+            },
+            {
+                "en": "ugly body",
+                "zh": "身体丑陋"
+            },
+            {
+                "en": "unnatural body",
+                "zh": "身体不自然"
+            },
+            {
+                "en": "unnatural face",
+                "zh": "脸部不自然"
+            },
+            {
+                "en": "username",
+                "zh": "用户名"
+            },
+            {
+                "en": "watermark",
+                "zh": "水印"
+            },
+            {
+                "en": "worst quality",
+                "zh": "最差质量"
+            }
+        ]
+    }
+}

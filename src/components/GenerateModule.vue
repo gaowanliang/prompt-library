@@ -29,6 +29,17 @@
                 添加
             </n-button>
         </n-input-group>
+        <div style="display: flex; justify-content: end; margin: 10px 0;">
+            <n-switch v-model:value="isNegativeMode" size="medium" style="display: inline-block; ">
+                <template #checked>
+                    切换反向词模式
+                </template>
+                <template #unchecked>
+                    切换正向词模式
+                </template>
+            </n-switch>
+        </div>
+
         <n-space vertical v-if="isDesktop">
             <n-layout has-sider>
                 <n-layout-sider bordered collapse-mode="width" :collapsed-width="64" :width="240" show-trigger>
@@ -36,7 +47,7 @@
                         @update:value="handleMenuSelect" />
                 </n-layout-sider>
                 <n-layout style="padding: 10px;">
-                    <n-scrollbar style="max-height: 720px">
+                    <n-scrollbar style="max-height: 750px">
                         <n-card v-for="(tags, title) in currentTags" :key="title" size="small"
                             style="margin-bottom: 10px;">
                             <n-gradient-text style="margin-bottom: 10px; display: block; font-weight: bold;"> {{ title
@@ -44,8 +55,10 @@
                                 'default' ? title : '' }}
                             </n-gradient-text>
 
-                            <n-tag class="v-border" v-for="tag in tags" :key="tag.en" checkable
-                                :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
+                            <n-tag class="v-border" :class="{ 'tab-click': isNegativeTag(tag) }" v-for="tag in tags"
+                                :key="tag.en" checkable :checked="isTagChecked(tag)"
+                                @update:checked="toggleTag(tag, isNegativeMode)" @contextmenu.prevent
+                                @mouseup.right="toggleTag(tag, !isNegativeMode)">
                                 <div style="font-weight: bold;"> {{ tag.en }} </div>
                                 <div style="font-size: 10px; margin-top:3px;"> {{ tag.zh }} </div>
                             </n-tag>
@@ -66,8 +79,10 @@
                         title : '' }}
                     </n-gradient-text>
 
-                    <n-tag size="small" class="v-border small" v-for="tag in tags" :key="tag.en" checkable
-                        :checked="isTagChecked(tag)" @update:checked="toggleTag(tag)">
+                    <n-tag size="small" class="v-border small" :class="{ 'tab-click': isNegativeTag(tag) }"
+                        v-for="tag in tags" :key="tag.en" checkable :checked="isTagChecked(tag)"
+                        @update:checked="toggleTag(tag, isNegativeMode)" @contextmenu.prevent
+                        @mouseup.right="toggleTag(tag, !isNegativeMode)">
                         <div style="font-weight: bold; font-size: 12px;"> {{ tag.en }} </div>
                         <div style="font-size: 8px; margin-top:3px;"> {{ tag.zh }} </div>
                     </n-tag>
@@ -111,6 +126,7 @@ import {
     Eye,
     Run,
     FaceId,
+    Recycle,
 } from "@vicons/tabler";
 
 import {
@@ -218,6 +234,11 @@ const menuOptions = [
         key: "NSFW",
         icon: renderIcon(GrinHearts),
     },
+    {
+        label: "负面词",
+        key: "negative",
+        icon: renderIcon(Recycle),
+    }
 ];
 
 // 屏幕宽度
@@ -228,6 +249,8 @@ const windowWidth = ref(window.innerWidth)
 const getWindowResize = function () {
     windowWidth.value = window.innerWidth
 }
+
+
 
 
 
@@ -258,7 +281,7 @@ export default defineComponent({
 
 
         const currentCategory = ref('start');
-        const { isNSFW, toggleTag, isTagChecked, addTag } = useTagStore();
+        const { isNSFW, isNegativeMode, toggleTag, isTagChecked, addTag, isNegativeTag } = useTagStore();
 
         const currentTags = computed(() => {
             const normalTags = typedTagDB[currentCategory.value]?.normal || {};
@@ -291,6 +314,10 @@ export default defineComponent({
             currentCategory.value = key;
         };
 
+
+
+
+
         return {
             menuOptions,
             currentCategory,
@@ -301,7 +328,9 @@ export default defineComponent({
             isTagChecked,
             toggleTag,
             handleMenuSelect,
-            addOwnPrompt
+            addOwnPrompt,
+            isNegativeTag,
+            isNegativeMode
         };
     }
 });
@@ -354,5 +383,11 @@ export default defineComponent({
 
 .small {
     padding: 15px 5px;
+}
+
+.n-tag--checked.tab-click {
+    background-color: #c0392b;
+    border: 1px solid #c0392b;
+    color: white;
 }
 </style>

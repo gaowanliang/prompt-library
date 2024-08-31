@@ -15,6 +15,7 @@ import shoes from "./json/shoes.json";
 import start from "./json/start.json";
 import socks from "./json/socks.json";
 import style from "./json/style.json";
+import negative from "./json/negative.json";
 
 import type { Tag, TagDB } from "../types";
 
@@ -34,7 +35,8 @@ const tagDB: TagDB = {
     shoes,
     start,
     socks,
-    style
+    style,
+    negative,
 };
 
 let allTags: Tag[] = [];
@@ -43,6 +45,11 @@ let allTagsWithR18: Tag[] = [];
 // Iterate over each category in the tagDB
 for (const category in tagDB) {
     const categoryTags = tagDB[category];
+    
+    // skip negative tags
+    if (category === "negative") {
+        continue;
+    }
 
     // If there are normal tags, add them to the array
     if (categoryTags.normal) {
