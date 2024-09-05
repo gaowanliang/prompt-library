@@ -2,7 +2,7 @@
     <n-card class="card">
         <div style="display: flex; justify-content: space-between; align-items: center;">
             <n-gradient-text size="24" style="margin-bottom: 10px; display: inline-block; font-weight: bold;"> 自选菜区
-                <n-gradient-text size="10" style="display: inline-block;"> 共3667词
+                <n-gradient-text size="10" style="display: inline-block;"> 共{{ allTagCount }}词 (含{{ allNegativeTagCount }}个负面词)
                 </n-gradient-text>
             </n-gradient-text>
             <n-switch v-model:value="isNSFW" size="medium" style="display: inline-block;">
@@ -32,10 +32,10 @@
         <div style="display: flex; justify-content: end; margin: 10px 0;">
             <n-switch v-model:value="isNegativeMode" size="medium" style="display: inline-block; ">
                 <template #checked>
-                    切换反向词模式
+                    点击选择正向词
                 </template>
                 <template #unchecked>
-                    切换正向词模式
+                    点击选择反向词
                 </template>
             </n-switch>
         </div>
@@ -55,8 +55,9 @@
                                 'default' ? title : '' }}
                             </n-gradient-text>
 
-                            <n-tag class="v-border" :class="{ 'tab-click': isNegativeTag(tag) }" v-for="tag in tags"
-                                :key="tag.en" checkable :checked="isTagChecked(tag)"
+                            <n-tag class="v-border"
+                                :class="{ 'tab-click': isNegativeTag(tag), 'red': isNegativeMode, 'tab-click-positive': !isNegativeTag(tag) }"
+                                v-for="tag in tags" :key="tag.en" checkable :checked="isTagChecked(tag)"
                                 @update:checked="toggleTag(tag, isNegativeMode)" @contextmenu.prevent
                                 @mouseup.right="toggleTag(tag, !isNegativeMode)">
                                 <div style="font-weight: bold;"> {{ tag.en }} </div>
@@ -79,7 +80,8 @@
                         title : '' }}
                     </n-gradient-text>
 
-                    <n-tag size="small" class="v-border small" :class="{ 'tab-click': isNegativeTag(tag) }"
+                    <n-tag size="small" class="v-border small"
+                        :class="{ 'tab-click': isNegativeTag(tag), 'red': isNegativeMode, 'tab-click-positive': !isNegativeTag(tag) }"
                         v-for="tag in tags" :key="tag.en" checkable :checked="isTagChecked(tag)"
                         @update:checked="toggleTag(tag, isNegativeMode)" @contextmenu.prevent
                         @mouseup.right="toggleTag(tag, !isNegativeMode)">
@@ -100,6 +102,8 @@ import type { Component } from 'vue'
 import type { TagDB } from '../types';
 
 import tagDB from '../content/jsonReader';
+
+import { allTagCount, allNegativeTagCount } from '../content/jsonReader';
 
 const typedTagDB = tagDB as TagDB;
 
@@ -330,7 +334,9 @@ export default defineComponent({
             handleMenuSelect,
             addOwnPrompt,
             isNegativeTag,
-            isNegativeMode
+            isNegativeMode,
+            allTagCount,
+            allNegativeTagCount
         };
     }
 });
@@ -381,7 +387,12 @@ export default defineComponent({
     margin: 5px;
 }
 
-.small {
+.v-border.red {
+    border: 1px solid #c0392b;
+}
+
+
+.v-border.small {
     padding: 15px 5px;
 }
 
@@ -389,5 +400,9 @@ export default defineComponent({
     background-color: #c0392b;
     border: 1px solid #c0392b;
     color: white;
+}
+
+.n-tag--checked.tab-click-positive {
+    border: 1px solid var(--n-color-checked);
 }
 </style>
